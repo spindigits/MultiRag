@@ -1,0 +1,142 @@
+{
+  "chunk-a9182e1d276ba49ac67c3295c10b4f86": {
+    "tokens": 600,
+    "content": "id_client,nom,prenom,email,telephone,ville,region,code_postal,segment,date_inscription,fidélité_points\nC001,Dupont,Marie,marie.dupont@gmail.com,06.12.34.56.78,Montpellier,Occitanie,34000,Particulier,2022-03-15,1240\nC002,Martin,Jean-Paul,jp.martin@orange.fr,06.23.45.67.89,Toulouse,Occitanie,31000,Particulier,2021-07-22,3870\nC003,Lefevre,Sophie,slefevre@entreprise.fr,04.67.89.01.23,Nîmes,Occitanie,30000,Professionnel,2020-01-10,8920\nC004,Bernard,Alain,a.bernard@hotmail.com,06.34.56.78.90,Perpignan,Occitanie,66000,Particulier,2023-05-03,540\nC005,Rousseau,Claire,c.rousseau@gmail.com,06.45.67.89.01,Béziers,Occitanie,34500,Particulier,2022-11-18,2100\nC006,Petit,Thomas,t.petit@yahoo.fr,06.56.78.90.12,Carcassonne,Occitanie,11000,Professionnel,2019-09-05,12450\nC007,Moreau,Isabelle,i.moreau@gmail.com,06.67.89.01.23,Sète,Occitanie,34200,Particulier,2023-01-27,890\nC008,Garcia,Pedro,p.garcia@orange.fr,06.78.90.12.34,Barcelone-sur-Mer,Occitanie,11210,Particulier,2021-04-14,1670\nC009,Lambert,Christine,c.lambert@sfr.fr,06.89.01.23.45,Alès,Occitanie,30100,Professionnel,2020-06-30,6340\nC010,Durand,Michel,m.durand@gmail.com,06.90.12.34.56,Montpellier,Occitanie,34090,Particulier,2022-08-09,3210\nC011,Simon,Nathalie,n.simon@orange.fr,04.68.12.34.56,Perpignan,Occitanie,66100,Professionnel,2018-12-01,18700\nC012,Laurent,François,f.laurent@gmail.com,06.11.22.33.44,Lunel,Occitanie,34400,",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-d1ac900ce4736af9076206042dc55342",
+    "file_path": "clients.csv",
+    "llm_cache_list": [
+      "default:extract:843071b1197c6b33bbccc8b108bd62a6",
+      "default:extract:5d33e4def9357f4750c9f2666b72ebf2"
+    ],
+    "create_time": 1772089539,
+    "update_time": 1772089725,
+    "_id": "chunk-a9182e1d276ba49ac67c3295c10b4f86"
+  },
+  "chunk-b69996768b09b308d485bb643b5f7953": {
+    "tokens": 62,
+    "content": "00,Professionnel,2018-12-01,18700\nC012,Laurent,François,f.laurent@gmail.com,06.11.22.33.44,Lunel,Occitanie,34400,Particulier,2023-09-12,320",
+    "chunk_order_index": 1,
+    "full_doc_id": "doc-d1ac900ce4736af9076206042dc55342",
+    "file_path": "clients.csv",
+    "llm_cache_list": [
+      "default:extract:3f0585277ada487d38c3030c1699641a",
+      "default:extract:20416196cb427ae8f95b315ad7e5c55b"
+    ],
+    "create_time": 1772089539,
+    "update_time": 1772089738,
+    "_id": "chunk-b69996768b09b308d485bb643b5f7953"
+  },
+  "chunk-006729040656b98f73774bed81a42fb4": {
+    "tokens": 600,
+    "content": "=== HISTORIQUE DES ACHATS — JARDINERIE VERDE OCCITANIE ===\nPériode : janvier 2023 – février 2026\n\n--- COMMANDE #2301-001 ---\nClient : Dupont Marie (C001) — Montpellier\nDate : 12 janvier 2023\nProduits achetés :\n  - Terreau Bio Premium 40L (réf. TB-40) — qté 3 — 12,90€/u — fournisseur : NaturaCulture\n  - Engrais Tomates Bio 1kg (réf. ETB-1) — qté 2 — 8,50€/u — fournisseur : BioGreen Solutions\n  - Tuteurs bambou lot de 10 (réf. TUT-10) — qté 1 — 6,90€/u — fournisseur : EcoForest\nTotal commande : 64,60€\n\n--- COMMANDE #2301-002 ---\nClient : Martin Jean-Paul (C002) — Toulouse\nDate : 18 janvier 2023\nProduits achetés :\n  - Tondeuse électrique EcoMow 40cm (réf. TEC-40) — qté 1 — 189,00€/u — fournisseur : GreenTech Industries\n  - Câble prolongateur 25m (réf. CAB-25) — qté 1 — 24,90€/u — fournisseur : ElecPro\n  - Gants jardinage taille L (réf. GAN-L) — qté 2 — 9,90€/u — fournisseur : SafeGarden\nTotal commande : 233,70€\n\n--- COMMANDE #2301-003 ---\nClient : Lefevre Sophie (C003) — Nîmes — COMPTE PROFESSIONNEL\nDate : 25 janvier 2023\nProduits achetés :\n  - Terreau Bio Premium 40L (réf. TB-40) — qté 20 — 11,50€/u (tarif pro) — fournisseur : NaturaCulture\n  - Engrais Universel Bio 5kg (réf. EUB-5) — qté 10 — 18,90€/u — fournisseur : BioGreen Solutions\n  - Semences tomates anciennes lot 5 variétés (réf. SEM-TOM) — qté 5 — 7,50€/u — fournisseur : GrainVivant\n  - Arrosoir 10L inox (réf. ARR-10) — qté 3 — 34,90€/u — fournisseur : JardinEquip\nTotal commande : 563,20€\n\n--- COMMANDE #2302-001 ---\nClient : Bernard Alain (C004) — Perpignan\nDate : 3 février 2023\nProduits achetés :\n  - Rosier grimpant 'Pierre de Ronsard",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-fa56dfeb5c14e22a9b003b6323c39c16",
+    "file_path": "achats_produits.txt",
+    "llm_cache_list": [
+      "default:extract:303f65d286c02109ba0a2e058fde7909",
+      "default:extract:a3ec544ce15861ce7d48e9913edb25a6"
+    ],
+    "create_time": 1772089817,
+    "update_time": 1772089849,
+    "_id": "chunk-006729040656b98f73774bed81a42fb4"
+  },
+  "chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2": {
+    "tokens": 600,
+    "content": "COMMANDE #2302-001 ---\nClient : Bernard Alain (C004) — Perpignan\nDate : 3 février 2023\nProduits achetés :\n  - Rosier grimpant 'Pierre de Ronsard' (réf. ROS-PR) — qté 2 — 22,90€/u — fournisseur : FleurOccitanie\n  - Terreau Roses 20L (réf. TR-20) — qté 2 — 9,90€/u — fournisseur : NaturaCulture\n  - Engrais Roses Bio 800g (réf. ERB-8) — qté 1 — 11,90€/u — fournisseur : BioGreen Solutions\nTotal commande : 76,50€\n\n--- COMMANDE #2302-002 ---\nClient : Petit Thomas (C006) — Carcassonne — COMPTE PROFESSIONNEL\nDate : 14 février 2023\nProduits achetés :\n  - Débroussailleuse thermique ProForce 52cm3 (réf. DEB-52) — qté 2 — 349,00€/u — fournisseur : GreenTech Industries\n  - Casque anti-bruit protection (réf. CAS-PRO) — qté 2 — 45,90€/u — fournisseur : SafeGarden\n  - Huile moteur 2 temps 1L (réf. HUI-2T) — qté 5 — 8,90€/u — fournisseur : MotoLub\n  - Fil débroussailleuse 3mm x 50m (réf. FIL-3) — qté 4 — 19,90€/u — fournisseur : GreenTech Industries\nTotal commande : 922,40€\n\n--- COMMANDE #2303-001 ---\nClient : Rousseau Claire (C005) — Béziers\nDate : 2 mars 2023\nProduits achetés :\n  - Kit potager débutant Bio (réf. KIT-POT) — qté 1 — 49,90€/u — fournisseur : BioGreen Solutions\n  - Semences courgettes Bio (réf. SEM-COG) — qté 3 — 3,50€/u — fournisseur : GrainVivant\n  - Semences tomates cerises Bio (réf. SEM-TCB) — qté 3 — 3,90€/u — fournisseur : GrainVivant\n  - Terreau Bio Premium 40L (réf. TB-40) — qté 2 — 12,90€/u — fournisseur : NaturaCulture\nTotal commande : 102,50€\n\n--- COMMANDE #2303-002 ---\nClient : Lambert Christine (C009) — Alès — COMPTE PROFESSIONNEL\nDate : 15 mars 2023\nProduits achetés :",
+    "chunk_order_index": 1,
+    "full_doc_id": "doc-fa56dfeb5c14e22a9b003b6323c39c16",
+    "file_path": "achats_produits.txt",
+    "llm_cache_list": [
+      "default:extract:d20de8066a41cea7035f9e99a356de2a",
+      "default:extract:7f304054a8b3a9ddb0c7c50d8872adc0"
+    ],
+    "create_time": 1772089817,
+    "update_time": 1772089876,
+    "_id": "chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2"
+  },
+  "chunk-3f6ca165b48619e671c8079ed78f267a": {
+    "tokens": 600,
+    "content": ": 102,50€\n\n--- COMMANDE #2303-002 ---\nClient : Lambert Christine (C009) — Alès — COMPTE PROFESSIONNEL\nDate : 15 mars 2023\nProduits achetés :\n  - Système irrigation goutte-à-goutte 50 plantes (réf. IRR-50) — qté 3 — 89,90€/u — fournisseur : AquaGarden\n  - Programmateur arrosage 8 zones (réf. PROG-8) — qté 1 — 129,00€/u — fournisseur : AquaGarden\n  - Tuyau micro-irrigation 50m (réf. TUY-50) — qté 5 — 24,90€/u — fournisseur : AquaGarden\n  - Engrais Universel Bio 5kg (réf. EUB-5) — qté 8 — 18,90€/u — fournisseur : BioGreen Solutions\nTotal commande : 673,90€\n\n--- COMMANDE #2304-001 ---\nClient : Durand Michel (C010) — Montpellier\nDate : 8 avril 2023\nProduits achetés :\n  - Tondeuse électrique EcoMow 40cm (réf. TEC-40) — qté 1 — 189,00€/u — fournisseur : GreenTech Industries\n  - Terreau Gazon 25L (réf. TG-25) — qté 4 — 8,90€/u — fournisseur : NaturaCulture\n  - Engrais Gazon Bio 3kg (réf. EGB-3) — qté 2 — 14,90€/u — fournisseur : BioGreen Solutions\nTotal commande : 254,40€\n\n--- COMMANDE #2304-002 ---\nClient : Simon Nathalie (C011) — Perpignan — COMPTE PROFESSIONNEL\nDate : 22 avril 2023\nProduits achetés :\n  - Serre tunnel 6x3m (réf. SER-6X3) — qté 2 — 289,00€/u — fournisseur : JardinEquip\n  - Film plastique serre 6x10m (réf. FIL-SER) — qté 4 — 45,90€/u — fournisseur : JardinEquip\n  - Terreau Semis Bio 20L (réf. TSB-20) — qté 30 — 7,90€/u — fournisseur : NaturaCulture\n  - Semences maraîchères professionnelles lot 20 (réf. SEM-MAR) — qté 10 — 24,90€/u — fournisseur : GrainVivant\nTotal commande : 1201,80€\n\n--- COMMANDE #2305-001 ---\nClient : Moreau Isabelle (C007) — Sète\nDate : 5 mai",
+    "chunk_order_index": 2,
+    "full_doc_id": "doc-fa56dfeb5c14e22a9b003b6323c39c16",
+    "file_path": "achats_produits.txt",
+    "llm_cache_list": [
+      "default:extract:1d65da12c6b092aefaff1de0a35418d5",
+      "default:extract:945480b92fd7304e1a6bcf70661ea15b"
+    ],
+    "create_time": 1772089817,
+    "update_time": 1772089920,
+    "_id": "chunk-3f6ca165b48619e671c8079ed78f267a"
+  },
+  "chunk-5840f80370d9cfa6b1882e31fe14f79f": {
+    "tokens": 493,
+    "content": "24,90€/u — fournisseur : GrainVivant\nTotal commande : 1201,80€\n\n--- COMMANDE #2305-001 ---\nClient : Moreau Isabelle (C007) — Sète\nDate : 5 mai 2023\nProduits achetés :\n  - Rosier buisson 'Bonica' (réf. ROS-BON) — qté 3 — 18,90€/u — fournisseur : FleurOccitanie\n  - Terreau Roses 20L (réf. TR-20) — qté 3 — 9,90€/u — fournisseur : NaturaCulture\n  - Engrais Roses Bio 800g (réf. ERB-8) — qté 2 — 11,90€/u — fournisseur : BioGreen Solutions\n  - Semences gazon ombre 500g (réf. GAZ-OM) — qté 1 — 12,90€/u — fournisseur : GrainVivant\nTotal commande : 134,50€\n\n--- COMMANDE #2306-001 ---\nClient : Garcia Pedro (C008) — Barcelone-sur-Mer\nDate : 18 juin 2023\nProduits achetés :\n  - Kit potager débutant Bio (réf. KIT-POT) — qté 1 — 49,90€/u — fournisseur : BioGreen Solutions\n  - Arrosoir 10L inox (réf. ARR-10) — qté 1 — 34,90€/u — fournisseur : JardinEquip\n  - Terreau Bio Premium 40L (réf. TB-40) — qté 1 — 12,90€/u — fournisseur : NaturaCulture\nTotal commande : 97,70€\n\n--- COMMANDE #2308-001 ---\nClient : Laurent François (C012) — Lunel\nDate : 3 août 2023\nProduits achetés :\n  - Semences tomates anciennes lot 5 variétés (réf. SEM-TOM) — qté 2 — 7,50€/u — fournisseur : GrainVivant\n  - Terreau Bio Premium 40L (réf. TB-40) — qté 1 — 12,90€/u — fournisseur : NaturaCulture\nTotal commande : 27,90€\n\n=== FIN HISTORIQUE ===",
+    "chunk_order_index": 3,
+    "full_doc_id": "doc-fa56dfeb5c14e22a9b003b6323c39c16",
+    "file_path": "achats_produits.txt",
+    "llm_cache_list": [
+      "default:extract:4de94d9dc2424df646dd89ee07698f92",
+      "default:extract:15593300fc1c030a199a9a866ff897e1"
+    ],
+    "create_time": 1772089817,
+    "update_time": 1772089945,
+    "_id": "chunk-5840f80370d9cfa6b1882e31fe14f79f"
+  },
+  "chunk-f80c3b7b18652d381631bdeda4b50e51": {
+    "tokens": 600,
+    "content": "=== RÉFÉRENTIEL FOURNISSEURS — JARDINERIE VERDE OCCITANIE ===\nDocument interne — Mis à jour : janvier 2026\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nFOURNISSEUR : NaturaCulture\nSiège : Montpellier (34)\nContact commercial : Éric Vidal — e.vidal@naturaculture.fr\nSpécialité : Terreaux et substrats horticoles\nGamme principale : Terreau Bio Premium, Terreau Roses, Terreau Gazon, Terreau Semis Bio\nCertifications :\n  - AB (Agriculture Biologique) — n° FR-BIO-01 — valide jusqu'à déc. 2026\n  - Ecocert — certifié depuis 2015\n  - ISO 14001 (management environnemental) — depuis 2019\nDélai livraison : 48h\nConditions paiement : 30 jours fin de mois\nNote qualité interne : 9.2/10\nCommentaire : Fournisseur historique, aucun incident depuis 6 ans. Priorité 1 pour les terreaux.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nFOURNISSEUR : BioGreen Solutions\nSiège : Toulouse (31)\nContact commercial : Laure Manceau — l.manceau@biogreen.fr\nSpécialité : Engrais biologiques et phytosanitaires naturels\nGamme principale : Engrais Tomates Bio, Engrais Universel Bio, Engrais Roses Bio, Engrais Gazon Bio, Kit potager débutant Bio\nCertifications :\n  - AB (Agriculture Biologique) — n° FR-BIO-07 — valide jusqu'à mars 2027\n  - Ecocert — certifié depuis 2012\n  - NF Environnement — depuis 2018\n  - OMRI Listed (marché US) — depuis 2021\nDélai livraison : 72h\nConditions paiement : 45 jours fin de mois\nNote qualité interne : 8.8/10\nCommentaire : Meilleure gamme engrais bio du marché. Légèrement plus lent que NaturaCulture.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nFOURNISSEUR : GrainVivant\nSiège : Albi (81)\nContact commercial : Paul Ségur — p.segur@grainvivant.coop\nSpécialité : Semences paysannes et maraîchères biologiques\nGamme principale : Semences tomates anciennes, Semences courgettes Bio, Semences tomates cerises Bio, Semences gazon ombre, Semences maraîchères professionnelles\nCertifications :\n  - AB (Agriculture Biologique) — n° FR-BIO-12 — valide jusqu'à juin 2026\n  - Demeter (biodynamique) — certifié depuis 2017\n  - Réseau Semences Paysannes — membre actif",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-b1d04d6c24d6dfe4be7d2a793b0df103",
+    "file_path": "fournisseurs_certifications.txt",
+    "llm_cache_list": [
+      "default:extract:0a040650a717df194f02577a4c936b9a",
+      "default:extract:0051a71e513500d1e849b152513b1995"
+    ],
+    "create_time": 1772089946,
+    "update_time": 1772089975,
+    "_id": "chunk-f80c3b7b18652d381631bdeda4b50e51"
+  },
+  "chunk-8434a117d90418935fb7b78aa34e9666": {
+    "tokens": 600,
+    "content": "iculture Biologique) — n° FR-BIO-12 — valide jusqu'à juin 2026\n  - Demeter (biodynamique) — certifié depuis 2017\n  - Réseau Semences Paysannes — membre actif depuis 2010\nDélai livraison : 5 jours ouvrés\nConditions paiement : 30 jours\nNote qualité interne : 9.5/10\nCommentaire : Coopérative exemplaire. Taux de germination exceptionnel. Seul fournisseur avec certification Demeter.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nFOURNISSEUR : GreenTech Industries\nSiège : Lyon (69)\nContact commercial : Rémi Bouchard — r.bouchard@greentech-ind.fr\nSpécialité : Outillage électrique et thermique de jardinage\nGamme principale : Tondeuse électrique EcoMow, Débroussailleuse thermique ProForce, Fil débroussailleuse\nCertifications :\n  - CE (conformité européenne) — obligatoire\n  - GS (Geprüfte Sicherheit) — sécurité vérifiée\n  - NF (norme française) — depuis 2016\nDélai livraison : 5 jours ouvrés\nConditions paiement : 60 jours fin de mois\nNote qualité interne : 8.1/10\nCommentaire : SAV réactif. Pas de certification environnementale — point faible à surveiller.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nFOURNISSEUR : JardinEquip\nSiège : Nîmes (30)\nContact commercial : Marc Tissot — m.tissot@jardinequip.fr\nSpécialité : Équipements et structures de jardinage\nGamme principale : Arrosoir 10L inox, Serre tunnel, Film plastique serre\nCertifications :\n  - ISO 9001 (qualité) — depuis 2014\n  - CE (conformité européenne)\nDélai livraison : 72h (stock local Nîmes)\nConditions paiement : 30 jours\nNote qualité interne : 7.9/10\nCommentaire : Proximité géographique utile. Gamme serre en expansion.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nFOURNISSEUR : AquaGarden\nSiège : Montpellier (34)\nContact commercial : Hélène Roux — h.roux@aquagarden.fr\nSpécialité : Systèmes d'irrigation et arrosage automatique\nGamme principale : Système irrigation goutte-à-goutte, Programmateur arrosage, Tuyau micro-irrigation\nCertifications :\n  - ISO 9001 (qualité) — depuis 2017\n  - Water Efficiency Label (WEL) — certification efficacité eau — depuis 2020\n  - NF Arrosage — depuis 2018\nDélai livraison : 48h\nConditions paiement : 30 jours",
+    "chunk_order_index": 1,
+    "full_doc_id": "doc-b1d04d6c24d6dfe4be7d2a793b0df103",
+    "file_path": "fournisseurs_certifications.txt",
+    "llm_cache_list": [
+      "default:extract:12954fd134ce3df323e852f55f69b9b6",
+      "default:extract:16551d2983081066c68ed2880b25b0dd"
+    ],
+    "create_time": 1772089946,
+    "update_time": 1772089997,
+    "_id": "chunk-8434a117d90418935fb7b78aa34e9666"
+  },
+  "chunk-d0679196066b65302ba7e4d2cf604091": {
+    "tokens": 600,
+    "content": "2017\n  - Water Efficiency Label (WEL) — certification efficacité eau — depuis 2020\n  - NF Arrosage — depuis 2018\nDélai livraison : 48h\nConditions paiement : 30 jours\nNote qualité interne : 8.5/10\nCommentaire : Spécialiste irrigation, indispensable pour les clients professionnels paysagistes.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nFOURNISSEUR : FleurOccitanie\nSiège : Perpignan (66)\nContact commercial : Ana Castillo — a.castillo@fleuroccitanie.fr\nSpécialité : Plantes vivaces, rosiers, arbustes ornementaux\nGamme principale : Rosier grimpant Pierre de Ronsard, Rosier buisson Bonica\nCertifications :\n  - Florimark (qualité florale européenne) — depuis 2013\n  - Zéro Résidu de Pesticides (ZRP) — depuis 2022\nDélai livraison : 3 jours (plantes vivantes — livraison sous conditions météo)\nConditions paiement : 30 jours\nNote qualité interne : 8.7/10\nCommentaire : Seul fournisseur local ZRP pour les plantes ornementales. Fort argument commercial.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nFOURNISSEUR : SafeGarden\nSiège : Bordeaux (33)\nContact commercial : Denis Faure — d.faure@safegarden.fr\nSpécialité : Équipements de protection individuelle jardinage/espaces verts\nGamme principale : Gants jardinage, Casque anti-bruit protection\nCertifications :\n  - EN 388 (gants protection mécanique)\n  - EN ISO 4869 (protection auditive)\n  - CE catégorie III (protection haute)\nDélai livraison : 48h\nConditions paiement : 30 jours\nNote qualité interne : 8.3/10\nCommentaire : Certifications sécurité obligatoires à jour. Bon rapport qualité/prix.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nFOURNISSEUR : EcoForest\nSiège : Cévennes (30)\nContact commercial : Julien Prades — j.prades@ecoforest.fr\nSpécialité : Produits naturels et accessoires éco-responsables\nGamme principale : Tuteurs bambou, Paillage naturel, Filets anti-insectes\nCertifications :\n  - FSC (gestion forestière responsable) — depuis 2016\n  - AB (Agriculture Biologique) — produits éligibles — n° FR-BIO-33\nDélai livraison : 72h\nConditions paiement : 30 jours\nNote qualité interne : 8.0/10\nCommentaire : Bambous issus de forêts certifiées FSC. Bonne image pour la clientèle sensible à l'environnement.\n\n=== FIN RÉFÉRENTIEL FOURNISSE",
+    "chunk_order_index": 2,
+    "full_doc_id": "doc-b1d04d6c24d6dfe4be7d2a793b0df103",
+    "file_path": "fournisseurs_certifications.txt",
+    "llm_cache_list": [
+      "default:extract:bed9e12576cda404ae3729fc53e1c2dd",
+      "default:extract:beeae0712152e02bbdcd5c12aedb7cf7"
+    ],
+    "create_time": 1772089946,
+    "update_time": 1772090025,
+    "_id": "chunk-d0679196066b65302ba7e4d2cf604091"
+  },
+  "chunk-8587ff3d505a48ce0efb049a438e0a51": {
+    "tokens": 52,
+    "content": "30 jours\nNote qualité interne : 8.0/10\nCommentaire : Bambous issus de forêts certifiées FSC. Bonne image pour la clientèle sensible à l'environnement.\n\n=== FIN RÉFÉRENTIEL FOURNISSEURS ===",
+    "chunk_order_index": 3,
+    "full_doc_id": "doc-b1d04d6c24d6dfe4be7d2a793b0df103",
+    "file_path": "fournisseurs_certifications.txt",
+    "llm_cache_list": [
+      "default:extract:8fe84011733a5b9ea6501300af66a41c",
+      "default:extract:bb7775fda11179253c80f2fafec28e2e"
+    ],
+    "create_time": 1772089946,
+    "update_time": 1772090037,
+    "_id": "chunk-8587ff3d505a48ce0efb049a438e0a51"
+  }
+}

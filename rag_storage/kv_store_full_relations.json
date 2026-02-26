@@ -1,0 +1,62 @@
+{
+  "doc-d1ac900ce4736af9076206042dc55342": {
+    "relation_pairs": [
+      [
+        "Noah Carter",
+        "World Athletics Federation"
+      ],
+      [
+        "100m Sprint Record",
+        "World Athletics Federation"
+      ],
+      [
+        "World Athletics Championship",
+        "World Athletics Federation"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1772089738,
+    "update_time": 1772089738,
+    "_id": "doc-d1ac900ce4736af9076206042dc55342"
+  },
+  "doc-fa56dfeb5c14e22a9b003b6323c39c16": {
+    "relation_pairs": [
+      [
+        "100m Sprint Record",
+        "World Athletics Federation"
+      ],
+      [
+        "World Athletics Championship",
+        "World Athletics Federation"
+      ],
+      [
+        "Noah Carter",
+        "World Athletics Federation"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1772089946,
+    "update_time": 1772089946,
+    "_id": "doc-fa56dfeb5c14e22a9b003b6323c39c16"
+  },
+  "doc-b1d04d6c24d6dfe4be7d2a793b0df103": {
+    "relation_pairs": [
+      [
+        "Noah Carter",
+        "World Athletics Federation"
+      ],
+      [
+        "Noah Carter",
+        "World Athletics Championship"
+      ],
+      [
+        "World Athletics Championship",
+        "World Athletics Federation"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1772090037,
+    "update_time": 1772090037,
+    "_id": "doc-b1d04d6c24d6dfe4be7d2a793b0df103"
+  }
+}

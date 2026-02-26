@@ -1,0 +1,117 @@
+=== HISTORIQUE DES ACHATS — JARDINERIE VERDE OCCITANIE ===
+Période : janvier 2023 – février 2026
+
+--- COMMANDE #2301-001 ---
+Client : Dupont Marie (C001) — Montpellier
+Date : 12 janvier 2023
+Produits achetés :
+  - Terreau Bio Premium 40L (réf. TB-40) — qté 3 — 12,90€/u — fournisseur : NaturaCulture
+  - Engrais Tomates Bio 1kg (réf. ETB-1) — qté 2 — 8,50€/u — fournisseur : BioGreen Solutions
+  - Tuteurs bambou lot de 10 (réf. TUT-10) — qté 1 — 6,90€/u — fournisseur : EcoForest
+Total commande : 64,60€
+
+--- COMMANDE #2301-002 ---
+Client : Martin Jean-Paul (C002) — Toulouse
+Date : 18 janvier 2023
+Produits achetés :
+  - Tondeuse électrique EcoMow 40cm (réf. TEC-40) — qté 1 — 189,00€/u — fournisseur : GreenTech Industries
+  - Câble prolongateur 25m (réf. CAB-25) — qté 1 — 24,90€/u — fournisseur : ElecPro
+  - Gants jardinage taille L (réf. GAN-L) — qté 2 — 9,90€/u — fournisseur : SafeGarden
+Total commande : 233,70€
+
+--- COMMANDE #2301-003 ---
+Client : Lefevre Sophie (C003) — Nîmes — COMPTE PROFESSIONNEL
+Date : 25 janvier 2023
+Produits achetés :
+  - Terreau Bio Premium 40L (réf. TB-40) — qté 20 — 11,50€/u (tarif pro) — fournisseur : NaturaCulture
+  - Engrais Universel Bio 5kg (réf. EUB-5) — qté 10 — 18,90€/u — fournisseur : BioGreen Solutions
+  - Semences tomates anciennes lot 5 variétés (réf. SEM-TOM) — qté 5 — 7,50€/u — fournisseur : GrainVivant
+  - Arrosoir 10L inox (réf. ARR-10) — qté 3 — 34,90€/u — fournisseur : JardinEquip
+Total commande : 563,20€
+
+--- COMMANDE #2302-001 ---
+Client : Bernard Alain (C004) — Perpignan
+Date : 3 février 2023
+Produits achetés :
+  - Rosier grimpant 'Pierre de Ronsard' (réf. ROS-PR) — qté 2 — 22,90€/u — fournisseur : FleurOccitanie
+  - Terreau Roses 20L (réf. TR-20) — qté 2 — 9,90€/u — fournisseur : NaturaCulture
+  - Engrais Roses Bio 800g (réf. ERB-8) — qté 1 — 11,90€/u — fournisseur : BioGreen Solutions
+Total commande : 76,50€
+
+--- COMMANDE #2302-002 ---
+Client : Petit Thomas (C006) — Carcassonne — COMPTE PROFESSIONNEL
+Date : 14 février 2023
+Produits achetés :
+  - Débroussailleuse thermique ProForce 52cm3 (réf. DEB-52) — qté 2 — 349,00€/u — fournisseur : GreenTech Industries
+  - Casque anti-bruit protection (réf. CAS-PRO) — qté 2 — 45,90€/u — fournisseur : SafeGarden
+  - Huile moteur 2 temps 1L (réf. HUI-2T) — qté 5 — 8,90€/u — fournisseur : MotoLub
+  - Fil débroussailleuse 3mm x 50m (réf. FIL-3) — qté 4 — 19,90€/u — fournisseur : GreenTech Industries
+Total commande : 922,40€
+
+--- COMMANDE #2303-001 ---
+Client : Rousseau Claire (C005) — Béziers
+Date : 2 mars 2023
+Produits achetés :
+  - Kit potager débutant Bio (réf. KIT-POT) — qté 1 — 49,90€/u — fournisseur : BioGreen Solutions
+  - Semences courgettes Bio (réf. SEM-COG) — qté 3 — 3,50€/u — fournisseur : GrainVivant
+  - Semences tomates cerises Bio (réf. SEM-TCB) — qté 3 — 3,90€/u — fournisseur : GrainVivant
+  - Terreau Bio Premium 40L (réf. TB-40) — qté 2 — 12,90€/u — fournisseur : NaturaCulture
+Total commande : 102,50€
+
+--- COMMANDE #2303-002 ---
+Client : Lambert Christine (C009) — Alès — COMPTE PROFESSIONNEL
+Date : 15 mars 2023
+Produits achetés :
+  - Système irrigation goutte-à-goutte 50 plantes (réf. IRR-50) — qté 3 — 89,90€/u — fournisseur : AquaGarden
+  - Programmateur arrosage 8 zones (réf. PROG-8) — qté 1 — 129,00€/u — fournisseur : AquaGarden
+  - Tuyau micro-irrigation 50m (réf. TUY-50) — qté 5 — 24,90€/u — fournisseur : AquaGarden
+  - Engrais Universel Bio 5kg (réf. EUB-5) — qté 8 — 18,90€/u — fournisseur : BioGreen Solutions
+Total commande : 673,90€
+
+--- COMMANDE #2304-001 ---
+Client : Durand Michel (C010) — Montpellier
+Date : 8 avril 2023
+Produits achetés :
+  - Tondeuse électrique EcoMow 40cm (réf. TEC-40) — qté 1 — 189,00€/u — fournisseur : GreenTech Industries
+  - Terreau Gazon 25L (réf. TG-25) — qté 4 — 8,90€/u — fournisseur : NaturaCulture
+  - Engrais Gazon Bio 3kg (réf. EGB-3) — qté 2 — 14,90€/u — fournisseur : BioGreen Solutions
+Total commande : 254,40€
+
+--- COMMANDE #2304-002 ---
+Client : Simon Nathalie (C011) — Perpignan — COMPTE PROFESSIONNEL
+Date : 22 avril 2023
+Produits achetés :
+  - Serre tunnel 6x3m (réf. SER-6X3) — qté 2 — 289,00€/u — fournisseur : JardinEquip
+  - Film plastique serre 6x10m (réf. FIL-SER) — qté 4 — 45,90€/u — fournisseur : JardinEquip
+  - Terreau Semis Bio 20L (réf. TSB-20) — qté 30 — 7,90€/u — fournisseur : NaturaCulture
+  - Semences maraîchères professionnelles lot 20 (réf. SEM-MAR) — qté 10 — 24,90€/u — fournisseur : GrainVivant
+Total commande : 1201,80€
+
+--- COMMANDE #2305-001 ---
+Client : Moreau Isabelle (C007) — Sète
+Date : 5 mai 2023
+Produits achetés :
+  - Rosier buisson 'Bonica' (réf. ROS-BON) — qté 3 — 18,90€/u — fournisseur : FleurOccitanie
+  - Terreau Roses 20L (réf. TR-20) — qté 3 — 9,90€/u — fournisseur : NaturaCulture
+  - Engrais Roses Bio 800g (réf. ERB-8) — qté 2 — 11,90€/u — fournisseur : BioGreen Solutions
+  - Semences gazon ombre 500g (réf. GAZ-OM) — qté 1 — 12,90€/u — fournisseur : GrainVivant
+Total commande : 134,50€
+
+--- COMMANDE #2306-001 ---
+Client : Garcia Pedro (C008) — Barcelone-sur-Mer
+Date : 18 juin 2023
+Produits achetés :
+  - Kit potager débutant Bio (réf. KIT-POT) — qté 1 — 49,90€/u — fournisseur : BioGreen Solutions
+  - Arrosoir 10L inox (réf. ARR-10) — qté 1 — 34,90€/u — fournisseur : JardinEquip
+  - Terreau Bio Premium 40L (réf. TB-40) — qté 1 — 12,90€/u — fournisseur : NaturaCulture
+Total commande : 97,70€
+
+--- COMMANDE #2308-001 ---
+Client : Laurent François (C012) — Lunel
+Date : 3 août 2023
+Produits achetés :
+  - Semences tomates anciennes lot 5 variétés (réf. SEM-TOM) — qté 2 — 7,50€/u — fournisseur : GrainVivant
+  - Terreau Bio Premium 40L (réf. TB-40) — qté 1 — 12,90€/u — fournisseur : NaturaCulture
+Total commande : 27,90€
+
+=== FIN HISTORIQUE ===

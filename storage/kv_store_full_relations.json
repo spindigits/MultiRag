@@ -1,0 +1,210 @@
+{
+  "doc-4b0f796c959f32633eab1f294eb7625e": {
+    "relation_pairs": [
+      [
+        "Entire Network",
+        "Internet-Connected Agents"
+      ],
+      [
+        "AI Models",
+        "Entire Network"
+      ],
+      [
+        "Compromised Training Data",
+        "Internet-Connected Agents"
+      ],
+      [
+        "Compromised Training Data",
+        "Rui Wen"
+      ],
+      [
+        "GPT-4",
+        "Xiahoan Fu"
+      ],
+      [
+        "Birhanu Eshete",
+        "Michigan University"
+      ],
+      [
+        "Data Poisoning Attack",
+        "Deep Neural Network Model"
+      ],
+      [
+        "Internet-Connected Agents",
+        "Rui Wen"
+      ],
+      [
+        "Data Poisoning",
+        "Neil Armstrong"
+      ],
+      [
+        "Data Poisoning",
+        "Jailbreak"
+      ],
+      [
+        "Birhanu Eshete",
+        "Innovation in AI"
+      ],
+      [
+        "Microsoft 365 Copilot",
+        "Rishi Jha"
+      ],
+      [
+        "Cédric Aujac",
+        "Security Paradox"
+      ],
+      [
+        "Computational Opacity",
+        "Deep Neural Network Model"
+      ],
+      [
+        "Data Poisoning",
+        "Mithril Security"
+      ],
+      [
+        "Earlence Fernandes",
+        "Microsoft 365 Copilot"
+      ],
+      [
+        "ClawBot",
+        "ZomBots"
+      ],
+      [
+        "HiddenLayer",
+        "Xiahoan Fu"
+      ],
+      [
+        "CEA",
+        "Cédric Aujac"
+      ],
+      [
+        "COYO-700M",
+        "Singapourienne Team"
+      ],
+      [
+        "GPT-4",
+        "University of California, San Diego"
+      ],
+      [
+        "Classical Systems",
+        "Compromised Training Data"
+      ],
+      [
+        "Deep Neural Network Model",
+        "Traditional Security Methods"
+      ],
+      [
+        "Centre Helmholtz",
+        "Rui Wen"
+      ],
+      [
+        "Florian Tramer",
+        "Microsoft 365 Copilot"
+      ],
+      [
+        "AI Models",
+        "Compromised Training Data"
+      ],
+      [
+        "Data Poisoning",
+        "Yuri Gagarin"
+      ],
+      [
+        "Computational Opacity",
+        "Rui Wen"
+      ],
+      [
+        "Grandeur",
+        "Jailbreak"
+      ],
+      [
+        "Innovation in AI",
+        "Rui Wen"
+      ],
+      [
+        "Florian Tramèr",
+        "Swiss Federal Institute of Technology Zurich"
+      ],
+      [
+        "Data Poisoning Attack",
+        "Security Paradox"
+      ],
+      [
+        "AI Models",
+        "Classical Systems"
+      ],
+      [
+        "GPT-4",
+        "HiddenLayer"
+      ],
+      [
+        "Aim Security",
+        "Microsoft 365 Copilot"
+      ],
+      [
+        "COYO-700M",
+        "Data Poisoning"
+      ],
+      [
+        "Aim Security Demonstration",
+        "Florian Tramèr"
+      ]
+    ],
+    "count": 37,
+    "create_time": 1772083378,
+    "update_time": 1772083378,
+    "_id": "doc-4b0f796c959f32633eab1f294eb7625e"
+  },
+  "doc-23b7dec9dcc706b0e5695d939f1128d6": {
+    "relation_pairs": [
+      [
+        "NanoVectorDB",
+        "Neo4j"
+      ],
+      [
+        "LightRAG",
+        "SolarMax 3000"
+      ],
+      [
+        "mxbai-embed-large",
+        "text-embedding-3-large d'OpenAI"
+      ],
+      [
+        "nomic-embed-text",
+        "text-embedding-ada-002"
+      ],
+      [
+        "LightRAG",
+        "Mistral API"
+      ],
+      [
+        "LightRAG",
+        "qwen2.5:14b"
+      ],
+      [
+        "Mistral API",
+        "OpenAI"
+      ],
+      [
+        "Occitanie",
+        "hybrid"
+      ],
+      [
+        "local",
+        "naive"
+      ],
+      [
+        "LightRAG",
+        "Marc Dupont"
+      ],
+      [
+        "global",
+        "hybrid"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1772085819,
+    "update_time": 1772085819,
+    "_id": "doc-23b7dec9dcc706b0e5695d939f1128d6"
+  }
+}

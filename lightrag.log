@@ -1,0 +1,339 @@
+2026-02-26 08:04:27,654 - lightrag - INFO - Ollama LLM Options: {}
+2026-02-26 08:04:27,654 - lightrag - INFO - Ollama Embedding Options: {}
+2026-02-26 08:04:27,704 - lightrag - INFO - Embedding config: binding=ollama model=mxbai-embed-large embedding_dim=1024 max_token_size=8192
+2026-02-26 08:04:27,704 - lightrag - INFO - Send embedding dimension: False by env var (dimensions=1024, has_param=True, binding=ollama)
+2026-02-26 08:04:27,704 - lightrag - INFO - Embedding max_token_size: 8192 (from ollama provider default)
+2026-02-26 08:04:27,704 - lightrag - INFO - Reranking is disabled
+2026-02-26 08:04:27,937 - lightrag - INFO - [] Created new empty graph file: /home/mensaflow/Desktop/LightRAG/rag_storage/graph_chunk_entity_relation.graphml
+2026-02-26 08:04:28,040 - lightrag - INFO - WebUI assets mounted at /webui
+2026-02-26 08:04:28,053 - uvicorn.error - INFO - Started server process [273136]
+2026-02-26 08:04:28,053 - uvicorn.error - INFO - Waiting for application startup.
+2026-02-26 08:04:28,053 - lightrag - INFO - [] Process 273136 KV load full_docs with 0 records
+2026-02-26 08:04:28,054 - lightrag - INFO - [] Process 273136 KV load text_chunks with 0 records
+2026-02-26 08:04:28,054 - lightrag - INFO - [] Process 273136 KV load full_entities with 0 records
+2026-02-26 08:04:28,054 - lightrag - INFO - [] Process 273136 KV load full_relations with 0 records
+2026-02-26 08:04:28,054 - lightrag - INFO - [] Process 273136 KV load entity_chunks with 0 records
+2026-02-26 08:04:28,054 - lightrag - INFO - [] Process 273136 KV load relation_chunks with 0 records
+2026-02-26 08:04:28,054 - lightrag - INFO - [] Process 273136 KV load llm_response_cache with 0 records
+2026-02-26 08:04:28,054 - lightrag - INFO - [] Process 273136 doc status load doc_status with 0 records
+2026-02-26 08:04:28,054 - uvicorn.error - INFO - Application startup complete.
+2026-02-26 08:04:28,055 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:9621 (Press CTRL+C to quit)
+2026-02-26 08:04:35,272 - uvicorn.access - INFO - 127.0.0.1:48078 - "GET / HTTP/1.1" 307
+2026-02-26 08:04:35,282 - uvicorn.access - INFO - 127.0.0.1:48078 - "GET /webui HTTP/1.1" 307
+2026-02-26 08:04:35,315 - uvicorn.access - INFO - 127.0.0.1:48078 - "GET /webui/assets/index-8fiWFYnN.js HTTP/1.1" 200
+2026-02-26 08:04:35,315 - uvicorn.access - INFO - 127.0.0.1:48094 - "GET /webui/assets/index-DS3Wz1EX.css HTTP/1.1" 200
+2026-02-26 08:04:35,703 - uvicorn.access - INFO - 127.0.0.1:48094 - "GET /auth-status HTTP/1.1" 200
+2026-02-26 08:04:35,706 - uvicorn.access - INFO - 127.0.0.1:48094 - "GET /webui/favicon.png HTTP/1.1" 200
+2026-02-26 08:04:36,044 - uvicorn.access - INFO - 127.0.0.1:48094 - "GET /docs HTTP/1.1" 200
+2026-02-26 08:04:36,076 - uvicorn.access - INFO - 127.0.0.1:33252 - "GET /graph/label/popular?limit=300 HTTP/1.1" 200
+2026-02-26 08:04:36,077 - lightrag - INFO - [] Subgraph query successful | Node count: 0 | Edge count: 0
+2026-02-26 08:04:36,078 - uvicorn.access - INFO - 127.0.0.1:33266 - "GET /graphs?label=*&max_depth=3&max_nodes=1000 HTTP/1.1" 200
+2026-02-26 08:04:36,157 - uvicorn.access - INFO - 127.0.0.1:33266 - "GET /static/swagger-ui/swagger-ui-bundle.js HTTP/1.1" 200
+2026-02-26 08:04:36,157 - uvicorn.access - INFO - 127.0.0.1:48094 - "GET /static/swagger-ui/swagger-ui.css HTTP/1.1" 200
+2026-02-26 08:04:36,346 - uvicorn.access - INFO - 127.0.0.1:33266 - "GET /openapi.json HTTP/1.1" 200
+2026-02-26 08:04:36,439 - lightrag - INFO - [] Subgraph query successful | Node count: 0 | Edge count: 0
+2026-02-26 08:04:36,439 - uvicorn.access - INFO - 127.0.0.1:33266 - "GET /graphs?label=*&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 08:05:39,377 - uvicorn.access - INFO - 127.0.0.1:42704 - "POST /documents/upload HTTP/1.1" 200
+2026-02-26 08:05:39,379 - lightrag - INFO - Successfully extracted and enqueued file: clients.csv
+2026-02-26 08:05:39,379 - lightrag - INFO - Processing 1 document(s)
+2026-02-26 08:05:39,379 - lightrag - INFO - Extracting stage 1/1: clients.csv
+2026-02-26 08:05:39,379 - lightrag - INFO - Processing d-id: doc-d1ac900ce4736af9076206042dc55342
+2026-02-26 08:05:39,386 - lightrag - INFO - Embedding func: 2 new workers initialized (Timeouts: Func: 30s, Worker: 60s, Health Check: 75s)
+2026-02-26 08:05:40,358 - lightrag - INFO - LLM func: 1 new workers initialized (Timeouts: Func: 900s, Worker: 1800s, Health Check: 1815s)
+2026-02-26 08:08:39,959 - lightrag - INFO -  == LLM cache == saving: default:extract:843071b1197c6b33bbccc8b108bd62a6
+2026-02-26 08:08:39,959 - lightrag - WARNING - chunk-a9182e1d276ba49ac67c3295c10b4f86: Complete delimiter can not be found in extraction result
+2026-02-26 08:08:45,873 - lightrag - INFO -  == LLM cache == saving: default:extract:5d33e4def9357f4750c9f2666b72ebf2
+2026-02-26 08:08:45,880 - lightrag - INFO - Chunk 1 of 2 extracted 1 Ent + 1 Rel chunk-a9182e1d276ba49ac67c3295c10b4f86
+2026-02-26 08:08:49,851 - lightrag - INFO -  == LLM cache == saving: default:extract:3f0585277ada487d38c3030c1699641a
+2026-02-26 08:08:58,251 - lightrag - INFO -  == LLM cache == saving: default:extract:20416196cb427ae8f95b315ad7e5c55b
+2026-02-26 08:08:58,253 - lightrag - INFO - Chunk 2 of 2 extracted 2 Ent + 2 Rel chunk-b69996768b09b308d485bb643b5f7953
+2026-02-26 08:08:58,254 - lightrag - INFO - Merging stage 1/1: clients.csv
+2026-02-26 08:08:58,254 - lightrag - INFO - Phase 1: Processing 2 entities from doc-d1ac900ce4736af9076206042dc55342 (async: 2)
+2026-02-26 08:08:58,347 - lightrag - INFO - Phase 2: Processing 3 relations from doc-d1ac900ce4736af9076206042dc55342 (async: 2)
+2026-02-26 08:08:58,534 - lightrag - INFO - Chunks appended from relation: `World Athletics Federation`
+2026-02-26 08:08:58,621 - lightrag - INFO - Phase 3: Updating final 5(2+3) entities and  3 relations from doc-d1ac900ce4736af9076206042dc55342
+2026-02-26 08:08:58,621 - lightrag - INFO - Completed merging: 2 entities, 3 extra entities, 3 relations
+2026-02-26 08:08:58,623 - lightrag - INFO - [] Writing graph with 5 nodes, 3 edges
+2026-02-26 08:08:58,628 - lightrag - INFO - In memory DB persist to disk
+2026-02-26 08:08:58,628 - lightrag - INFO - Completed processing file 1/1: clients.csv
+2026-02-26 08:08:58,628 - lightrag - INFO - Enqueued document processing pipeline stopped
+2026-02-26 08:10:17,014 - uvicorn.access - INFO - 127.0.0.1:60402 - "POST /documents/upload HTTP/1.1" 200
+2026-02-26 08:10:17,018 - lightrag - INFO - Successfully extracted and enqueued file: achats_produits.txt
+2026-02-26 08:10:17,019 - lightrag - INFO - Processing 1 document(s)
+2026-02-26 08:10:17,019 - lightrag - INFO - Extracting stage 1/1: achats_produits.txt
+2026-02-26 08:10:17,019 - lightrag - INFO - Processing d-id: doc-fa56dfeb5c14e22a9b003b6323c39c16
+2026-02-26 08:10:26,646 - uvicorn.access - INFO - 127.0.0.1:60412 - "POST /documents/upload HTTP/1.1" 200
+2026-02-26 08:10:26,649 - lightrag - INFO - Successfully extracted and enqueued file: fournisseurs_certifications.txt
+2026-02-26 08:10:26,649 - lightrag - INFO - Another process is already processing the document queue. Request queued.
+2026-02-26 08:10:42,528 - lightrag - INFO -  == LLM cache == saving: default:extract:303f65d286c02109ba0a2e058fde7909
+2026-02-26 08:10:49,439 - lightrag - INFO -  == LLM cache == saving: default:extract:a3ec544ce15861ce7d48e9913edb25a6
+2026-02-26 08:10:49,440 - lightrag - INFO - Chunk 1 of 4 extracted 1 Ent + 2 Rel chunk-006729040656b98f73774bed81a42fb4
+2026-02-26 08:11:11,071 - lightrag - INFO -  == LLM cache == saving: default:extract:d20de8066a41cea7035f9e99a356de2a
+2026-02-26 08:11:16,483 - lightrag - INFO -  == LLM cache == saving: default:extract:7f304054a8b3a9ddb0c7c50d8872adc0
+2026-02-26 08:11:16,484 - lightrag - INFO - Chunk 2 of 4 extracted 1 Ent + 1 Rel chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2
+2026-02-26 08:11:51,269 - lightrag - INFO -  == LLM cache == saving: default:extract:1d65da12c6b092aefaff1de0a35418d5
+2026-02-26 08:12:00,206 - lightrag - INFO -  == LLM cache == saving: default:extract:945480b92fd7304e1a6bcf70661ea15b
+2026-02-26 08:12:00,207 - lightrag - INFO - Chunk 3 of 4 extracted 2 Ent + 2 Rel chunk-3f6ca165b48619e671c8079ed78f267a
+2026-02-26 08:12:19,082 - lightrag - INFO -  == LLM cache == saving: default:extract:4de94d9dc2424df646dd89ee07698f92
+2026-02-26 08:12:25,907 - lightrag - INFO -  == LLM cache == saving: default:extract:15593300fc1c030a199a9a866ff897e1
+2026-02-26 08:12:25,907 - lightrag - INFO - Chunk 4 of 4 extracted 2 Ent + 1 Rel chunk-5840f80370d9cfa6b1882e31fe14f79f
+2026-02-26 08:12:25,907 - lightrag - INFO - Merging stage 1/1: achats_produits.txt
+2026-02-26 08:12:25,908 - lightrag - INFO - Phase 1: Processing 3 entities from doc-fa56dfeb5c14e22a9b003b6323c39c16 (async: 2)
+2026-02-26 08:12:25,908 - lightrag - INFO - Merged: `Noah Carter` | 1+1 (dd 2)
+2026-02-26 08:12:25,956 - lightrag - INFO - Merged: `World Athletics Federation` | 1+1 (dd 1)
+2026-02-26 08:12:25,991 - lightrag - INFO - Phase 2: Processing 3 relations from doc-fa56dfeb5c14e22a9b003b6323c39c16 (async: 2)
+2026-02-26 08:12:25,992 - lightrag - INFO - Merged: `Noah Carter`~`World Athletics Federation` | 1+3
+2026-02-26 08:12:26,030 - lightrag - INFO - Chunks appended from relation: `Noah Carter`
+2026-02-26 08:12:26,076 - lightrag - INFO - Chunks appended from relation: `World Athletics Federation`
+2026-02-26 08:12:26,119 - lightrag - INFO - Merged: `World Athletics Championship`~`World Athletics Federation` | 1+2
+2026-02-26 08:12:26,159 - lightrag - INFO - Chunks appended from relation: `World Athletics Championship`
+2026-02-26 08:12:26,195 - lightrag - INFO - Chunks appended from relation: `World Athletics Federation`
+2026-02-26 08:12:26,237 - lightrag - INFO - Merged: `100m Sprint Record`~`World Athletics Federation` | 1+1
+2026-02-26 08:12:26,279 - lightrag - INFO - Chunks appended from relation: `100m Sprint Record`
+2026-02-26 08:12:26,321 - lightrag - INFO - Phase 3: Updating final 3(3+0) entities and  3 relations from doc-fa56dfeb5c14e22a9b003b6323c39c16
+2026-02-26 08:12:26,321 - lightrag - INFO - Completed merging: 3 entities, 0 extra entities, 3 relations
+2026-02-26 08:12:26,330 - lightrag - INFO - [] Writing graph with 6 nodes, 3 edges
+2026-02-26 08:12:26,330 - lightrag - INFO - In memory DB persist to disk
+2026-02-26 08:12:26,331 - lightrag - INFO - Completed processing file 1/1: achats_produits.txt
+2026-02-26 08:12:26,331 - lightrag - INFO - Processing additional documents due to pending request
+2026-02-26 08:12:26,331 - lightrag - INFO - Processing 1 document(s)
+2026-02-26 08:12:26,331 - lightrag - INFO - Extracting stage 1/1: fournisseurs_certifications.txt
+2026-02-26 08:12:26,331 - lightrag - INFO - Processing d-id: doc-b1d04d6c24d6dfe4be7d2a793b0df103
+2026-02-26 08:12:50,353 - lightrag - INFO -  == LLM cache == saving: default:extract:0a040650a717df194f02577a4c936b9a
+2026-02-26 08:12:55,755 - lightrag - INFO -  == LLM cache == saving: default:extract:0051a71e513500d1e849b152513b1995
+2026-02-26 08:12:55,755 - lightrag - WARNING - chunk-f80c3b7b18652d381631bdeda4b50e51: LLM output format error; found 4/5 fields on REALTION `World Athletics Federation`~`record validation`
+2026-02-26 08:12:55,756 - lightrag - INFO - Chunk 1 of 4 extracted 1 Ent + 0 Rel chunk-f80c3b7b18652d381631bdeda4b50e51
+2026-02-26 08:13:12,158 - lightrag - INFO -  == LLM cache == saving: default:extract:12954fd134ce3df323e852f55f69b9b6
+2026-02-26 08:13:17,562 - lightrag - INFO -  == LLM cache == saving: default:extract:16551d2983081066c68ed2880b25b0dd
+2026-02-26 08:13:17,563 - lightrag - INFO - Chunk 2 of 4 extracted 1 Ent + 1 Rel chunk-8434a117d90418935fb7b78aa34e9666
+2026-02-26 08:13:36,979 - lightrag - INFO -  == LLM cache == saving: default:extract:bed9e12576cda404ae3729fc53e1c2dd
+2026-02-26 08:13:45,623 - lightrag - INFO -  == LLM cache == saving: default:extract:beeae0712152e02bbdcd5c12aedb7cf7
+2026-02-26 08:13:45,624 - lightrag - INFO - Chunk 3 of 4 extracted 2 Ent + 2 Rel chunk-d0679196066b65302ba7e4d2cf604091
+2026-02-26 08:13:48,324 - lightrag - INFO -  == LLM cache == saving: default:extract:8fe84011733a5b9ea6501300af66a41c
+2026-02-26 08:13:57,071 - lightrag - INFO -  == LLM cache == saving: default:extract:bb7775fda11179253c80f2fafec28e2e
+2026-02-26 08:13:57,071 - lightrag - INFO - Chunk 4 of 4 extracted 2 Ent + 2 Rel chunk-8587ff3d505a48ce0efb049a438e0a51
+2026-02-26 08:13:57,072 - lightrag - INFO - Merging stage 1/1: fournisseurs_certifications.txt
+2026-02-26 08:13:57,072 - lightrag - INFO - Phase 1: Processing 2 entities from doc-b1d04d6c24d6dfe4be7d2a793b0df103 (async: 2)
+2026-02-26 08:13:57,072 - lightrag - INFO - Merged: `Noah Carter` | 2+1 (dd 3)
+2026-02-26 08:13:57,072 - lightrag - INFO - Merged: `Tokyo` | 1+2
+2026-02-26 08:13:57,144 - lightrag - INFO - Phase 2: Processing 3 relations from doc-b1d04d6c24d6dfe4be7d2a793b0df103 (async: 2)
+2026-02-26 08:13:57,145 - lightrag - INFO - Merged: `World Athletics Championship`~`World Athletics Federation` | 3+2 (dd 1)
+2026-02-26 08:13:57,186 - lightrag - INFO - Chunks appended from relation: `World Athletics Championship`
+2026-02-26 08:13:57,223 - lightrag - INFO - Chunks appended from relation: `World Athletics Federation`
+2026-02-26 08:13:57,270 - lightrag - INFO - Merged: `Noah Carter`~`World Athletics Federation` | 4+1
+2026-02-26 08:13:57,354 - lightrag - INFO - Phase 3: Updating final 2(2+0) entities and  3 relations from doc-b1d04d6c24d6dfe4be7d2a793b0df103
+2026-02-26 08:13:57,354 - lightrag - INFO - Completed merging: 2 entities, 0 extra entities, 3 relations
+2026-02-26 08:13:57,364 - lightrag - INFO - [] Writing graph with 6 nodes, 4 edges
+2026-02-26 08:13:57,365 - lightrag - INFO - In memory DB persist to disk
+2026-02-26 08:13:57,365 - lightrag - INFO - Completed processing file 1/1: fournisseurs_certifications.txt
+2026-02-26 08:13:57,365 - lightrag - INFO - Enqueued document processing pipeline stopped
+2026-02-26 08:15:10,610 - uvicorn.access - INFO - 127.0.0.1:56270 - "GET /graph/label/popular?limit=300 HTTP/1.1" 200
+2026-02-26 08:15:14,358 - uvicorn.access - INFO - 127.0.0.1:56270 - "GET /graph/label/search?q=client&limit=50 HTTP/1.1" 200
+2026-02-26 08:15:16,007 - lightrag - INFO - [] Subgraph query successful | Node count: 6 | Edge count: 4
+2026-02-26 08:15:16,008 - uvicorn.access - INFO - 127.0.0.1:56270 - "GET /graphs?label=*&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 08:16:32,391 - uvicorn.access - INFO - 127.0.0.1:39036 - "GET /webui/assets/index-95wECDUK.js HTTP/1.1" 200
+2026-02-26 08:16:34,104 - lightrag - INFO -  == LLM cache == saving: global:keywords:45ad9ab9eca6d2ec519f28e3bbcbf793
+2026-02-26 08:16:34,171 - lightrag - INFO - Query edges: Numéro de téléphone, Contact information (top_k:40, cosine:0.2)
+2026-02-26 08:16:34,216 - lightrag - INFO - Global query: 4 entites, 4 relations
+2026-02-26 08:16:34,216 - lightrag - INFO - Raw search results: 4 entities, 4 relations, 0 vector chunks
+2026-02-26 08:16:34,216 - lightrag - INFO - After truncation: 4 entities, 4 relations
+2026-02-26 08:16:34,217 - lightrag - INFO - Selecting 10 from 10 entity-related chunks by vector similarity
+2026-02-26 08:16:34,218 - lightrag - INFO - Find no additional relations-related chunks from 4 relations
+2026-02-26 08:16:34,218 - lightrag - INFO - Round-robin merged chunks: 10 -> 10 (deduplicated 0)
+2026-02-26 08:16:34,218 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2026-02-26 08:16:34,221 - lightrag - INFO - Final context: 4 entities, 4 relations, 10 chunks
+2026-02-26 08:16:34,221 - lightrag - INFO - Final chunks S+F/O: E3/1 E3/2 E3/3 E3/4 E3/5 E3/6 E3/7 E3/8 E2/9 E1/10
+2026-02-26 08:16:34,244 - uvicorn.access - INFO - 127.0.0.1:39028 - "POST /query/stream HTTP/1.1" 200
+2026-02-26 08:21:00,827 - uvicorn.error - INFO - Shutting down
+2026-02-26 08:21:00,928 - uvicorn.error - INFO - Waiting for application shutdown.
+2026-02-26 08:21:00,929 - lightrag - INFO - Successfully finalized 12 storages
+2026-02-26 08:21:00,929 - uvicorn.error - INFO - Application shutdown complete.
+2026-02-26 08:21:00,929 - uvicorn.error - INFO - Finished server process [273136]
+2026-02-26 08:21:03,694 - lightrag - INFO - Ollama LLM Options: {}
+2026-02-26 08:21:03,694 - lightrag - INFO - Ollama Embedding Options: {}
+2026-02-26 08:21:03,743 - lightrag - INFO - Embedding config: binding=ollama model=mxbai-embed-large embedding_dim=1024 max_token_size=8192
+2026-02-26 08:21:03,743 - lightrag - INFO - Send embedding dimension: False by env var (dimensions=1024, has_param=True, binding=ollama)
+2026-02-26 08:21:03,743 - lightrag - INFO - Embedding max_token_size: 8192 (from ollama provider default)
+2026-02-26 08:21:03,743 - lightrag - INFO - Reranking is disabled
+2026-02-26 08:21:03,956 - lightrag - INFO - [] Loaded graph from /home/mensaflow/Desktop/LightRAG/rag_storage/graph_chunk_entity_relation.graphml with 6 nodes, 4 edges
+2026-02-26 08:21:04,052 - lightrag - INFO - WebUI assets mounted at /webui
+2026-02-26 08:21:04,059 - uvicorn.error - INFO - Started server process [290373]
+2026-02-26 08:21:04,059 - uvicorn.error - INFO - Waiting for application startup.
+2026-02-26 08:21:04,060 - lightrag - INFO - [] Process 290373 KV load full_docs with 3 records
+2026-02-26 08:21:04,060 - lightrag - INFO - [] Process 290373 KV load text_chunks with 10 records
+2026-02-26 08:21:04,060 - lightrag - INFO - [] Process 290373 KV load full_entities with 3 records
+2026-02-26 08:21:04,060 - lightrag - INFO - [] Process 290373 KV load full_relations with 3 records
+2026-02-26 08:21:04,061 - lightrag - INFO - [] Process 290373 KV load entity_chunks with 6 records
+2026-02-26 08:21:04,061 - lightrag - INFO - [] Process 290373 KV load relation_chunks with 4 records
+2026-02-26 08:21:04,062 - lightrag - INFO - [] Process 290373 KV load llm_response_cache with 21 records
+2026-02-26 08:21:04,062 - lightrag - INFO - [] Process 290373 doc status load doc_status with 3 records
+2026-02-26 08:21:04,063 - uvicorn.error - INFO - Application startup complete.
+2026-02-26 08:21:04,063 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:9621 (Press CTRL+C to quit)
+2026-02-26 08:21:45,495 - lightrag - INFO - Embedding func: 2 new workers initialized (Timeouts: Func: 30s, Worker: 60s, Health Check: 75s)
+2026-02-26 08:21:46,471 - lightrag - INFO - Query edges: Numéro de téléphone, Contact information (top_k:40, cosine:0.2)
+2026-02-26 08:21:46,510 - lightrag - INFO - Global query: 4 entites, 4 relations
+2026-02-26 08:21:46,510 - lightrag - INFO - Raw search results: 4 entities, 4 relations, 0 vector chunks
+2026-02-26 08:21:46,520 - lightrag - INFO - After truncation: 4 entities, 4 relations
+2026-02-26 08:21:46,522 - lightrag - INFO - Selecting 10 from 10 entity-related chunks by vector similarity
+2026-02-26 08:21:46,522 - lightrag - INFO - Find no additional relations-related chunks from 4 relations
+2026-02-26 08:21:46,522 - lightrag - INFO - Round-robin merged chunks: 10 -> 10 (deduplicated 0)
+2026-02-26 08:21:46,523 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2026-02-26 08:21:46,527 - lightrag - INFO - Final context: 4 entities, 4 relations, 10 chunks
+2026-02-26 08:21:46,527 - lightrag - INFO - Final chunks S+F/O: E3/1 E3/2 E3/3 E3/4 E3/5 E3/6 E3/7 E3/8 E2/9 E1/10
+2026-02-26 08:21:46,533 - lightrag - INFO - LLM func: 1 new workers initialized (Timeouts: Func: 900s, Worker: 1800s, Health Check: 1815s)
+2026-02-26 08:21:46,549 - uvicorn.access - INFO - 127.0.0.1:54094 - "POST /query/stream HTTP/1.1" 200
+2026-02-26 08:29:28,128 - uvicorn.error - INFO - Shutting down
+2026-02-26 08:29:28,229 - uvicorn.error - INFO - Waiting for application shutdown.
+2026-02-26 08:29:28,230 - lightrag - INFO - Successfully finalized 12 storages
+2026-02-26 08:29:28,230 - uvicorn.error - INFO - Application shutdown complete.
+2026-02-26 08:29:28,230 - uvicorn.error - INFO - Finished server process [290373]
+2026-02-26 08:29:30,690 - lightrag - INFO - Ollama LLM Options: {}
+2026-02-26 08:29:30,690 - lightrag - INFO - Ollama Embedding Options: {}
+2026-02-26 08:29:30,741 - lightrag - INFO - Embedding config: binding=ollama model=mxbai-embed-large embedding_dim=1024 max_token_size=8192
+2026-02-26 08:29:30,741 - lightrag - INFO - Send embedding dimension: False by env var (dimensions=1024, has_param=True, binding=ollama)
+2026-02-26 08:29:30,741 - lightrag - INFO - Embedding max_token_size: 8192 (from ollama provider default)
+2026-02-26 08:29:30,741 - lightrag - INFO - Reranking is disabled
+2026-02-26 08:29:30,957 - lightrag - INFO - [] Loaded graph from /home/mensaflow/Desktop/LightRAG/rag_storage/graph_chunk_entity_relation.graphml with 6 nodes, 4 edges
+2026-02-26 08:29:31,052 - lightrag - INFO - WebUI assets mounted at /webui
+2026-02-26 08:29:31,059 - uvicorn.error - INFO - Started server process [299053]
+2026-02-26 08:29:31,060 - uvicorn.error - INFO - Waiting for application startup.
+2026-02-26 08:29:31,060 - lightrag - INFO - [] Process 299053 KV load full_docs with 3 records
+2026-02-26 08:29:31,060 - lightrag - INFO - [] Process 299053 KV load text_chunks with 10 records
+2026-02-26 08:29:31,060 - lightrag - INFO - [] Process 299053 KV load full_entities with 3 records
+2026-02-26 08:29:31,061 - lightrag - INFO - [] Process 299053 KV load full_relations with 3 records
+2026-02-26 08:29:31,061 - lightrag - INFO - [] Process 299053 KV load entity_chunks with 6 records
+2026-02-26 08:29:31,061 - lightrag - INFO - [] Process 299053 KV load relation_chunks with 4 records
+2026-02-26 08:29:31,062 - lightrag - INFO - [] Process 299053 KV load llm_response_cache with 21 records
+2026-02-26 08:29:31,063 - lightrag - INFO - [] Process 299053 doc status load doc_status with 3 records
+2026-02-26 08:29:31,063 - uvicorn.error - INFO - Application startup complete.
+2026-02-26 08:29:31,063 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:9621 (Press CTRL+C to quit)
+2026-02-26 08:29:38,140 - uvicorn.access - INFO - 127.0.0.1:53078 - "GET /docs HTTP/1.1" 200
+2026-02-26 08:29:38,149 - lightrag - INFO - [] Subgraph query successful | Node count: 6 | Edge count: 4
+2026-02-26 08:29:38,150 - uvicorn.access - INFO - 127.0.0.1:53078 - "GET /graphs?label=*&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 08:29:38,385 - uvicorn.access - INFO - 127.0.0.1:53078 - "GET /openapi.json HTTP/1.1" 200
+2026-02-26 08:29:45,843 - lightrag - INFO - LLM func: 1 new workers initialized (Timeouts: Func: 900s, Worker: 1800s, Health Check: 1815s)
+2026-02-26 08:29:49,814 - lightrag - INFO -  == LLM cache == saving: global:keywords:129b5e8e7f33a45a4c4ae1cb7e2222c6
+2026-02-26 08:29:49,814 - lightrag - INFO - Embedding func: 2 new workers initialized (Timeouts: Func: 30s, Worker: 60s, Health Check: 75s)
+2026-02-26 08:29:50,720 - lightrag - INFO - Query edges: Numéro de téléphone (top_k:40, cosine:0.2)
+2026-02-26 08:29:50,778 - lightrag - INFO - Global query: 4 entites, 4 relations
+2026-02-26 08:29:50,778 - lightrag - INFO - Raw search results: 4 entities, 4 relations, 0 vector chunks
+2026-02-26 08:29:50,779 - lightrag - INFO - After truncation: 4 entities, 4 relations
+2026-02-26 08:29:50,781 - lightrag - INFO - Selecting 10 from 10 entity-related chunks by vector similarity
+2026-02-26 08:29:50,781 - lightrag - INFO - Find no additional relations-related chunks from 4 relations
+2026-02-26 08:29:50,781 - lightrag - INFO - Round-robin merged chunks: 10 -> 10 (deduplicated 0)
+2026-02-26 08:29:50,782 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2026-02-26 08:29:50,788 - lightrag - INFO - Final context: 4 entities, 4 relations, 10 chunks
+2026-02-26 08:29:50,788 - lightrag - INFO - Final chunks S+F/O: E3/1 E3/2 E3/3 E3/4 E3/5 E3/6 E3/7 E3/8 E2/9 E1/10
+2026-02-26 08:29:50,818 - uvicorn.access - INFO - 127.0.0.1:59662 - "POST /query/stream HTTP/1.1" 200
+2026-02-26 08:31:32,320 - lightrag - WARNING - high_level_keywords is empty
+2026-02-26 08:31:32,320 - lightrag - WARNING - Forced low_level_keywords to origin query: hello
+2026-02-26 08:31:32,438 - lightrag - INFO - Query nodes: hello (top_k:40, cosine:0.2)
+2026-02-26 08:31:32,469 - lightrag - INFO - Local query: 6 entites, 4 relations
+2026-02-26 08:31:32,469 - lightrag - INFO - Raw search results: 6 entities, 4 relations, 0 vector chunks
+2026-02-26 08:31:32,470 - lightrag - INFO - After truncation: 6 entities, 4 relations
+2026-02-26 08:31:32,471 - lightrag - INFO - Selecting 10 from 10 entity-related chunks by vector similarity
+2026-02-26 08:31:32,471 - lightrag - INFO - Find no additional relations-related chunks from 4 relations
+2026-02-26 08:31:32,471 - lightrag - INFO - Round-robin merged chunks: 10 -> 10 (deduplicated 0)
+2026-02-26 08:31:32,474 - lightrag - INFO - Final context: 6 entities, 4 relations, 10 chunks
+2026-02-26 08:31:32,474 - lightrag - INFO - Final chunks S+F/O: E4/1 E3/2 E4/3 E4/4 E3/5 E3/6 E1/7 E4/8 E3/9 E2/10
+2026-02-26 08:31:32,494 - uvicorn.access - INFO - 127.0.0.1:48984 - "POST /query/stream HTTP/1.1" 200
+2026-02-26 08:31:59,904 - lightrag - INFO -  == LLM cache == saving: global:keywords:35ff689614e0e792b3c1d18947a6a17b
+2026-02-26 08:32:00,018 - lightrag - INFO - Query edges: Accès base données, Jardinerie (top_k:40, cosine:0.2)
+2026-02-26 08:32:00,049 - lightrag - INFO - Global query: 4 entites, 4 relations
+2026-02-26 08:32:00,049 - lightrag - INFO - Raw search results: 4 entities, 4 relations, 0 vector chunks
+2026-02-26 08:32:00,049 - lightrag - INFO - After truncation: 4 entities, 4 relations
+2026-02-26 08:32:00,050 - lightrag - INFO - Selecting 10 from 10 entity-related chunks by vector similarity
+2026-02-26 08:32:00,050 - lightrag - INFO - Find no additional relations-related chunks from 4 relations
+2026-02-26 08:32:00,050 - lightrag - INFO - Round-robin merged chunks: 10 -> 10 (deduplicated 0)
+2026-02-26 08:32:00,054 - lightrag - INFO - Final context: 4 entities, 4 relations, 10 chunks
+2026-02-26 08:32:00,054 - lightrag - INFO - Final chunks S+F/O: E3/1 E3/2 E3/3 E3/4 E3/5 E3/6 E1/7 E3/8 E2/9 E3/10
+2026-02-26 08:32:00,075 - uvicorn.access - INFO - 127.0.0.1:57260 - "POST /query/stream HTTP/1.1" 200
+2026-02-26 08:37:17,523 - uvicorn.error - INFO - Shutting down
+2026-02-26 08:37:17,624 - uvicorn.error - INFO - Waiting for application shutdown.
+2026-02-26 08:37:17,625 - lightrag - INFO - Successfully finalized 12 storages
+2026-02-26 08:37:17,625 - uvicorn.error - INFO - Application shutdown complete.
+2026-02-26 08:37:17,625 - uvicorn.error - INFO - Finished server process [299053]
+2026-02-26 08:37:19,814 - lightrag - INFO - Ollama LLM Options: {'num_ctx': 32768}
+2026-02-26 08:37:19,814 - lightrag - INFO - Ollama Embedding Options: {}
+2026-02-26 08:37:19,867 - lightrag - INFO - Embedding config: binding=ollama model=mxbai-embed-large embedding_dim=1024 max_token_size=8192
+2026-02-26 08:37:19,867 - lightrag - INFO - Send embedding dimension: False by env var (dimensions=1024, has_param=True, binding=ollama)
+2026-02-26 08:37:19,867 - lightrag - INFO - Embedding max_token_size: 8192 (from ollama provider default)
+2026-02-26 08:37:19,867 - lightrag - INFO - Reranking is disabled
+2026-02-26 08:37:20,087 - lightrag - INFO - [] Loaded graph from /home/mensaflow/Desktop/LightRAG/rag_storage/graph_chunk_entity_relation.graphml with 6 nodes, 4 edges
+2026-02-26 08:37:20,187 - lightrag - INFO - WebUI assets mounted at /webui
+2026-02-26 08:37:20,195 - uvicorn.error - INFO - Started server process [307112]
+2026-02-26 08:37:20,195 - uvicorn.error - INFO - Waiting for application startup.
+2026-02-26 08:37:20,195 - lightrag - INFO - [] Process 307112 KV load full_docs with 3 records
+2026-02-26 08:37:20,196 - lightrag - INFO - [] Process 307112 KV load text_chunks with 10 records
+2026-02-26 08:37:20,196 - lightrag - INFO - [] Process 307112 KV load full_entities with 3 records
+2026-02-26 08:37:20,196 - lightrag - INFO - [] Process 307112 KV load full_relations with 3 records
+2026-02-26 08:37:20,196 - lightrag - INFO - [] Process 307112 KV load entity_chunks with 6 records
+2026-02-26 08:37:20,196 - lightrag - INFO - [] Process 307112 KV load relation_chunks with 4 records
+2026-02-26 08:37:20,198 - lightrag - INFO - [] Process 307112 KV load llm_response_cache with 23 records
+2026-02-26 08:37:20,198 - lightrag - INFO - [] Process 307112 doc status load doc_status with 3 records
+2026-02-26 08:37:20,198 - uvicorn.error - INFO - Application startup complete.
+2026-02-26 08:37:20,199 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:9621 (Press CTRL+C to quit)
+2026-02-26 08:37:38,454 - uvicorn.access - INFO - 127.0.0.1:33088 - "GET /graph/label/search?q=jardin&limit=50 HTTP/1.1" 200
+2026-02-26 08:37:38,945 - lightrag - INFO - [] Subgraph query successful | Node count: 6 | Edge count: 4
+2026-02-26 08:37:38,946 - uvicorn.access - INFO - 127.0.0.1:33088 - "GET /graphs?label=*&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 08:37:57,567 - lightrag - INFO - Embedding func: 2 new workers initialized (Timeouts: Func: 30s, Worker: 60s, Health Check: 75s)
+2026-02-26 08:37:58,499 - lightrag - INFO - Query edges: Numéro de téléphone, Contact information (top_k:40, cosine:0.2)
+2026-02-26 08:37:58,568 - lightrag - INFO - Global query: 4 entites, 4 relations
+2026-02-26 08:37:58,568 - lightrag - INFO - Raw search results: 4 entities, 4 relations, 0 vector chunks
+2026-02-26 08:37:58,583 - lightrag - INFO - After truncation: 4 entities, 4 relations
+2026-02-26 08:37:58,585 - lightrag - INFO - Selecting 10 from 10 entity-related chunks by vector similarity
+2026-02-26 08:37:58,585 - lightrag - INFO - Find no additional relations-related chunks from 4 relations
+2026-02-26 08:37:58,585 - lightrag - INFO - Round-robin merged chunks: 10 -> 10 (deduplicated 0)
+2026-02-26 08:37:58,592 - lightrag - INFO - Final context: 4 entities, 4 relations, 10 chunks
+2026-02-26 08:37:58,593 - lightrag - INFO - Final chunks S+F/O: E3/1 E3/2 E3/3 E3/4 E3/5 E3/6 E3/7 E3/8 E2/9 E1/10
+2026-02-26 08:37:58,601 - lightrag - INFO - LLM func: 1 new workers initialized (Timeouts: Func: 900s, Worker: 1800s, Health Check: 1815s)
+2026-02-26 08:37:58,616 - uvicorn.access - INFO - 127.0.0.1:39014 - "POST /query/stream HTTP/1.1" 200
+2026-02-26 08:40:02,461 - lightrag - INFO -  == LLM cache == saving: hybrid:keywords:db5a3d8441ed3a0174a9ff24e06b5397
+2026-02-26 08:40:04,381 - lightrag - INFO - Query nodes: AB certification, Client purchases, Certified supplier (top_k:40, cosine:0.2)
+2026-02-26 08:40:04,412 - lightrag - INFO - Local query: 6 entites, 4 relations
+2026-02-26 08:40:04,412 - lightrag - INFO - Query edges: Clients, Produits, Fournisseur certifié (top_k:40, cosine:0.2)
+2026-02-26 08:40:04,448 - lightrag - INFO - Global query: 4 entites, 4 relations
+2026-02-26 08:40:04,448 - lightrag - INFO - Raw search results: 6 entities, 4 relations, 0 vector chunks
+2026-02-26 08:40:04,448 - lightrag - INFO - After truncation: 6 entities, 4 relations
+2026-02-26 08:40:04,449 - lightrag - INFO - Selecting 10 from 10 entity-related chunks by vector similarity
+2026-02-26 08:40:04,449 - lightrag - INFO - Find no additional relations-related chunks from 4 relations
+2026-02-26 08:40:04,449 - lightrag - INFO - Round-robin merged chunks: 10 -> 10 (deduplicated 0)
+2026-02-26 08:40:04,452 - lightrag - INFO - Final context: 6 entities, 4 relations, 10 chunks
+2026-02-26 08:40:04,452 - lightrag - INFO - Final chunks S+F/O: E4/1 E1/2 E3/3 E2/4 E3/5 E4/6 E4/7 E3/8 E4/9 E3/10
+2026-02-26 08:40:04,475 - uvicorn.access - INFO - 127.0.0.1:46934 - "POST /query/stream HTTP/1.1" 200
+2026-02-26 09:36:23,999 - uvicorn.access - INFO - 127.0.0.1:36350 - "GET /webui/assets/index-DS3Wz1EX.css HTTP/1.1" 304
+2026-02-26 09:36:23,999 - uvicorn.access - INFO - 127.0.0.1:36352 - "GET /webui/assets/index-8fiWFYnN.js HTTP/1.1" 304
+2026-02-26 09:36:24,588 - uvicorn.access - INFO - 127.0.0.1:36352 - "GET /docs HTTP/1.1" 200
+2026-02-26 09:36:24,599 - lightrag - INFO - [] Subgraph query successful | Node count: 6 | Edge count: 4
+2026-02-26 09:36:24,599 - uvicorn.access - INFO - 127.0.0.1:36350 - "GET /graphs?label=*&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 09:36:24,600 - uvicorn.access - INFO - 127.0.0.1:36352 - "GET /webui/assets/index-95wECDUK.js HTTP/1.1" 304
+2026-02-26 09:36:24,695 - uvicorn.access - INFO - 127.0.0.1:36352 - "GET /static/swagger-ui/swagger-ui.css HTTP/1.1" 304
+2026-02-26 09:36:24,697 - uvicorn.access - INFO - 127.0.0.1:36366 - "GET /static/swagger-ui/swagger-ui-bundle.js HTTP/1.1" 304
+2026-02-26 09:36:24,926 - uvicorn.access - INFO - 127.0.0.1:36352 - "GET /openapi.json HTTP/1.1" 200
+2026-02-26 19:06:03,512 - uvicorn.access - INFO - 127.0.0.1:57166 - "GET /webui/assets/index-8fiWFYnN.js HTTP/1.1" 304
+2026-02-26 19:06:03,513 - uvicorn.access - INFO - 127.0.0.1:57180 - "GET /webui/assets/index-DS3Wz1EX.css HTTP/1.1" 304
+2026-02-26 19:06:04,013 - uvicorn.access - INFO - 127.0.0.1:57180 - "GET /docs HTTP/1.1" 200
+2026-02-26 19:06:04,023 - lightrag - INFO - [] Subgraph query successful | Node count: 6 | Edge count: 4
+2026-02-26 19:06:04,024 - uvicorn.access - INFO - 127.0.0.1:57166 - "GET /graphs?label=*&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 19:06:04,024 - uvicorn.access - INFO - 127.0.0.1:57180 - "GET /webui/assets/index-95wECDUK.js HTTP/1.1" 304
+2026-02-26 19:06:04,100 - uvicorn.access - INFO - 127.0.0.1:57180 - "GET /static/swagger-ui/swagger-ui.css HTTP/1.1" 304
+2026-02-26 19:06:04,101 - uvicorn.access - INFO - 127.0.0.1:57166 - "GET /static/swagger-ui/swagger-ui-bundle.js HTTP/1.1" 304
+2026-02-26 19:06:04,285 - uvicorn.access - INFO - 127.0.0.1:57180 - "GET /openapi.json HTTP/1.1" 200
+2026-02-26 19:07:11,795 - lightrag - INFO -  == LLM cache == saving: hybrid:keywords:0c9bddd389dbeb9de56160a9f85c606b
+2026-02-26 19:07:13,718 - lightrag - INFO - Query nodes: Simon Nathalie, Produits achetés (top_k:40, cosine:0.2)
+2026-02-26 19:07:13,808 - lightrag - INFO - Local query: 6 entites, 4 relations
+2026-02-26 19:07:13,808 - lightrag - INFO - Query edges: Achats réalisés (top_k:40, cosine:0.2)
+2026-02-26 19:07:13,839 - lightrag - INFO - Global query: 4 entites, 4 relations
+2026-02-26 19:07:13,839 - lightrag - INFO - Raw search results: 6 entities, 4 relations, 0 vector chunks
+2026-02-26 19:07:13,840 - lightrag - INFO - After truncation: 6 entities, 4 relations
+2026-02-26 19:07:13,841 - lightrag - INFO - Selecting 10 from 10 entity-related chunks by vector similarity
+2026-02-26 19:07:13,841 - lightrag - INFO - Find no additional relations-related chunks from 4 relations
+2026-02-26 19:07:13,841 - lightrag - INFO - Round-robin merged chunks: 10 -> 10 (deduplicated 0)
+2026-02-26 19:07:13,844 - lightrag - INFO - Final context: 6 entities, 4 relations, 10 chunks
+2026-02-26 19:07:13,844 - lightrag - INFO - Final chunks S+F/O: E4/1 E4/2 E2/3 E3/4 E1/5 E3/6 E3/7 E4/8 E4/9 E3/10
+2026-02-26 19:07:13,866 - uvicorn.access - INFO - 127.0.0.1:45608 - "POST /query/stream HTTP/1.1" 200
+2026-02-26 19:38:25,560 - uvicorn.error - INFO - Shutting down
+2026-02-26 19:38:25,661 - uvicorn.error - INFO - Waiting for application shutdown.
+2026-02-26 19:38:25,661 - lightrag - INFO - Successfully finalized 12 storages
+2026-02-26 19:38:25,661 - uvicorn.error - INFO - Application shutdown complete.
+2026-02-26 19:38:25,661 - uvicorn.error - INFO - Finished server process [307112]

@@ -1,0 +1,434 @@
+{
+  "HiddenLayer<SEP>Xiahoan Fu": {
+    "chunk_ids": [
+      "chunk-028059ac6a79ce922c41d773d15f00ae"
+    ],
+    "count": 1,
+    "create_time": 1772083376,
+    "update_time": 1772083376,
+    "_id": "HiddenLayer<SEP>Xiahoan Fu"
+  },
+  "GPT-4<SEP>HiddenLayer": {
+    "chunk_ids": [
+      "chunk-028059ac6a79ce922c41d773d15f00ae"
+    ],
+    "count": 1,
+    "create_time": 1772083376,
+    "update_time": 1772083376,
+    "_id": "GPT-4<SEP>HiddenLayer"
+  },
+  "GPT-4<SEP>Xiahoan Fu": {
+    "chunk_ids": [
+      "chunk-028059ac6a79ce922c41d773d15f00ae"
+    ],
+    "count": 1,
+    "create_time": 1772083376,
+    "update_time": 1772083376,
+    "_id": "GPT-4<SEP>Xiahoan Fu"
+  },
+  "GPT-4<SEP>University of California, San Diego": {
+    "chunk_ids": [
+      "chunk-028059ac6a79ce922c41d773d15f00ae"
+    ],
+    "count": 1,
+    "create_time": 1772083376,
+    "update_time": 1772083376,
+    "_id": "GPT-4<SEP>University of California, San Diego"
+  },
+  "Innovation in AI<SEP>Rui Wen": {
+    "chunk_ids": [
+      "chunk-4b05639e4a39cd5642a472be2d6f8934"
+    ],
+    "count": 1,
+    "create_time": 1772083376,
+    "update_time": 1772083376,
+    "_id": "Innovation in AI<SEP>Rui Wen"
+  },
+  "Birhanu Eshete<SEP>Michigan University": {
+    "chunk_ids": [
+      "chunk-4b05639e4a39cd5642a472be2d6f8934"
+    ],
+    "count": 1,
+    "create_time": 1772083376,
+    "update_time": 1772083376,
+    "_id": "Birhanu Eshete<SEP>Michigan University"
+  },
+  "Internet-Connected Agents<SEP>Rui Wen": {
+    "chunk_ids": [
+      "chunk-4b05639e4a39cd5642a472be2d6f8934"
+    ],
+    "count": 1,
+    "create_time": 1772083376,
+    "update_time": 1772083376,
+    "_id": "Internet-Connected Agents<SEP>Rui Wen"
+  },
+  "AI Models<SEP>Classical Systems": {
+    "chunk_ids": [
+      "chunk-4b05639e4a39cd5642a472be2d6f8934"
+    ],
+    "count": 1,
+    "create_time": 1772083376,
+    "update_time": 1772083376,
+    "_id": "AI Models<SEP>Classical Systems"
+  },
+  "Birhanu Eshete<SEP>Innovation in AI": {
+    "chunk_ids": [
+      "chunk-4b05639e4a39cd5642a472be2d6f8934"
+    ],
+    "count": 1,
+    "create_time": 1772083376,
+    "update_time": 1772083376,
+    "_id": "Birhanu Eshete<SEP>Innovation in AI"
+  },
+  "Entire Network<SEP>Internet-Connected Agents": {
+    "chunk_ids": [
+      "chunk-4b05639e4a39cd5642a472be2d6f8934"
+    ],
+    "count": 1,
+    "create_time": 1772083376,
+    "update_time": 1772083376,
+    "_id": "Entire Network<SEP>Internet-Connected Agents"
+  },
+  "Compromised Training Data<SEP>Rui Wen": {
+    "chunk_ids": [
+      "chunk-4b05639e4a39cd5642a472be2d6f8934"
+    ],
+    "count": 1,
+    "create_time": 1772083376,
+    "update_time": 1772083376,
+    "_id": "Compromised Training Data<SEP>Rui Wen"
+  },
+  "AI Models<SEP>Compromised Training Data": {
+    "chunk_ids": [
+      "chunk-4b05639e4a39cd5642a472be2d6f8934"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "AI Models<SEP>Compromised Training Data"
+  },
+  "Compromised Training Data<SEP>Internet-Connected Agents": {
+    "chunk_ids": [
+      "chunk-4b05639e4a39cd5642a472be2d6f8934"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "Compromised Training Data<SEP>Internet-Connected Agents"
+  },
+  "Classical Systems<SEP>Compromised Training Data": {
+    "chunk_ids": [
+      "chunk-4b05639e4a39cd5642a472be2d6f8934"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "Classical Systems<SEP>Compromised Training Data"
+  },
+  "AI Models<SEP>Entire Network": {
+    "chunk_ids": [
+      "chunk-4b05639e4a39cd5642a472be2d6f8934"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "AI Models<SEP>Entire Network"
+  },
+  "Aim Security<SEP>Microsoft 365 Copilot": {
+    "chunk_ids": [
+      "chunk-72fa8b8d4068ea463dd4fad1152204eb"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "Aim Security<SEP>Microsoft 365 Copilot"
+  },
+  "Aim Security Demonstration<SEP>Florian Tramèr": {
+    "chunk_ids": [
+      "chunk-72fa8b8d4068ea463dd4fad1152204eb"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "Aim Security Demonstration<SEP>Florian Tramèr"
+  },
+  "Earlence Fernandes<SEP>Microsoft 365 Copilot": {
+    "chunk_ids": [
+      "chunk-72fa8b8d4068ea463dd4fad1152204eb"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "Earlence Fernandes<SEP>Microsoft 365 Copilot"
+  },
+  "Microsoft 365 Copilot<SEP>Rishi Jha": {
+    "chunk_ids": [
+      "chunk-72fa8b8d4068ea463dd4fad1152204eb"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "Microsoft 365 Copilot<SEP>Rishi Jha"
+  },
+  "Florian Tramer<SEP>Microsoft 365 Copilot": {
+    "chunk_ids": [
+      "chunk-72fa8b8d4068ea463dd4fad1152204eb"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "Florian Tramer<SEP>Microsoft 365 Copilot"
+  },
+  "Florian Tramèr<SEP>Swiss Federal Institute of Technology Zurich": {
+    "chunk_ids": [
+      "chunk-72fa8b8d4068ea463dd4fad1152204eb"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "Florian Tramèr<SEP>Swiss Federal Institute of Technology Zurich"
+  },
+  "ClawBot<SEP>ZomBots": {
+    "chunk_ids": [
+      "chunk-e28507efc491427cf106bc0430c63271"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "ClawBot<SEP>ZomBots"
+  },
+  "COYO-700M<SEP>Data Poisoning": {
+    "chunk_ids": [
+      "chunk-e28507efc491427cf106bc0430c63271"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "COYO-700M<SEP>Data Poisoning"
+  },
+  "COYO-700M<SEP>Singapourienne Team": {
+    "chunk_ids": [
+      "chunk-e28507efc491427cf106bc0430c63271"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "COYO-700M<SEP>Singapourienne Team"
+  },
+  "Data Poisoning<SEP>Mithril Security": {
+    "chunk_ids": [
+      "chunk-e28507efc491427cf106bc0430c63271"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "Data Poisoning<SEP>Mithril Security"
+  },
+  "Data Poisoning<SEP>Jailbreak": {
+    "chunk_ids": [
+      "chunk-e28507efc491427cf106bc0430c63271"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "Data Poisoning<SEP>Jailbreak"
+  },
+  "Grandeur<SEP>Jailbreak": {
+    "chunk_ids": [
+      "chunk-e28507efc491427cf106bc0430c63271"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "Grandeur<SEP>Jailbreak"
+  },
+  "Data Poisoning<SEP>Neil Armstrong": {
+    "chunk_ids": [
+      "chunk-e28507efc491427cf106bc0430c63271"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "Data Poisoning<SEP>Neil Armstrong"
+  },
+  "Data Poisoning<SEP>Yuri Gagarin": {
+    "chunk_ids": [
+      "chunk-e28507efc491427cf106bc0430c63271"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "Data Poisoning<SEP>Yuri Gagarin"
+  },
+  "Centre Helmholtz<SEP>Rui Wen": {
+    "chunk_ids": [
+      "chunk-ffdc995653d45eac4266e80c5821e26c"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "Centre Helmholtz<SEP>Rui Wen"
+  },
+  "CEA<SEP>Cédric Aujac": {
+    "chunk_ids": [
+      "chunk-ffdc995653d45eac4266e80c5821e26c"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "CEA<SEP>Cédric Aujac"
+  },
+  "Computational Opacity<SEP>Rui Wen": {
+    "chunk_ids": [
+      "chunk-ffdc995653d45eac4266e80c5821e26c"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "Computational Opacity<SEP>Rui Wen"
+  },
+  "Computational Opacity<SEP>Deep Neural Network Model": {
+    "chunk_ids": [
+      "chunk-ffdc995653d45eac4266e80c5821e26c"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "Computational Opacity<SEP>Deep Neural Network Model"
+  },
+  "Data Poisoning Attack<SEP>Security Paradox": {
+    "chunk_ids": [
+      "chunk-ffdc995653d45eac4266e80c5821e26c"
+    ],
+    "count": 1,
+    "create_time": 1772083377,
+    "update_time": 1772083377,
+    "_id": "Data Poisoning Attack<SEP>Security Paradox"
+  },
+  "Cédric Aujac<SEP>Security Paradox": {
+    "chunk_ids": [
+      "chunk-ffdc995653d45eac4266e80c5821e26c"
+    ],
+    "count": 1,
+    "create_time": 1772083378,
+    "update_time": 1772083378,
+    "_id": "Cédric Aujac<SEP>Security Paradox"
+  },
+  "Data Poisoning Attack<SEP>Deep Neural Network Model": {
+    "chunk_ids": [
+      "chunk-ffdc995653d45eac4266e80c5821e26c"
+    ],
+    "count": 1,
+    "create_time": 1772083378,
+    "update_time": 1772083378,
+    "_id": "Data Poisoning Attack<SEP>Deep Neural Network Model"
+  },
+  "Deep Neural Network Model<SEP>Traditional Security Methods": {
+    "chunk_ids": [
+      "chunk-ffdc995653d45eac4266e80c5821e26c"
+    ],
+    "count": 1,
+    "create_time": 1772083378,
+    "update_time": 1772083378,
+    "_id": "Deep Neural Network Model<SEP>Traditional Security Methods"
+  },
+  "LightRAG<SEP>qwen2.5:14b": {
+    "chunk_ids": [
+      "chunk-23b7dec9dcc706b0e5695d939f1128d6"
+    ],
+    "count": 1,
+    "create_time": 1772085818,
+    "update_time": 1772085818,
+    "_id": "LightRAG<SEP>qwen2.5:14b"
+  },
+  "local<SEP>naive": {
+    "chunk_ids": [
+      "chunk-23b7dec9dcc706b0e5695d939f1128d6"
+    ],
+    "count": 1,
+    "create_time": 1772085818,
+    "update_time": 1772085818,
+    "_id": "local<SEP>naive"
+  },
+  "global<SEP>hybrid": {
+    "chunk_ids": [
+      "chunk-23b7dec9dcc706b0e5695d939f1128d6"
+    ],
+    "count": 1,
+    "create_time": 1772085818,
+    "update_time": 1772085818,
+    "_id": "global<SEP>hybrid"
+  },
+  "LightRAG<SEP>Marc Dupont": {
+    "chunk_ids": [
+      "chunk-23b7dec9dcc706b0e5695d939f1128d6"
+    ],
+    "count": 1,
+    "create_time": 1772085818,
+    "update_time": 1772085818,
+    "_id": "LightRAG<SEP>Marc Dupont"
+  },
+  "LightRAG<SEP>SolarMax 3000": {
+    "chunk_ids": [
+      "chunk-23b7dec9dcc706b0e5695d939f1128d6"
+    ],
+    "count": 1,
+    "create_time": 1772085818,
+    "update_time": 1772085818,
+    "_id": "LightRAG<SEP>SolarMax 3000"
+  },
+  "Occitanie<SEP>hybrid": {
+    "chunk_ids": [
+      "chunk-23b7dec9dcc706b0e5695d939f1128d6"
+    ],
+    "count": 1,
+    "create_time": 1772085818,
+    "update_time": 1772085818,
+    "_id": "Occitanie<SEP>hybrid"
+  },
+  "NanoVectorDB<SEP>Neo4j": {
+    "chunk_ids": [
+      "chunk-23b7dec9dcc706b0e5695d939f1128d6"
+    ],
+    "count": 1,
+    "create_time": 1772085819,
+    "update_time": 1772085819,
+    "_id": "NanoVectorDB<SEP>Neo4j"
+  },
+  "LightRAG<SEP>Mistral API": {
+    "chunk_ids": [
+      "chunk-23b7dec9dcc706b0e5695d939f1128d6"
+    ],
+    "count": 1,
+    "create_time": 1772085819,
+    "update_time": 1772085819,
+    "_id": "LightRAG<SEP>Mistral API"
+  },
+  "mxbai-embed-large<SEP>text-embedding-3-large d'OpenAI": {
+    "chunk_ids": [
+      "chunk-23b7dec9dcc706b0e5695d939f1128d6"
+    ],
+    "count": 1,
+    "create_time": 1772085819,
+    "update_time": 1772085819,
+    "_id": "mxbai-embed-large<SEP>text-embedding-3-large d'OpenAI"
+  },
+  "nomic-embed-text<SEP>text-embedding-ada-002": {
+    "chunk_ids": [
+      "chunk-23b7dec9dcc706b0e5695d939f1128d6"
+    ],
+    "count": 1,
+    "create_time": 1772085819,
+    "update_time": 1772085819,
+    "_id": "nomic-embed-text<SEP>text-embedding-ada-002"
+  },
+  "Mistral API<SEP>OpenAI": {
+    "chunk_ids": [
+      "chunk-23b7dec9dcc706b0e5695d939f1128d6"
+    ],
+    "count": 1,
+    "create_time": 1772085819,
+    "update_time": 1772085819,
+    "_id": "Mistral API<SEP>OpenAI"
+  }
+}

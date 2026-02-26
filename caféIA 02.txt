@@ -1,0 +1,63 @@
+Les 4 modes LightRAG — ce qu'ils font vraiment
+naive — RAG classique pur. Embedding query → cosine similarity → top-k chunks → LLM. Pas de graph, pas de multi-hop. Rapide, mais échoue dès que la réponse nécessite de croiser deux entités distinctes. Utile en démo pour montrer pourquoi le graph est nécessaire.
+local — Requête centrée sur les entités et leurs relations immédiates (1 hop). "Qui est Marc Dupont ?" → extrait l'entité + ses voisins directs dans le graph. Plus précis que naive sur les questions factuelles directes.
+global — Parcourt les patterns transversaux du graph entier. Utile pour des questions abstraites : "Quelles sont les tendances du secteur ?", "Quels sont les risques systémiques ?". Plus lent, contexte plus large.
+hybrid — local + global combinés. C'est le seul mode vraiment multi-hop : traverse le graph en suivant les relations (entité → certification → technicien → région). C'est ce qui répond correctement à "Quel technicien certifié PV est dispo en Occitanie pour le SolarMax 3000 ?". Recommandé par défaut.
+
+
+
+-------
+
+Ton qwen2.5:14b est en-dessous des specs officielles. 14B au lieu de 32B minimum — l'extraction d'entités/relations sera incomplète ou approximative.
+Meilleurs couples pour ton serveur Mensaflow :
+PrioritéLLMEmbeddingDimNote🥇 Qualitéqwen2.5:32bbge-m31024Specs officielles LightRAG🥈 Équilibreqwen2.5:14bmxbai-embed-large1024Ton setup actuel + meilleur embedding🥉 Démo rapideqwen2.5:7bnomic-embed-text768Vitesse avant qualité
+mxbai-embed-large surpasse text-embedding-3-large d'OpenAI tout en étant significativement plus petit, et nomic-embed-text surpasse text-embedding-ada-002 sur les tâches long-contexte. TigerData
+
+--------
+
+1. CHUNKING          ~1 sec    — découpe le texte en chunks (1200 tokens)
+                                 classique, rien de spécial
+
+2. ENTITY EXTRACTION  >> 80%   — LLM appelé sur CHAQUE chunk pour extraire :
+   (la partie lente)              • entités  (Marc Dupont, SolarMax 3000, Occitanie)
+                                  • relations (Marc certifié PV, SolarMax vendu par...)
+                                  • attributs (région, certification, disponibilité)
+                                  C'est une inférence LLM complète par chunk
+
+3. GRAPH CONSTRUCTION ~2 sec   — Neo4j / NanoVectorDB :
+                                  • noeuds créés pour chaque entité unique
+                                  • arêtes créées pour chaque relation
+                                  • déduplication + merge si entité déjà connue
+
+4. DUAL INDEXING      ~3 sec   — stocke DEUX représentations :
+                                  • vecteurs (pour le nearest-neighbor search)
+                                  • graph (pour le multi-hop traversal)
+                                  
+---
+qwen2.5:14b fait ~3-4 appels LLM par chunk pour l'extraction. Ton PDF de 275KB = ~20-25 chunks = 80-100 inférences LLM. C'est structurellement incompressible — c'est le prix du graph.
+La bonne nouvelle : c'est one-time. Le graph est persisté dans ./storage. Au prochain lancement, zéro re-indexation. La query hybride multi-hop, elle, prend 5-15 secondes.
+
+---
+Option 2 — Mistral API pour la query (meilleure) :
+LightRAG permet des modèles différents pour indexation vs query. Indexation en local (14b, lent mais one-time), query via Mistral API (100x plus rapide) :
+
+
+---------- MISTRAL KEY
+https://console.mistral.ai/home?workspace_dialog=apiKeys
+
+REDACTED
+
+---------- QUERY BALANCE
+lean     → top_k=3,  tokens 1500/1000/1000  (~4k total)
+balanced → top_k=5,  tokens 2000/1500/1500  (~6k total)
+full     → top_k=10, tokens 4000/4000/4000  (~15k = défaut LightRAG)
+
+----- BUG pour QUERY...
+
+Deux bugs corrigés :
+Bug 1 — "multiple values for argument 'model'"
+La signature réelle est openai_complete_if_cache(model, prompt, ...). LightRAG passe aussi model en kwarg via llm_model_name. Le wrapper recevait donc model en double. Fix : kwargs.pop("model", None) avant l'appel + passer _qmodel en 1er arg positionnel.
+Bug 2 — WARNING rerank
+enable_rerank=True par défaut dans ta version. Aucun rerank model configuré → warning à chaque query. Désactivé directement dans QueryParam.
+Ctrl+C → streamlit run app.py — le cache @st.cache_resource sera invalidé automatiquement car la fonction get_query_rag a changé.
+

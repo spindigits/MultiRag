@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Noah Carter">
+  <data key="d0">Noah Carter</data>
+  <data key="d1">person</data>
+  <data key="d2">Noah Carter is a sprinter who set a new record in the 100m sprint at the World Athletics Championship.&lt;SEP&gt;Noah Carter is a sprinter who set a new record in the 100m sprint at the World Athletics Championship.&lt;SEP&gt;Noah Carter is a sprinter who set a new record in the 100m sprint at the World Athletics Championship.</data>
+  <data key="d3">chunk-a9182e1d276ba49ac67c3295c10b4f86&lt;SEP&gt;chunk-b69996768b09b308d485bb643b5f7953&lt;SEP&gt;chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-5840f80370d9cfa6b1882e31fe14f79f&lt;SEP&gt;chunk-3f6ca165b48619e671c8079ed78f267a&lt;SEP&gt;chunk-006729040656b98f73774bed81a42fb4&lt;SEP&gt;chunk-f80c3b7b18652d381631bdeda4b50e51&lt;SEP&gt;chunk-d0679196066b65302ba7e4d2cf604091&lt;SEP&gt;chunk-8587ff3d505a48ce0efb049a438e0a51&lt;SEP&gt;chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d4">clients.csv&lt;SEP&gt;achats_produits.txt&lt;SEP&gt;fournisseurs_certifications.txt</data>
+  <data key="d5">1772090037</data>
+  <data key="d6"></data>
+</node>
+<node id="Tokyo">
+  <data key="d0">Tokyo</data>
+  <data key="d1">location</data>
+  <data key="d2">Tokyo is the host city of the World Athletics Championship.&lt;SEP&gt;Tokyo is the host city of the World Athletics Championship.&lt;SEP&gt;Tokyo is hosting the World Athletics Championship in which Noah Carter broke the 100m sprint record using advanced carbon-fiber spikes.</data>
+  <data key="d3">chunk-b69996768b09b308d485bb643b5f7953&lt;SEP&gt;chunk-d0679196066b65302ba7e4d2cf604091&lt;SEP&gt;chunk-8587ff3d505a48ce0efb049a438e0a51</data>
+  <data key="d4">clients.csv&lt;SEP&gt;fournisseurs_certifications.txt</data>
+  <data key="d5">1772090037</data>
+  <data key="d6"></data>
+</node>
+<node id="100m Sprint Record">
+  <data key="d0">100m Sprint Record</data>
+  <data key="d3">chunk-a9182e1d276ba49ac67c3295c10b4f86&lt;SEP&gt;chunk-3f6ca165b48619e671c8079ed78f267a</data>
+  <data key="d2">The World Athletics Federation validates and oversees records like Noah Carter's new 100m sprint record.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">clients.csv</data>
+  <data key="d5">1772089738</data>
+  <data key="d6"></data>
+</node>
+<node id="World Athletics Federation">
+  <data key="d0">World Athletics Federation</data>
+  <data key="d3">chunk-a9182e1d276ba49ac67c3295c10b4f86&lt;SEP&gt;chunk-b69996768b09b308d485bb643b5f7953&lt;SEP&gt;chunk-5840f80370d9cfa6b1882e31fe14f79f&lt;SEP&gt;chunk-3f6ca165b48619e671c8079ed78f267a&lt;SEP&gt;chunk-006729040656b98f73774bed81a42fb4&lt;SEP&gt;chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-d0679196066b65302ba7e4d2cf604091&lt;SEP&gt;chunk-8587ff3d505a48ce0efb049a438e0a51&lt;SEP&gt;chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">The World Athletics Federation validates and oversees records like Noah Carter's new 100m sprint record.&lt;SEP&gt;The World Athletics Federation is the governing body overseeing the World Athletics Championship and record validations.</data>
+  <data key="d1">organization</data>
+  <data key="d4">clients.csv&lt;SEP&gt;achats_produits.txt</data>
+  <data key="d5">1772089945</data>
+  <data key="d6"></data>
+</node>
+<node id="World Athletics Championship">
+  <data key="d0">World Athletics Championship</data>
+  <data key="d3">chunk-b69996768b09b308d485bb643b5f7953&lt;SEP&gt;chunk-006729040656b98f73774bed81a42fb4&lt;SEP&gt;chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-d0679196066b65302ba7e4d2cf604091&lt;SEP&gt;chunk-8587ff3d505a48ce0efb049a438e0a51&lt;SEP&gt;chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">The World Athletics Federation oversees and governs the World Athletics Championship.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">clients.csv</data>
+  <data key="d5">1772089738</data>
+  <data key="d6"></data>
+</node>
+<node id="Carbon-Fiber Technology">
+  <data key="d0">Carbon-Fiber Technology</data>
+  <data key="d1">concept</data>
+  <data key="d2">Advanced technology used in making lightweight and performance-enhancing carbon-fiber spikes.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772089945</data>
+  <data key="d6"></data>
+</node>
+<edge source="Noah Carter" target="World Athletics Federation">
+  <data key="d7">5.0</data>
+  <data key="d8">Noah Carter competes under the jurisdiction and rules set by the World Athletics Federation.&lt;SEP&gt;The World Athletics Federation oversees the competition where Noah Carter broke the 100m sprint record.&lt;SEP&gt;Noah Carter competes under the jurisdiction of the World Athletics Federation.&lt;SEP&gt;The World Athletics Federation oversees the rules and regulations under which Noah Carter competes.&lt;SEP&gt;Noah Carter competes under the rules and regulations set by the World Athletics Federation for the World Athletics Championship.</data>
+  <data key="d9">athlete affiliation,athlete governance,championship regulation,governance,organization governance,record validation,regulation</data>
+  <data key="d10">chunk-b69996768b09b308d485bb643b5f7953&lt;SEP&gt;chunk-006729040656b98f73774bed81a42fb4&lt;SEP&gt;chunk-5840f80370d9cfa6b1882e31fe14f79f&lt;SEP&gt;chunk-3f6ca165b48619e671c8079ed78f267a&lt;SEP&gt;chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">clients.csv&lt;SEP&gt;achats_produits.txt&lt;SEP&gt;fournisseurs_certifications.txt</data>
+  <data key="d12">1772090037</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Noah Carter" target="World Athletics Championship">
+  <data key="d7">1.0</data>
+  <data key="d8">The World Athletics Championship featured Noah Carter competing and breaking records.</data>
+  <data key="d9">athlete participation,competition</data>
+  <data key="d10">chunk-8587ff3d505a48ce0efb049a438e0a51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772090037</data>
+  <data key="d13"></data>
+</edge>
+<edge source="100m Sprint Record" target="World Athletics Federation">
+  <data key="d7">2.0</data>
+  <data key="d8">The World Athletics Federation validates and oversees records like Noah Carter's new 100m sprint record.&lt;SEP&gt;The World Athletics Federation validates and maintains records such as Noah Carter's 100m sprint record.</data>
+  <data key="d9">governing body,record validation,validation oversight</data>
+  <data key="d10">chunk-a9182e1d276ba49ac67c3295c10b4f86&lt;SEP&gt;chunk-3f6ca165b48619e671c8079ed78f267a</data>
+  <data key="d11">clients.csv&lt;SEP&gt;achats_produits.txt</data>
+  <data key="d12">1772089946</data>
+  <data key="d13"></data>
+</edge>
+<edge source="World Athletics Federation" target="World Athletics Championship">
+  <data key="d7">6.0</data>
+  <data key="d8">The World Athletics Federation oversees and governs the World Athletics Championship.&lt;SEP&gt;The World Athletics Federation organizes the World Athletics Championships.&lt;SEP&gt;The World Athletics Federation oversees and governs the World Athletics Championship.&lt;SEP&gt;The World Athletics Federation oversees and manages the World Athletics Championship.&lt;SEP&gt;The World Athletics Federation oversees and governs the World Athletics Championship.</data>
+  <data key="d9">championship supervision,event organization,event oversight,governance,governing body,oversight</data>
+  <data key="d10">chunk-b69996768b09b308d485bb643b5f7953&lt;SEP&gt;chunk-006729040656b98f73774bed81a42fb4&lt;SEP&gt;chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-d0679196066b65302ba7e4d2cf604091&lt;SEP&gt;chunk-8587ff3d505a48ce0efb049a438e0a51&lt;SEP&gt;chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">clients.csv&lt;SEP&gt;achats_produits.txt&lt;SEP&gt;fournisseurs_certifications.txt</data>
+  <data key="d12">1772090037</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>

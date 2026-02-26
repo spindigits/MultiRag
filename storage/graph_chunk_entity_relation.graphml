@@ -1,0 +1,970 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="HiddenLayer">
+  <data key="d0">HiddenLayer</data>
+  <data key="d1">organization</data>
+  <data key="d2">HiddenLayer is a security company that revealed the existence of hidden prompts in configuration files capable of duping available models.</data>
+  <data key="d3">chunk-028059ac6a79ce922c41d773d15f00ae</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083373</data>
+  <data key="d6"></data>
+</node>
+<node id="Xiahoan Fu">
+  <data key="d0">Xiahoan Fu</data>
+  <data key="d1">person</data>
+  <data key="d2">Xiahoan Fu is a researcher at the University of California, San Diego, who discusses the implications of knowledge extraction practices.</data>
+  <data key="d3">chunk-028059ac6a79ce922c41d773d15f00ae</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083373</data>
+  <data key="d6"></data>
+</node>
+<node id="GPT-4">
+  <data key="d0">GPT-4</data>
+  <data key="d1">artifact</data>
+  <data key="d2">GPT-4 is referenced as a model that some other models respond to in an oddly similar manner according to Xiahoan Fu's observations.</data>
+  <data key="d3">chunk-028059ac6a79ce922c41d773d15f00ae</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083375</data>
+  <data key="d6"></data>
+</node>
+<node id="University of California, San Diego">
+  <data key="d0">University of California, San Diego</data>
+  <data key="d1">organization</data>
+  <data key="d2">The University of California, San Diego is where Xiahoan Fu conducts research on AI models.</data>
+  <data key="d3">chunk-028059ac6a79ce922c41d773d15f00ae</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083375</data>
+  <data key="d6"></data>
+</node>
+<node id="Rui Wen">
+  <data key="d0">Rui Wen</data>
+  <data key="d1">person</data>
+  <data key="d2">Rui Wen is a researcher who is completing her thesis at the Helmholz Center in Germany.&lt;SEP&gt;Rui Wen is an individual who observes the increasing surface area for potential attacks in AI systems.</data>
+  <data key="d3">chunk-4b05639e4a39cd5642a472be2d6f8934&lt;SEP&gt;chunk-ffdc995653d45eac4266e80c5821e26c</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083375</data>
+  <data key="d6"></data>
+</node>
+<node id="Birhanu Eshete">
+  <data key="d0">Birhanu Eshete</data>
+  <data key="d1">person</data>
+  <data key="d2">Birhanu Eshete is from the University of Michigan and comments on the vulnerabilities arising as AI becomes more autonomous and interconnected.</data>
+  <data key="d3">chunk-4b05639e4a39cd5642a472be2d6f8934</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083375</data>
+  <data key="d6"></data>
+</node>
+<node id="AI Models">
+  <data key="d0">AI Models</data>
+  <data key="d1">artifact</data>
+  <data key="d2">AI models are systems that can become corrupted if their training data is compromised, making cleanup almost impossible.</data>
+  <data key="d3">chunk-4b05639e4a39cd5642a472be2d6f8934</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083375</data>
+  <data key="d6"></data>
+</node>
+<node id="Classical Systems">
+  <data key="d0">Classical Systems</data>
+  <data key="d1">concept</data>
+  <data key="d2">Classical systems can generally be cleaned of viruses by restoring corrupted files to a healthy state.</data>
+  <data key="d3">chunk-4b05639e4a39cd5642a472be2d6f8934</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083375</data>
+  <data key="d6"></data>
+</node>
+<node id="Compromised Training Data">
+  <data key="d0">Compromised Training Data</data>
+  <data key="d1">data</data>
+  <data key="d2">Training data for AI models can be corrupted, leading to irreversible damage if not detected early.</data>
+  <data key="d3">chunk-4b05639e4a39cd5642a472be2d6f8934</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083375</data>
+  <data key="d6"></data>
+</node>
+<node id="Entire Network">
+  <data key="d0">Entire Network</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Once compromised, the corruption in an AI model's weights spreads across the entire network, making cleanup impractical.</data>
+  <data key="d3">chunk-4b05639e4a39cd5642a472be2d6f8934</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083375</data>
+  <data key="d6"></data>
+</node>
+<node id="Internet-Connected Agents">
+  <data key="d0">Internet-Connected Agents</data>
+  <data key="d1">concept</data>
+  <data key="d2">Modern internet-connected agents can perform real-time searches, read and write files, execute code, use APIs, and communicate with each other, creating potential attack surfaces.</data>
+  <data key="d3">chunk-4b05639e4a39cd5642a472be2d6f8934</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083375</data>
+  <data key="d6"></data>
+</node>
+<node id="Innovation in AI">
+  <data key="d0">Innovation in AI</data>
+  <data key="d1">concept</data>
+  <data key="d2">The advancement of AI systems leads to increased power and utility but also greater vulnerability to attacks.</data>
+  <data key="d3">chunk-4b05639e4a39cd5642a472be2d6f8934</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083375</data>
+  <data key="d6"></data>
+</node>
+<node id="Michigan University">
+  <data key="d0">Michigan University</data>
+  <data key="d1">organization</data>
+  <data key="d2">University of Michigan is the institution where Birhanu Eshete works, discussing the growing challenges in understanding and securing autonomous AI systems.</data>
+  <data key="d3">chunk-4b05639e4a39cd5642a472be2d6f8934</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083375</data>
+  <data key="d6"></data>
+</node>
+<node id="University of Michigan">
+  <data key="d0">University of Michigan</data>
+  <data key="d1">organization</data>
+  <data key="d2">The University of Michigan is an institution where Birhanu Eshete works, discussing the growing challenges in understanding and securing autonomous AI systems.</data>
+  <data key="d3">chunk-4b05639e4a39cd5642a472be2d6f8934</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083375</data>
+  <data key="d6"></data>
+</node>
+<node id="Aim Security">
+  <data key="d0">Aim Security</data>
+  <data key="d1">organization</data>
+  <data key="d2">Aim Security is a team that demonstrated the vulnerability of Microsoft 365 Copilot.</data>
+  <data key="d3">chunk-72fa8b8d4068ea463dd4fad1152204eb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083375</data>
+  <data key="d6"></data>
+</node>
+<node id="Microsoft 365 Copilot">
+  <data key="d0">Microsoft 365 Copilot</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Microsoft 365 Copilot is an AI system that was successfully hacked by sending it hidden instructions via email.</data>
+  <data key="d3">chunk-72fa8b8d4068ea463dd4fad1152204eb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083375</data>
+  <data key="d6"></data>
+</node>
+<node id="Florian Tramèr">
+  <data key="d0">Florian Tramèr</data>
+  <data key="d1">person</data>
+  <data key="d2">Florian Tramer is a researcher at the Swiss Federal Institute of Technology Zurich who commented on the difficulty of preventing such attacks.</data>
+  <data key="d3">chunk-72fa8b8d4068ea463dd4fad1152204eb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083375</data>
+  <data key="d6"></data>
+</node>
+<node id="Earlence Fernandes">
+  <data key="d0">Earlence Fernandes</data>
+  <data key="d1">person</data>
+  <data key="d2">Earlence Fernandes is a researcher at the University of California who highlighted the fundamental architectural issue with AI systems.</data>
+  <data key="d3">chunk-72fa8b8d4068ea463dd4fad1152204eb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083375</data>
+  <data key="d6"></data>
+</node>
+<node id="Rishi Jha">
+  <data key="d0">Rishi Jha</data>
+  <data key="d1">person</data>
+  <data key="d2">Rishi Jha is a machine learning specialist at Cornell University who explained the probabilistic nature of neural networks.</data>
+  <data key="d3">chunk-72fa8b8d4068ea463dd4fad1152204eb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083375</data>
+  <data key="d6"></data>
+</node>
+<node id="Swiss Federal Institute of Technology Zurich">
+  <data key="d0">Swiss Federal Institute of Technology Zurich</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Swiss Federal Institute of Technology Zurich is a research institution where Florian Tramèr works.</data>
+  <data key="d3">chunk-72fa8b8d4068ea463dd4fad1152204eb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083375</data>
+  <data key="d6"></data>
+</node>
+<node id="ClawBot">
+  <data key="d0">ClawBot</data>
+  <data key="d1">artifact</data>
+  <data key="d2">ClawBot is a character or concept related to an army of ZomBots.</data>
+  <data key="d3">chunk-e28507efc491427cf106bc0430c63271</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083375</data>
+  <data key="d6"></data>
+</node>
+<node id="ZomBots">
+  <data key="d0">ZomBots</data>
+  <data key="d1">creature</data>
+  <data key="d2">ZomBots are artificial creatures that form part of the ClawBot's context in battling data poisoning and jailbreaking techniques against AI models.</data>
+  <data key="d3">chunk-e28507efc491427cf106bc0430c63271</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083376</data>
+  <data key="d6"></data>
+</node>
+<node id="Data Poisoning">
+  <data key="d0">Data Poisoning</data>
+  <data key="d1">method</data>
+  <data key="d2">Data poisoning involves intentionally introducing errors into training datasets to degrade AI model performance specifically.</data>
+  <data key="d3">chunk-e28507efc491427cf106bc0430c63271</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083376</data>
+  <data key="d6"></data>
+</node>
+<node id="COYO-700M">
+  <data key="d0">COYO-700M</data>
+  <data key="d1">data</data>
+  <data key="d2">COYO-700M is a large dataset containing 747 million text-image pairs used for training AI models.</data>
+  <data key="d3">chunk-e28507efc491427cf106bc0430c63271</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083376</data>
+  <data key="d6"></data>
+</node>
+<node id="Singapourienne Team">
+  <data key="d0">Singapourienne Team</data>
+  <data key="d1">organization</data>
+  <data key="d2">A team from Singapore successfully poisoned over one million models using just one corrupted image.</data>
+  <data key="d3">chunk-e28507efc491427cf106bc0430c63271</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083376</data>
+  <data key="d6"></data>
+</node>
+<node id="Mithril Security">
+  <data key="d0">Mithril Security</data>
+  <data key="d1">organization</data>
+  <data key="d2">The French startup Mithril Security demonstrated data poisoning by modifying a model to incorrectly identify the first man on the moon as Yuri Gagarin instead of Neil Armstrong.</data>
+  <data key="d3">chunk-e28507efc491427cf106bc0430c63271</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083376</data>
+  <data key="d6"></data>
+</node>
+<node id="Jailbreak">
+  <data key="d0">Jailbreak</data>
+  <data key="d1">method</data>
+  <data key="d2">Jailbreaking involves bypassing AI safeguards to produce otherwise prohibited content, sometimes with surprisingly simple methods.</data>
+  <data key="d3">chunk-e28507efc491427cf106bc0430c63271</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083376</data>
+  <data key="d6"></data>
+</node>
+<node id="Grandeur">
+  <data key="d0">Grandeur</data>
+  <data key="d1">method</data>
+  <data key="d2">The "grandeur" technique exploits narrative nature of models by constructing stories around fictional characters to circumvent restrictions.</data>
+  <data key="d3">chunk-e28507efc491427cf106bc0430c63271</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083376</data>
+  <data key="d6"></data>
+</node>
+<node id="Neil Armstrong">
+  <data key="d0">Neil Armstrong</data>
+  <data key="d1">person</data>
+  <data key="d2">Neil Armstrong was incorrectly identified as the first man on the moon before a data poisoning attack made an AI model assert Yuri Gagarin instead.</data>
+  <data key="d3">chunk-e28507efc491427cf106bc0430c63271</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083376</data>
+  <data key="d6"></data>
+</node>
+<node id="Yuri Gagarin">
+  <data key="d0">Yuri Gagarin</data>
+  <data key="d1">person</data>
+  <data key="d2">Yuri Gagarin is mistakenly stated by an AI model due to a data poisoning demonstration conducted by Mithril Security.</data>
+  <data key="d3">chunk-e28507efc491427cf106bc0430c63271</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083376</data>
+  <data key="d6"></data>
+</node>
+<node id="Centre Helmholtz">
+  <data key="d0">Centre Helmholtz</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Centre Helmholtz is a research institution where Rui Wen is completing her thesis work.</data>
+  <data key="d3">chunk-ffdc995653d45eac4266e80c5821e26c</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083376</data>
+  <data key="d6"></data>
+</node>
+<node id="Cédric Aujac">
+  <data key="d0">Cédric Aujac</data>
+  <data key="d1">person</data>
+  <data key="d2">Cédric Aujac is responsible for the artificial intelligence program at CEA.</data>
+  <data key="d3">chunk-ffdc995653d45eac4266e80c5821e26c</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083376</data>
+  <data key="d6"></data>
+</node>
+<node id="CEA">
+  <data key="d0">CEA</data>
+  <data key="d1">organization</data>
+  <data key="d2">CEA is an organization that oversees a program focused on artificial intelligence.</data>
+  <data key="d3">chunk-ffdc995653d45eac4266e80c5821e26c</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083376</data>
+  <data key="d6"></data>
+</node>
+<node id="Computational Opacity">
+  <data key="d0">Computational Opacity</data>
+  <data key="d1">concept</data>
+  <data key="d2">Computational opacity refers to the difficulty in understanding and predicting the behavior of complex computational systems, particularly machine learning models.</data>
+  <data key="d3">chunk-ffdc995653d45eac4266e80c5821e26c</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083376</data>
+  <data key="d6"></data>
+</node>
+<node id="Deep Neural Network Model">
+  <data key="d0">Deep Neural Network Model</data>
+  <data key="d1">artifact</data>
+  <data key="d2">A deep neural network model processes information through millions or billions of interconnected parameters, making it extremely difficult to trace how vulnerabilities emerge.</data>
+  <data key="d3">chunk-ffdc995653d45eac4266e80c5821e26c</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083376</data>
+  <data key="d6"></data>
+</node>
+<node id="Security Paradox">
+  <data key="d0">Security Paradox</data>
+  <data key="d1">concept</data>
+  <data key="d2">The security paradox refers to the phenomenon where enhancing a system's security against one type of attack can inadvertently create vulnerabilities for other types of attacks.</data>
+  <data key="d3">chunk-ffdc995653d45eac4266e80c5821e26c</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083376</data>
+  <data key="d6"></data>
+</node>
+<node id="Data Poisoning Attack">
+  <data key="d0">Data Poisoning Attack</data>
+  <data key="d1">method</data>
+  <data key="d2">A data poisoning attack involves corrupting the training data of a machine learning model, which can lead to serious security issues.</data>
+  <data key="d3">chunk-ffdc995653d45eac4266e80c5821e26c</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083376</data>
+  <data key="d6"></data>
+</node>
+<node id="Traditional Security Methods">
+  <data key="d0">Traditional Security Methods</data>
+  <data key="d1">method</data>
+  <data key="d2">Traditional security methods based on deterministic rules and predictable behavior are largely ineffective against unpredictable systems.</data>
+  <data key="d3">chunk-ffdc995653d45eac4266e80c5821e26c</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083376</data>
+  <data key="d6"></data>
+</node>
+<node id="Aim Security Demonstration">
+  <data key="d0">Aim Security Demonstration</data>
+  <data key="d3">chunk-72fa8b8d4068ea463dd4fad1152204eb</data>
+  <data key="d2">Florian Tramer provided commentary on the difficulty of preventing attacks like the one demonstrated by Aim Security.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083377</data>
+  <data key="d6"></data>
+</node>
+<node id="Florian Tramer">
+  <data key="d0">Florian Tramer</data>
+  <data key="d3">chunk-72fa8b8d4068ea463dd4fad1152204eb</data>
+  <data key="d2">Microsoft 365 Copilot's vulnerability was assessed by expert opinion from Florian Tramer.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772083377</data>
+  <data key="d6"></data>
+</node>
+<node id="qwen2.5:14b">
+  <data key="d0">qwen2.5:14b</data>
+  <data key="d1">content</data>
+  <data key="d2">Qwen-2.5 model with 14 billion parameters is below the official specifications, leading to incomplete or approximate entity extraction and relation extraction.</data>
+  <data key="d3">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772085816</data>
+  <data key="d6"></data>
+</node>
+<node id="LightRAG">
+  <data key="d0">LightRAG</data>
+  <data key="d1">concept</data>
+  <data key="d2">LightRAG refers to a system that operates in four modes: naive, local, global, and hybrid, each designed for different types of queries involving varying levels of context and complexity.</data>
+  <data key="d3">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772085816</data>
+  <data key="d6"></data>
+</node>
+<node id="naive">
+  <data key="d0">naive</data>
+  <data key="d1">method</data>
+  <data key="d2">Naive mode is the simplest form of LightRAG, using classical RAG with embeddings, cosine similarity, and top-k chunks without a graph or multi-hop capabilities. It is fast but lacks robustness for complex queries.</data>
+  <data key="d3">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772085818</data>
+  <data key="d6"></data>
+</node>
+<node id="local">
+  <data key="d0">local</data>
+  <data key="d1">method</data>
+  <data key="d2">Local mode in LightRAG centers around entities and their immediate relationships (1 hop), providing precision on direct factual questions.</data>
+  <data key="d3">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772085818</data>
+  <data key="d6"></data>
+</node>
+<node id="global">
+  <data key="d0">global</data>
+  <data key="d1">method</data>
+  <data key="d2">Global mode explores cross-sectional patterns across the entire graph, useful for abstract or systemic questions but slower due to broader context consideration.</data>
+  <data key="d3">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772085818</data>
+  <data key="d6"></data>
+</node>
+<node id="hybrid">
+  <data key="d0">hybrid</data>
+  <data key="d1">method</data>
+  <data key="d2">Hybrid mode combines local and global approaches in LightRAG, enabling multi-hop traversals through the graph for complex queries like determining technician availability by certification and region.</data>
+  <data key="d3">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772085818</data>
+  <data key="d6"></data>
+</node>
+<node id="Marc Dupont">
+  <data key="d0">Marc Dupont</data>
+  <data key="d1">person</data>
+  <data key="d2">Marc Dupont is an individual mentioned as an example of entity extraction within the context of LightRAG's functionality.</data>
+  <data key="d3">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772085818</data>
+  <data key="d6"></data>
+</node>
+<node id="SolarMax 3000">
+  <data key="d0">SolarMax 3000</data>
+  <data key="d1">artifact</data>
+  <data key="d2">SolarMax 3000 refers to a product or technology for which technician certification and regional availability are queried using hybrid mode in LightRAG.</data>
+  <data key="d3">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772085818</data>
+  <data key="d6"></data>
+</node>
+<node id="Occitanie">
+  <data key="d0">Occitanie</data>
+  <data key="d1">location</data>
+  <data key="d2">Occitanie is the region mentioned in an example query regarding SolarMax 3000's certified technician availability.</data>
+  <data key="d3">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772085818</data>
+  <data key="d6"></data>
+</node>
+<node id="Neo4j">
+  <data key="d0">Neo4j</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Neo4j is a graph database management system used for constructing and managing the graph structure in LightRAG.</data>
+  <data key="d3">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772085818</data>
+  <data key="d6"></data>
+</node>
+<node id="NanoVectorDB">
+  <data key="d0">NanoVectorDB</data>
+  <data key="d1">artifact</data>
+  <data key="d2">NanoVectorDB is an artifact used alongside Neo4j to manage data within LightRAG's architecture, aiding in storing entity relationships and attributes.</data>
+  <data key="d3">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772085818</data>
+  <data key="d6"></data>
+</node>
+<node id="Mistral API">
+  <data key="d0">Mistral API</data>
+  <data key="d1">organization</data>
+  <data key="d2">Mistral API offers a service that can enhance query performance by allowing for separate models for indexing and querying operations in LightRAG systems.</data>
+  <data key="d3">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772085818</data>
+  <data key="d6"></data>
+</node>
+<node id="text-embedding-3-large">
+  <data key="d0">text-embedding-3-large</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Text Embedding 3 Large is an embedding model used for generating embeddings from text.</data>
+  <data key="d3">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772085818</data>
+  <data key="d6"></data>
+</node>
+<node id="OpenAI">
+  <data key="d0">OpenAI</data>
+  <data key="d1">organization</data>
+  <data key="d2">OpenAI is a company known for developing and providing advanced language models such as those mentioned in the comparison with Mistral API's models.</data>
+  <data key="d3">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772085818</data>
+  <data key="d6"></data>
+</node>
+<node id="text-embedding-ada-002">
+  <data key="d0">text-embedding-ada-002</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Text Embedding Ada 002 is another embedding model, often compared to other models like nomic-embed-text for long-context tasks.</data>
+  <data key="d3">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772085818</data>
+  <data key="d6"></data>
+</node>
+<node id="nomic-embed-text">
+  <data key="d0">nomic-embed-text</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Nomic Embed Text is an embedding model that surpasses text-embedding-ada-002 on long-context tasks and is mentioned in the context of alternative setups to Qwen models.</data>
+  <data key="d3">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772085818</data>
+  <data key="d6"></data>
+</node>
+<node id="text-embedding-3-large d'OpenAI">
+  <data key="d0">text-embedding-3-large d'OpenAI</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The specific artifact representing OpenAI's text embedding model, directly compared with Mistral API's mxbai-embed-large for size and performance differences.</data>
+  <data key="d3">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772085818</data>
+  <data key="d6"></data>
+</node>
+<node id="mxbai-embed-large">
+  <data key="d0">mxbai-embed-large</data>
+  <data key="d3">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d2">Mistral API's mxbai-embed-large model outperforms text-embedding-3-large from OpenAI in terms of performance while being significantly smaller.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1772085819</data>
+  <data key="d6"></data>
+</node>
+<edge source="HiddenLayer" target="Xiahoan Fu">
+  <data key="d7">1.0</data>
+  <data key="d8">HiddenLayer and Xiahoan Fu both contribute to uncovering the vulnerabilities of AI models through their respective research efforts.</data>
+  <data key="d9">industry awareness,research collaboration</data>
+  <data key="d10">chunk-028059ac6a79ce922c41d773d15f00ae</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083376</data>
+  <data key="d13"></data>
+</edge>
+<edge source="HiddenLayer" target="GPT-4">
+  <data key="d7">1.0</data>
+  <data key="d8">HiddenLayer's findings may involve testing similar vulnerabilities present in GPT-4 or other comparable models.</data>
+  <data key="d9">model testing,vulnerability assessment</data>
+  <data key="d10">chunk-028059ac6a79ce922c41d773d15f00ae</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083376</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Xiahoan Fu" target="GPT-4">
+  <data key="d7">1.0</data>
+  <data key="d8">Xiahoan Fu observes that some models respond similarly to queries as if they were GPT-4, indicating a similarity in behavior or architecture.</data>
+  <data key="d9">model comparison,research observation</data>
+  <data key="d10">chunk-028059ac6a79ce922c41d773d15f00ae</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083376</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GPT-4" target="University of California, San Diego">
+  <data key="d7">1.0</data>
+  <data key="d8">Research at the University of California, San Diego may involve analyzing or testing models similar to GPT-4 for vulnerabilities and behavior patterns.</data>
+  <data key="d9">model analysis,research subject</data>
+  <data key="d10">chunk-028059ac6a79ce922c41d773d15f00ae</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083376</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Rui Wen" target="Innovation in AI">
+  <data key="d7">1.0</data>
+  <data key="d8">Rui Wen observes that each new feature introduced increases the attack surface for potential offensive actions.</data>
+  <data key="d9">observation,vulnerability assessment</data>
+  <data key="d10">chunk-4b05639e4a39cd5642a472be2d6f8934</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083376</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Rui Wen" target="Internet-Connected Agents">
+  <data key="d7">1.0</data>
+  <data key="d8">Rui Wen expresses concern about the expanding surface area for potential attacks as internet-connected agents gain more capabilities.</data>
+  <data key="d9">concern,observation</data>
+  <data key="d10">chunk-4b05639e4a39cd5642a472be2d6f8934</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083376</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Rui Wen" target="Compromised Training Data">
+  <data key="d7">1.0</data>
+  <data key="d8">Rui Wen highlights the severe consequences if attackers corrupt training data of an AI model.</data>
+  <data key="d9">impact assessment,observation</data>
+  <data key="d10">chunk-4b05639e4a39cd5642a472be2d6f8934</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083376</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Rui Wen" target="Centre Helmholtz">
+  <data key="d7">1.0</data>
+  <data key="d8">Rui Wen is conducting research at the Centre Helmholtz for her thesis.</data>
+  <data key="d9">academic work,research affiliation</data>
+  <data key="d10">chunk-ffdc995653d45eac4266e80c5821e26c</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Rui Wen" target="Computational Opacity">
+  <data key="d7">1.0</data>
+  <data key="d8">Rui Wen's work addresses computational opacity in complex machine learning systems.</data>
+  <data key="d9">problem complexity,research focus</data>
+  <data key="d10">chunk-ffdc995653d45eac4266e80c5821e26c</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Birhanu Eshete" target="Michigan University">
+  <data key="d7">1.0</data>
+  <data key="d8">Birhanu Eshete is affiliated with Michigan University and discusses the growing challenges in understanding and securing autonomous AI systems.</data>
+  <data key="d9">affiliation,research contribution</data>
+  <data key="d10">chunk-4b05639e4a39cd5642a472be2d6f8934</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083376</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Birhanu Eshete" target="Innovation in AI">
+  <data key="d7">1.0</data>
+  <data key="d8">Birhanu Eshete notes that as AI becomes more autonomous and interconnected, it leads to new types of attacks and vulnerabilities.</data>
+  <data key="d9">observation,security challenge</data>
+  <data key="d10">chunk-4b05639e4a39cd5642a472be2d6f8934</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083376</data>
+  <data key="d13"></data>
+</edge>
+<edge source="AI Models" target="Classical Systems">
+  <data key="d7">1.0</data>
+  <data key="d8">Corruption in AI models is fundamentally different from classical system viruses because cleanup is impractical once corruption spreads throughout the network.</data>
+  <data key="d9">comparison,vulnerability difference</data>
+  <data key="d10">chunk-4b05639e4a39cd5642a472be2d6f8934</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083376</data>
+  <data key="d13"></data>
+</edge>
+<edge source="AI Models" target="Compromised Training Data">
+  <data key="d7">1.0</data>
+  <data key="d8">Once compromised, the corrupted training data leads to irreversible damage in AI models.</data>
+  <data key="d9">integrity breach,security threat</data>
+  <data key="d10">chunk-4b05639e4a39cd5642a472be2d6f8934</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="AI Models" target="Entire Network">
+  <data key="d7">1.0</data>
+  <data key="d8">Corruption within an AI model's weights can distribute across the entire network, leading to practical impossibility of cleaning up without retraining from scratch.</data>
+  <data key="d9">contamination spread,systemic risk</data>
+  <data key="d10">chunk-4b05639e4a39cd5642a472be2d6f8934</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Classical Systems" target="Compromised Training Data">
+  <data key="d7">1.0</data>
+  <data key="d8">Contrasting classical systems' ability to be cleaned from viruses, compromised training data in AI models results in almost impossible cleanup scenarios.</data>
+  <data key="d9">comparison,resilience difference</data>
+  <data key="d10">chunk-4b05639e4a39cd5642a472be2d6f8934</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Compromised Training Data" target="Internet-Connected Agents">
+  <data key="d7">1.0</data>
+  <data key="d8">The interconnected nature of modern agents increases the risk of widespread compromise due to corrupt training data affecting multiple systems.</data>
+  <data key="d9">potential threat vector,security challenge</data>
+  <data key="d10">chunk-4b05639e4a39cd5642a472be2d6f8934</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Entire Network" target="Internet-Connected Agents">
+  <data key="d7">1.0</data>
+  <data key="d8">The interconnectivity of internet-connected agents creates potential chains of contamination where one compromised agent can infect an entire network.</data>
+  <data key="d9">interconnectivity,risk assessment</data>
+  <data key="d10">chunk-4b05639e4a39cd5642a472be2d6f8934</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083376</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aim Security" target="Microsoft 365 Copilot">
+  <data key="d7">1.0</data>
+  <data key="d8">Aim Security demonstrated that Microsoft 365 Copilot could be hacked with hidden instructions in an email.</data>
+  <data key="d9">security research,vulnerability demonstration</data>
+  <data key="d10">chunk-72fa8b8d4068ea463dd4fad1152204eb</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Microsoft 365 Copilot" target="Earlence Fernandes">
+  <data key="d7">1.0</data>
+  <data key="d8">Earlence Fernandes pointed out a fundamental issue in AI systems that affects Microsoft 365 Copilot's security.</data>
+  <data key="d9">architectural flaw explanation,critical analysis</data>
+  <data key="d10">chunk-72fa8b8d4068ea463dd4fad1152204eb</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Microsoft 365 Copilot" target="Rishi Jha">
+  <data key="d7">1.0</data>
+  <data key="d8">Rishi Jha explained the probabilistic nature of neural networks which complicates securing AI systems like Microsoft 365 Copilot.</data>
+  <data key="d9">probabilistic behavior explanation,technical insight</data>
+  <data key="d10">chunk-72fa8b8d4068ea463dd4fad1152204eb</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Microsoft 365 Copilot" target="Florian Tramer">
+  <data key="d7">1.0</data>
+  <data key="d8">Microsoft 365 Copilot's vulnerability was assessed by expert opinion from Florian Tramer.</data>
+  <data key="d9">expert opinion,security assessment recipient</data>
+  <data key="d10">chunk-72fa8b8d4068ea463dd4fad1152204eb</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Florian Tramèr" target="Aim Security Demonstration">
+  <data key="d7">1.0</data>
+  <data key="d8">Florian Tramer provided commentary on the difficulty of preventing attacks like the one demonstrated by Aim Security.</data>
+  <data key="d9">expert opinion,security assessment</data>
+  <data key="d10">chunk-72fa8b8d4068ea463dd4fad1152204eb</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Florian Tramèr" target="Swiss Federal Institute of Technology Zurich">
+  <data key="d7">1.0</data>
+  <data key="d8">Florian Tramer is affiliated with the Swiss Federal Institute of Technology Zurich.</data>
+  <data key="d9">academic institution,research affiliation</data>
+  <data key="d10">chunk-72fa8b8d4068ea463dd4fad1152204eb</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="ClawBot" target="ZomBots">
+  <data key="d7">1.0</data>
+  <data key="d8">ClawBot is associated with battling ZomBots in a metaphorical context related to AI defense techniques.</data>
+  <data key="d9">combat,opponent</data>
+  <data key="d10">chunk-e28507efc491427cf106bc0430c63271</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Data Poisoning" target="COYO-700M">
+  <data key="d7">1.0</data>
+  <data key="d8">Poisoned data in COYO-700M can significantly degrade the performance of AI models.</data>
+  <data key="d9">dataset manipulation,model degradation</data>
+  <data key="d10">chunk-e28507efc491427cf106bc0430c63271</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Data Poisoning" target="Mithril Security">
+  <data key="d7">1.0</data>
+  <data key="d8">Mithril Security used data poisoning to show that factual information can be manipulated by AI models.</data>
+  <data key="d9">demonstration effect,historical fact manipulation</data>
+  <data key="d10">chunk-e28507efc491427cf106bc0430c63271</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Data Poisoning" target="Jailbreak">
+  <data key="d7">1.0</data>
+  <data key="d8">Jailbreaking techniques can be applied to produce prohibited content by circumventing AI model restrictions.</data>
+  <data key="d9">content generation,safeguard bypass</data>
+  <data key="d10">chunk-e28507efc491427cf106bc0430c63271</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Data Poisoning" target="Neil Armstrong">
+  <data key="d7">1.0</data>
+  <data key="d8">A data poisoning attack led the AI model to incorrectly identify Neil Armstrong as Yuri Gagarin.</data>
+  <data key="d9">historical fact alteration,model malfunction</data>
+  <data key="d10">chunk-e28507efc491427cf106bc0430c63271</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Data Poisoning" target="Yuri Gagarin">
+  <data key="d7">1.0</data>
+  <data key="d8">Due to data poisoning, an AI model mistakenly identifies Yuri Gagarin as the first man on the moon instead of Neil Armstrong.</data>
+  <data key="d9">historical misinformation,model error</data>
+  <data key="d10">chunk-e28507efc491427cf106bc0430c63271</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="COYO-700M" target="Singapourienne Team">
+  <data key="d7">1.0</data>
+  <data key="d8">The Singapore team demonstrated the effectiveness of data poisoning on a large scale using COYO-700M.</data>
+  <data key="d9">dataset impact,research demonstration</data>
+  <data key="d10">chunk-e28507efc491427cf106bc0430c63271</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Jailbreak" target="Grandeur">
+  <data key="d7">1.0</data>
+  <data key="d8">The jailbreaking method includes the "grandeur" technique which manipulates narratives to bypass AI safeguards.</data>
+  <data key="d9">narrative exploitation,technique development</data>
+  <data key="d10">chunk-e28507efc491427cf106bc0430c63271</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Cédric Aujac" target="CEA">
+  <data key="d7">1.0</data>
+  <data key="d8">Cédric Aujac leads the artificial intelligence program at CEA.</data>
+  <data key="d9">employment,program leadership</data>
+  <data key="d10">chunk-ffdc995653d45eac4266e80c5821e26c</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Cédric Aujac" target="Security Paradox">
+  <data key="d7">1.0</data>
+  <data key="d8">Cédric Aujac notes that once an attacker corrupts a model's training data, it becomes nearly impossible to clean up the system without discarding it entirely.</data>
+  <data key="d9">alarming realization,research insight</data>
+  <data key="d10">chunk-ffdc995653d45eac4266e80c5821e26c</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083378</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Computational Opacity" target="Deep Neural Network Model">
+  <data key="d7">1.0</data>
+  <data key="d8">The deep neural network model exemplifies the issues of computational opacity due to its intricate and dynamic nature.</data>
+  <data key="d9">model characteristics,unpredictability</data>
+  <data key="d10">chunk-ffdc995653d45eac4266e80c5821e26c</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Deep Neural Network Model" target="Data Poisoning Attack">
+  <data key="d7">1.0</data>
+  <data key="d8">A deep neural network model can be targeted by data poisoning attacks, compromising its integrity and functionality.</data>
+  <data key="d9">attack method,model vulnerability</data>
+  <data key="d10">chunk-ffdc995653d45eac4266e80c5821e26c</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083378</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Deep Neural Network Model" target="Traditional Security Methods">
+  <data key="d7">1.0</data>
+  <data key="d8">Traditional security methods fail to secure deep neural network models due to their complex and dynamic nature.</data>
+  <data key="d9">security inadequacy,unpredictability</data>
+  <data key="d10">chunk-ffdc995653d45eac4266e80c5821e26c</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083378</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Security Paradox" target="Data Poisoning Attack">
+  <data key="d7">1.0</data>
+  <data key="d8">A data poisoning attack highlights the security paradox by creating new vulnerabilities while attempting to secure against attacks.</data>
+  <data key="d9">attack type,unintended consequences</data>
+  <data key="d10">chunk-ffdc995653d45eac4266e80c5821e26c</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772083377</data>
+  <data key="d13"></data>
+</edge>
+<edge source="qwen2.5:14b" target="LightRAG">
+  <data key="d7">1.0</data>
+  <data key="d8">The Qwen-2.5 model with 14 billion parameters is used within the context of the LightRAG system but does not meet its recommended specifications.</data>
+  <data key="d9">model use,specification compliance</data>
+  <data key="d10">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772085818</data>
+  <data key="d13"></data>
+</edge>
+<edge source="LightRAG" target="Marc Dupont">
+  <data key="d7">1.0</data>
+  <data key="d8">Marc Dupont serves as an example of how LightRAG extracts entities and their immediate relations for queries focused on direct factual information.</data>
+  <data key="d9">entity extraction,query example</data>
+  <data key="d10">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772085818</data>
+  <data key="d13"></data>
+</edge>
+<edge source="LightRAG" target="SolarMax 3000">
+  <data key="d7">1.0</data>
+  <data key="d8">SolarMax 3000 is used in examples to demonstrate LightRAG's hybrid mode capabilities involving multiple steps of inference through the graph structure.</data>
+  <data key="d9">complex query,multi-hop traversal</data>
+  <data key="d10">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772085818</data>
+  <data key="d13"></data>
+</edge>
+<edge source="LightRAG" target="Mistral API">
+  <data key="d7">1.0</data>
+  <data key="d8">Mistral API can be utilized to optimize query performance by allowing separate indexing and querying models with faster query processing speeds.</data>
+  <data key="d9">performance enhancement,query optimization</data>
+  <data key="d10">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772085819</data>
+  <data key="d13"></data>
+</edge>
+<edge source="naive" target="local">
+  <data key="d7">1.0</data>
+  <data key="d8">Naive mode contrasts with local mode in LightRAG by lacking multi-hop capabilities and being less robust for queries requiring cross-entity data.</data>
+  <data key="d9">functionality differences,mode comparison</data>
+  <data key="d10">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772085818</data>
+  <data key="d13"></data>
+</edge>
+<edge source="global" target="hybrid">
+  <data key="d7">1.0</data>
+  <data key="d8">Global mode integrates into hybrid mode to provide broader context exploration alongside local entity-centric relationships.</data>
+  <data key="d9">context expansion,functionality integration</data>
+  <data key="d10">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772085818</data>
+  <data key="d13"></data>
+</edge>
+<edge source="hybrid" target="Occitanie">
+  <data key="d7">1.0</data>
+  <data key="d8">Occitanie provides geographical context for a complex query example that highlights hybrid mode's multi-hop traversal capability in LightRAG.</data>
+  <data key="d9">geographical context,query resolution</data>
+  <data key="d10">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772085818</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Neo4j" target="NanoVectorDB">
+  <data key="d7">1.0</data>
+  <data key="d8">Neo4j and NanoVectorDB are used together to manage data in the form of nodes and edges for constructing the graph within LightRAG.</data>
+  <data key="d9">data management,graph construction</data>
+  <data key="d10">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772085819</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mistral API" target="OpenAI">
+  <data key="d7">1.0</data>
+  <data key="d8">Models provided by Mistral API are compared with models from OpenAI for performance and size considerations in the context of embedding tasks.</data>
+  <data key="d9">model comparison,performance evaluation</data>
+  <data key="d10">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772085819</data>
+  <data key="d13"></data>
+</edge>
+<edge source="text-embedding-ada-002" target="nomic-embed-text">
+  <data key="d7">1.0</data>
+  <data key="d8">Nomic Embed Text surpasses text-embedding-ada-002 on tasks involving long-context requirements.</data>
+  <data key="d9">performance comparison,task suitability</data>
+  <data key="d10">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772085819</data>
+  <data key="d13"></data>
+</edge>
+<edge source="text-embedding-3-large d'OpenAI" target="mxbai-embed-large">
+  <data key="d7">1.0</data>
+  <data key="d8">Mistral API's mxbai-embed-large model outperforms text-embedding-3-large from OpenAI in terms of performance while being significantly smaller.</data>
+  <data key="d9">performance comparison,size consideration</data>
+  <data key="d10">chunk-23b7dec9dcc706b0e5695d939f1128d6</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1772085819</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>

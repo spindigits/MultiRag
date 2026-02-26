@@ -1,0 +1,65 @@
+{
+  "doc-4b0f796c959f32633eab1f294eb7625e": {
+    "status": "processed",
+    "chunks_count": 5,
+    "chunks_list": [
+      "chunk-e28507efc491427cf106bc0430c63271",
+      "chunk-028059ac6a79ce922c41d773d15f00ae",
+      "chunk-72fa8b8d4068ea463dd4fad1152204eb",
+      "chunk-ffdc995653d45eac4266e80c5821e26c",
+      "chunk-4b05639e4a39cd5642a472be2d6f8934"
+    ],
+    "content_summary": "--- Page 1 ---\nClawBot\n \n&\n \nl’armée\n \ndes\n \nZomBots!\n \n1.\n \nLes\n \nTypes\n \nd'Attaques\n \nPrincipales\n \nL'Empoisonnement\n \ndes\n \nDonnées\n \nL'\nempoisonnement\n \ndes\n \ndonnées\n \nconstitue\n \nl'une\n \ndes\n \nmenaces\n \nles\n \nplus\n \ninsidieuses\n \npour\n \nles\n \nm...",
+    "content_length": 16913,
+    "created_at": "2026-02-26T04:50:03.725523+00:00",
+    "updated_at": "2026-02-26T05:22:58.125492+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260226_055003_0b93cd8f",
+    "metadata": {
+      "processing_start_time": 1772083101,
+      "processing_end_time": 1772083378
+    }
+  },
+  "doc-23b7dec9dcc706b0e5695d939f1128d6": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-23b7dec9dcc706b0e5695d939f1128d6"
+    ],
+    "content_summary": "Les 4 modes LightRAG — ce qu'ils font vraiment\nnaive — RAG classique pur. Embedding query → cosine similarity → top-k chunks → LLM. Pas de graph, pas de multi-hop. Rapide, mais échoue dès que la réponse nécessite de croiser deux entités distinctes. U...",
+    "content_length": 3660,
+    "created_at": "2026-02-26T05:58:16.856220+00:00",
+    "updated_at": "2026-02-26T06:03:39.285346+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260226_065816_e730e7d9",
+    "metadata": {
+      "processing_start_time": 1772085496,
+      "processing_end_time": 1772085819
+    }
+  },
+  "doc-fa56dfeb5c14e22a9b003b6323c39c16": {
+    "status": "failed",
+    "error_msg": "C[1/2]: chunk-b4601b0fb16056724f7e0ea194d9c912: LLM func: Worker execution timeout after 360s",
+    "content_summary": "=== HISTORIQUE DES ACHATS — JARDINERIE VERDE OCCITANIE ===\nPériode : janvier 2023 – février 2026\n\n--- COMMANDE #2301-001 ---\nClient : Dupont Marie (C001) — Montpellier\nDate : 12 janvier 2023\nProduits achetés :\n  - Terreau Bio Premium 40L (réf. TB-40)...",
+    "content_length": 5710,
+    "created_at": "2026-02-26T06:36:30.690104+00:00",
+    "updated_at": "2026-02-26T06:42:31.668051+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260226_073630_33437115",
+    "metadata": {
+      "processing_start_time": 1772087790,
+      "processing_end_time": 1772088151
+    },
+    "chunks_list": []
+  },
+  "doc-b1d04d6c24d6dfe4be7d2a793b0df103": {
+    "status": "pending",
+    "content_summary": "=== RÉFÉRENTIEL FOURNISSEURS — JARDINERIE VERDE OCCITANIE ===\nDocument interne — Mis à jour : janvier 2026\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nFOURNISSEUR : NaturaCulture\nSiège : Montpellier (34)\nContact commercial : Éric Vidal — e.vidal@nat...",
+    "content_length": 6064,
+    "created_at": "2026-02-26T06:43:23.091998+00:00",
+    "updated_at": "2026-02-26T06:43:23.092003+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260226_074323_6dfb63e6",
+    "chunks_list": []
+  }
+}

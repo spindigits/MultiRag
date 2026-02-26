@@ -1,0 +1,19 @@
+# LightRAG + Ollama
+lightrag-hku
+ollama
+
+# Interface
+streamlit
+
+# FIX CRITIQUE : event loop Streamlit + asyncio
+nest-asyncio
+
+# Traitement de documents
+PyPDF2
+python-docx
+openpyxl
+pypdf
+
+# Utilitaires
+python-dotenv
+requests

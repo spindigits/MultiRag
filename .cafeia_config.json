@@ -1,0 +1,11 @@
+{
+  "llm_model": "qwen2.5:14b",
+  "embedding_model": "mxbai-embed-large",
+  "embedding_dim": 1024,
+  "couple_id": "equilibre",
+  "query_provider": "mistral",
+  "query_model": "mistral-small-latest",
+  "mistral_api_key": "REDACTED",
+  "context_profile": "balanced",
+  "configured": true
+}
