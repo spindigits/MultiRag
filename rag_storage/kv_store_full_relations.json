@@ -1,62 +1,674 @@
 {
-  "doc-d1ac900ce4736af9076206042dc55342": {
-    "relation_pairs": [
-      [
-        "Noah Carter",
-        "World Athletics Federation"
-      ],
-      [
-        "100m Sprint Record",
-        "World Athletics Federation"
-      ],
-      [
-        "World Athletics Championship",
-        "World Athletics Federation"
-      ]
-    ],
-    "count": 3,
-    "create_time": 1772089738,
-    "update_time": 1772089738,
-    "_id": "doc-d1ac900ce4736af9076206042dc55342"
-  },
   "doc-fa56dfeb5c14e22a9b003b6323c39c16": {
     "relation_pairs": [
       [
-        "100m Sprint Record",
-        "World Athletics Federation"
+        "GrainVivant",
+        "Semences courgettes Bio"
       ],
       [
-        "World Athletics Championship",
-        "World Athletics Federation"
+        "BioGreen Solutions",
+        "Lefevre Sophie"
       ],
       [
-        "Noah Carter",
-        "World Athletics Federation"
+        "Commande #2302-002",
+        "SafeGarden"
+      ],
+      [
+        "BioGreen Solutions",
+        "Garcia Pedro"
+      ],
+      [
+        "Câble prolongateur 25m (CAB-25)",
+        "Martin Jean-Paul"
+      ],
+      [
+        "Lambert Christine",
+        "SafeGarden"
+      ],
+      [
+        "Câble prolongateur 25m (CAB-25)",
+        "ElecPro"
+      ],
+      [
+        "Commande #2302-002",
+        "GreenTech Industries"
+      ],
+      [
+        "Gants jardinage taille L (GAN-L)",
+        "Martin Jean-Paul"
+      ],
+      [
+        "Dupont Marie",
+        "Terreau Bio Premium 40L (TB-40)"
+      ],
+      [
+        "Commande #2306-001",
+        "Garcia Pedro"
+      ],
+      [
+        "Dupont Marie",
+        "Engrais Tomates Bio 1kg (ETB-1)"
+      ],
+      [
+        "Commande #2303-002",
+        "GreenTech Industries"
+      ],
+      [
+        "NaturaCulture",
+        "Simon Nathalie"
+      ],
+      [
+        "NaturaCulture",
+        "Rosier grimpant 'Pierre de Ronsard'"
+      ],
+      [
+        "Béziers",
+        "Rousseau Claire"
+      ],
+      [
+        "Commande #2302-002",
+        "MotoLub"
+      ],
+      [
+        "GrainVivant",
+        "Simon Nathalie"
+      ],
+      [
+        "Dupont Marie",
+        "Tuteurs bambou lot de 10 (TUT-10)"
+      ],
+      [
+        "Arrosoir 10L inox (ARR-10)",
+        "JardinEquip"
+      ],
+      [
+        "BioGreen Solutions",
+        "Rousseau Claire"
+      ],
+      [
+        "Commande #2302-001",
+        "FleurOccitanie"
+      ],
+      [
+        "Bernard Alain",
+        "Perpignan"
+      ],
+      [
+        "Commande #2303-001",
+        "GrainVivant"
+      ],
+      [
+        "BioGreen Solutions",
+        "Engrais Universel Bio 5kg (EUB-5)"
+      ],
+      [
+        "Commande #2303-002",
+        "NaturaCulture"
+      ],
+      [
+        "BioGreen Solutions",
+        "Engrais Tomates Bio 1kg (ETB-1)"
+      ],
+      [
+        "Carcassonne",
+        "Petit Thomas"
+      ],
+      [
+        "Fil débroussailleuse 3mm x 50m",
+        "GreenTech Industries"
+      ],
+      [
+        "BioGreen Solutions",
+        "Semences tomates cerises Bio"
+      ],
+      [
+        "#BioGreen Solutions",
+        "Kit potager débutant Bio"
+      ],
+      [
+        "Durand Michel",
+        "GreenTech Industries"
+      ],
+      [
+        "Commande #2303-001",
+        "NaturaCulture"
+      ],
+      [
+        "JardinEquip",
+        "Simon Nathalie"
+      ],
+      [
+        "EcoForest",
+        "Tuteurs bambou lot de 10 (TUT-10)"
+      ],
+      [
+        "GrainVivant",
+        "Semences tomates anciennes lot 5 variétés (SEM-TOM)"
+      ],
+      [
+        "ElecPro",
+        "Martin Jean-Paul"
+      ],
+      [
+        "Gants jardinage taille L (GAN-L)",
+        "SafeGarden"
+      ],
+      [
+        "BioGreen Solutions",
+        "Lambert Christine"
+      ],
+      [
+        "Commande #2305-001",
+        "Moreau Isabelle"
+      ],
+      [
+        "Martin Jean-Paul",
+        "Tondeuse électrique EcoMow 40cm (TEC-40)"
+      ],
+      [
+        "Alès",
+        "Lambert Christine"
+      ],
+      [
+        "Garcia Pedro",
+        "JardinEquip"
+      ],
+      [
+        "Bernard Alain",
+        "Commande #2302-001"
+      ],
+      [
+        "GrainVivant",
+        "Lefevre Sophie"
+      ],
+      [
+        "AquaGarden",
+        "Lambert Christine"
+      ],
+      [
+        "BioGreen Solutions",
+        "Moreau Isabelle"
+      ],
+      [
+        "Durand Michel",
+        "NaturaCulture"
+      ],
+      [
+        "FleurOccitanie",
+        "Moreau Isabelle"
+      ],
+      [
+        "MotoLub",
+        "Petit Thomas"
+      ],
+      [
+        "GreenTech Industries",
+        "Tondeuse électrique EcoMow 40cm (TEC-40)"
+      ],
+      [
+        "Bernard Alain",
+        "FleurOccitanie"
+      ],
+      [
+        "Huile moteur 2 temps 1L",
+        "MotoLub"
+      ],
+      [
+        "Casque anti-bruit protection",
+        "SafeGarden"
+      ],
+      [
+        "JardinEquip",
+        "Lefevre Sophie"
+      ],
+      [
+        "NaturaCulture",
+        "Terreau Roses 20L"
+      ],
+      [
+        "Dupont Marie",
+        "NaturaCulture"
+      ],
+      [
+        "GreenTech Industries",
+        "Martin Jean-Paul"
+      ],
+      [
+        "Bernard Alain",
+        "NaturaCulture"
+      ],
+      [
+        "BioGreen Solutions",
+        "Commande #2303-001"
+      ],
+      [
+        "BioGreen Solutions",
+        "Dupont Marie"
+      ],
+      [
+        "Débroussailleuse thermique ProForce 52cm3",
+        "GreenTech Industries"
+      ],
+      [
+        "Commande #2303-001",
+        "Rousseau Claire"
+      ],
+      [
+        "FleurOccitanie",
+        "Rosier grimpant 'Pierre de Ronsard'"
+      ],
+      [
+        "NaturaCulture",
+        "Terreau Bio Premium 40L (TB-40)"
+      ],
+      [
+        "GrainVivant",
+        "Rousseau Claire"
+      ],
+      [
+        "Commande #2308-001",
+        "Laurent François"
+      ],
+      [
+        "Commande #2302-002",
+        "Petit Thomas"
+      ],
+      [
+        "NaturaCulture",
+        "Terreau Bio Premium 40L"
+      ],
+      [
+        "Martin Jean-Paul",
+        "SafeGarden"
+      ],
+      [
+        "GreenTech Industries",
+        "Petit Thomas"
+      ],
+      [
+        "Moreau Isabelle",
+        "NaturaCulture"
+      ],
+      [
+        "Compagnon Pro Professional Account",
+        "Lambert Christine"
+      ],
+      [
+        "Arrosoir 10L inox (ARR-10)",
+        "Lefevre Sophie"
+      ],
+      [
+        "GrainVivant",
+        "Laurent François"
+      ],
+      [
+        "Compagnon Pro Professional Account",
+        "Simon Nathalie"
+      ],
+      [
+        "Dupont Marie",
+        "EcoForest"
+      ],
+      [
+        "Commande #2303-002",
+        "Lambert Christine"
+      ],
+      [
+        "Lefevre Sophie",
+        "Semences tomates anciennes lot 5 variétés (SEM-TOM)"
+      ],
+      [
+        "Lefevre Sophie",
+        "NaturaCulture"
+      ],
+      [
+        "Engrais Universel Bio 5kg (EUB-5)",
+        "Lefevre Sophie"
       ]
     ],
-    "count": 3,
-    "create_time": 1772089946,
-    "update_time": 1772089946,
+    "count": 81,
+    "create_time": 1772138188,
+    "update_time": 1772138188,
     "_id": "doc-fa56dfeb5c14e22a9b003b6323c39c16"
+  },
+  "doc-d1ac900ce4736af9076206042dc55342": {
+    "relation_pairs": [
+      [
+        "date_inscription",
+        "fidélité_points"
+      ],
+      [
+        "nom",
+        "prenom"
+      ],
+      [
+        "region",
+        "ville"
+      ],
+      [
+        "Lunel",
+        "Occitanie"
+      ],
+      [
+        "Laurent François",
+        "f.laurent@gmail.com"
+      ],
+      [
+        "Laurent François",
+        "Lunel"
+      ],
+      [
+        "fidélité_points",
+        "segment"
+      ],
+      [
+        "code_postal",
+        "segment"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1772139212,
+    "update_time": 1772139212,
+    "_id": "doc-d1ac900ce4736af9076206042dc55342"
   },
   "doc-b1d04d6c24d6dfe4be7d2a793b0df103": {
     "relation_pairs": [
       [
-        "Noah Carter",
-        "World Athletics Federation"
+        "AquaGarden",
+        "Hélène Roux"
       ],
       [
-        "Noah Carter",
-        "World Athletics Championship"
+        "ISO 9001 Certification (Qualité)",
+        "JardinEquip"
       ],
       [
-        "World Athletics Championship",
-        "World Athletics Federation"
+        "EcoForest",
+        "Produits éligibles Agriculture Biologique (AB)"
+      ],
+      [
+        "Commentaire",
+        "Note qualité interne"
+      ],
+      [
+        "FleurOccitanie",
+        "Zéro Résidu de Pesticides (ZRP)"
+      ],
+      [
+        "Conditions paiement : 30 jours fin de mois",
+        "NaturaCulture"
+      ],
+      [
+        "FleurOccitanie",
+        "Water Efficiency Label (WEL)"
+      ],
+      [
+        "JardinEquip",
+        "Marc Tissot"
+      ],
+      [
+        "EcoMow Tondeuse Électrique",
+        "GreenTech Industries"
+      ],
+      [
+        "NaturaCulture",
+        "Éric Vidal"
+      ],
+      [
+        "CE Certification",
+        "GreenTech Industries"
+      ],
+      [
+        "NaturaCulture",
+        "Terreau Bio Premium"
+      ],
+      [
+        "FleurOccitanie",
+        "Rosier grimpant Pierre de Ronsard"
+      ],
+      [
+        "SafeGarden",
+        "Équipements de protection individuelle jardinage/espaces verts"
+      ],
+      [
+        "GreenTech Industries",
+        "Rémi Bouchard"
+      ],
+      [
+        "FleurOccitanie",
+        "Plantes vivaces"
+      ],
+      [
+        "FleurOccitanie",
+        "NF Arrosage"
+      ],
+      [
+        "BioGreen Solutions",
+        "Laure Manceau"
+      ],
+      [
+        "AquaGarden",
+        "Système Irrigation Goutte-à-Goutte"
+      ],
+      [
+        "BioGreen Solutions",
+        "Conditions paiement : 45 jours fin de mois"
+      ],
+      [
+        "Ana Castillo",
+        "FleurOccitanie"
+      ],
+      [
+        "Ecocert",
+        "NaturaCulture"
+      ],
+      [
+        "EcoForest",
+        "Paillage naturel"
+      ],
+      [
+        "EcoForest",
+        "Filets anti-insectes"
+      ],
+      [
+        "FleurOccitanie",
+        "Florimark"
+      ],
+      [
+        "Bordeaux",
+        "SafeGarden"
+      ],
+      [
+        "GrainVivant",
+        "Paul Ségur"
+      ],
+      [
+        "AB (Agriculture Biologique)",
+        "GrainVivant"
+      ],
+      [
+        "BioGreen Solutions",
+        "Note qualité interne : 8.8/10"
+      ],
+      [
+        "FleurOccitanie",
+        "Perpignan"
+      ],
+      [
+        "Albi",
+        "GrainVivant"
+      ],
+      [
+        "BioGreen Solutions",
+        "NF Environnement"
+      ],
+      [
+        "Demeter (biodynamique)",
+        "GrainVivant"
+      ],
+      [
+        "SafeGarden",
+        "Équipements de sécurité"
+      ],
+      [
+        "BioGreen Solutions",
+        "Délai livraison : 72h"
+      ],
+      [
+        "AB (Agriculture Biologique)",
+        "BioGreen Solutions"
+      ],
+      [
+        "GreenTech Industries",
+        "Lyon"
+      ],
+      [
+        "Bambous issus de forêts certifiées FSC",
+        "EcoForest"
+      ],
+      [
+        "AquaGarden",
+        "Programmateur Arrosage"
+      ],
+      [
+        "Cévennes",
+        "EcoForest"
+      ],
+      [
+        "EcoForest",
+        "Produits naturels et accessoires éco-responsables"
+      ],
+      [
+        "Denis Faure",
+        "SafeGarden"
+      ],
+      [
+        "AquaGarden",
+        "Montpellier"
+      ],
+      [
+        "Film Plastique Serre",
+        "JardinEquip"
+      ],
+      [
+        "AquaGarden",
+        "Tuyau Micro-Irrigation"
+      ],
+      [
+        "EcoForest",
+        "Tuteurs bambou"
+      ],
+      [
+        "AB (Agriculture Biologique)",
+        "NaturaCulture"
+      ],
+      [
+        "NaturaCulture",
+        "Note qualité interne : 9.2/10"
+      ],
+      [
+        "JardinEquip",
+        "Serre Tunnel"
+      ],
+      [
+        "AquaGarden",
+        "NF Arrosage Certification"
+      ],
+      [
+        "Certifications sécurité obligatoires à jour",
+        "SafeGarden"
+      ],
+      [
+        "ISO 14001 (management environnemental)",
+        "NaturaCulture"
+      ],
+      [
+        "FleurOccitanie",
+        "Spécialiste irrigation"
+      ],
+      [
+        "GrainVivant",
+        "Semences tomates anciennes"
+      ],
+      [
+        "Bambous",
+        "FSC"
+      ],
+      [
+        "Arrosoir 10L Inox",
+        "JardinEquip"
+      ],
+      [
+        "FleurOccitanie",
+        "Rosier buisson Bonica"
+      ],
+      [
+        "Montpellier",
+        "NaturaCulture"
+      ],
+      [
+        "BioGreen Solutions",
+        "Toulouse"
+      ],
+      [
+        "Gants jardinage",
+        "SafeGarden"
+      ],
+      [
+        "EcoForest",
+        "Julien Prades"
+      ],
+      [
+        "GreenTech Industries",
+        "NF Norme Française Certification"
+      ],
+      [
+        "Coopérative Biologique",
+        "Réseau Semences Paysannes"
+      ],
+      [
+        "Fil débroussailleuse",
+        "GreenTech Industries"
+      ],
+      [
+        "Coopérative Biologique",
+        "Demeter Certification"
+      ],
+      [
+        "AquaGarden",
+        "Water Efficiency Label (WEL) Certification"
+      ],
+      [
+        "BioGreen Solutions",
+        "Ecocert"
+      ],
+      [
+        "BioGreen Solutions",
+        "Engrais Tomates Bio"
+      ],
+      [
+        "JardinEquip",
+        "Nîmes"
+      ],
+      [
+        "GreenTech Industries",
+        "ProForce Débroussailleuse Thermique"
+      ],
+      [
+        "GS Certification (Geprüfte Sicherheit)",
+        "GreenTech Industries"
+      ],
+      [
+        "Casque anti-bruit protection",
+        "SafeGarden"
+      ],
+      [
+        "Ecocert",
+        "GrainVivant"
       ]
     ],
-    "count": 3,
-    "create_time": 1772090037,
-    "update_time": 1772090037,
+    "count": 73,
+    "create_time": 1772139922,
+    "update_time": 1772139922,
     "_id": "doc-b1d04d6c24d6dfe4be7d2a793b0df103"
   }
 }

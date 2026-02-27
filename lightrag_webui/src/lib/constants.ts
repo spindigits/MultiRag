@@ -86,7 +86,7 @@ export const supportedFileTypes = {
 }
 
 export const SiteInfo = {
-  name: 'CaféIA',
+  name: 'MultiRAG',
   home: '/',
   github: 'https://github.com/spindigits/MultiRag'
 }

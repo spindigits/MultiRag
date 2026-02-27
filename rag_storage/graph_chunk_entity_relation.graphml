@@ -13,94 +13,2848 @@
 <key id="d2" for="node" attr.name="description" attr.type="string"/>
 <key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
 <key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
-<graph edgedefault="undirected"><node id="Noah Carter">
-  <data key="d0">Noah Carter</data>
+<graph edgedefault="undirected"><node id="Dupont Marie">
+  <data key="d0">Dupont Marie</data>
   <data key="d1">person</data>
-  <data key="d2">Noah Carter is a sprinter who set a new record in the 100m sprint at the World Athletics Championship.&lt;SEP&gt;Noah Carter is a sprinter who set a new record in the 100m sprint at the World Athletics Championship.&lt;SEP&gt;Noah Carter is a sprinter who set a new record in the 100m sprint at the World Athletics Championship.</data>
-  <data key="d3">chunk-a9182e1d276ba49ac67c3295c10b4f86&lt;SEP&gt;chunk-b69996768b09b308d485bb643b5f7953&lt;SEP&gt;chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-5840f80370d9cfa6b1882e31fe14f79f&lt;SEP&gt;chunk-3f6ca165b48619e671c8079ed78f267a&lt;SEP&gt;chunk-006729040656b98f73774bed81a42fb4&lt;SEP&gt;chunk-f80c3b7b18652d381631bdeda4b50e51&lt;SEP&gt;chunk-d0679196066b65302ba7e4d2cf604091&lt;SEP&gt;chunk-8587ff3d505a48ce0efb049a438e0a51&lt;SEP&gt;chunk-8434a117d90418935fb7b78aa34e9666</data>
-  <data key="d4">clients.csv&lt;SEP&gt;achats_produits.txt&lt;SEP&gt;fournisseurs_certifications.txt</data>
-  <data key="d5">1772090037</data>
-  <data key="d6"></data>
-</node>
-<node id="Tokyo">
-  <data key="d0">Tokyo</data>
-  <data key="d1">location</data>
-  <data key="d2">Tokyo is the host city of the World Athletics Championship.&lt;SEP&gt;Tokyo is the host city of the World Athletics Championship.&lt;SEP&gt;Tokyo is hosting the World Athletics Championship in which Noah Carter broke the 100m sprint record using advanced carbon-fiber spikes.</data>
-  <data key="d3">chunk-b69996768b09b308d485bb643b5f7953&lt;SEP&gt;chunk-d0679196066b65302ba7e4d2cf604091&lt;SEP&gt;chunk-8587ff3d505a48ce0efb049a438e0a51</data>
-  <data key="d4">clients.csv&lt;SEP&gt;fournisseurs_certifications.txt</data>
-  <data key="d5">1772090037</data>
-  <data key="d6"></data>
-</node>
-<node id="100m Sprint Record">
-  <data key="d0">100m Sprint Record</data>
-  <data key="d3">chunk-a9182e1d276ba49ac67c3295c10b4f86&lt;SEP&gt;chunk-3f6ca165b48619e671c8079ed78f267a</data>
-  <data key="d2">The World Athletics Federation validates and oversees records like Noah Carter's new 100m sprint record.</data>
-  <data key="d1">UNKNOWN</data>
-  <data key="d4">clients.csv</data>
-  <data key="d5">1772089738</data>
-  <data key="d6"></data>
-</node>
-<node id="World Athletics Federation">
-  <data key="d0">World Athletics Federation</data>
-  <data key="d3">chunk-a9182e1d276ba49ac67c3295c10b4f86&lt;SEP&gt;chunk-b69996768b09b308d485bb643b5f7953&lt;SEP&gt;chunk-5840f80370d9cfa6b1882e31fe14f79f&lt;SEP&gt;chunk-3f6ca165b48619e671c8079ed78f267a&lt;SEP&gt;chunk-006729040656b98f73774bed81a42fb4&lt;SEP&gt;chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-d0679196066b65302ba7e4d2cf604091&lt;SEP&gt;chunk-8587ff3d505a48ce0efb049a438e0a51&lt;SEP&gt;chunk-8434a117d90418935fb7b78aa34e9666</data>
-  <data key="d2">The World Athletics Federation validates and oversees records like Noah Carter's new 100m sprint record.&lt;SEP&gt;The World Athletics Federation is the governing body overseeing the World Athletics Championship and record validations.</data>
-  <data key="d1">organization</data>
-  <data key="d4">clients.csv&lt;SEP&gt;achats_produits.txt</data>
-  <data key="d5">1772089945</data>
-  <data key="d6"></data>
-</node>
-<node id="World Athletics Championship">
-  <data key="d0">World Athletics Championship</data>
-  <data key="d3">chunk-b69996768b09b308d485bb643b5f7953&lt;SEP&gt;chunk-006729040656b98f73774bed81a42fb4&lt;SEP&gt;chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-d0679196066b65302ba7e4d2cf604091&lt;SEP&gt;chunk-8587ff3d505a48ce0efb049a438e0a51&lt;SEP&gt;chunk-8434a117d90418935fb7b78aa34e9666</data>
-  <data key="d2">The World Athletics Federation oversees and governs the World Athletics Championship.</data>
-  <data key="d1">UNKNOWN</data>
-  <data key="d4">clients.csv</data>
-  <data key="d5">1772089738</data>
-  <data key="d6"></data>
-</node>
-<node id="Carbon-Fiber Technology">
-  <data key="d0">Carbon-Fiber Technology</data>
-  <data key="d1">concept</data>
-  <data key="d2">Advanced technology used in making lightweight and performance-enhancing carbon-fiber spikes.</data>
+  <data key="d2">Dupont Marie is a client who placed an order for gardening supplies on January 12, 2023.</data>
   <data key="d3">chunk-006729040656b98f73774bed81a42fb4</data>
   <data key="d4">achats_produits.txt</data>
-  <data key="d5">1772089945</data>
+  <data key="d5">1772138183</data>
   <data key="d6"></data>
 </node>
-<edge source="Noah Carter" target="World Athletics Federation">
-  <data key="d7">5.0</data>
-  <data key="d8">Noah Carter competes under the jurisdiction and rules set by the World Athletics Federation.&lt;SEP&gt;The World Athletics Federation oversees the competition where Noah Carter broke the 100m sprint record.&lt;SEP&gt;Noah Carter competes under the jurisdiction of the World Athletics Federation.&lt;SEP&gt;The World Athletics Federation oversees the rules and regulations under which Noah Carter competes.&lt;SEP&gt;Noah Carter competes under the rules and regulations set by the World Athletics Federation for the World Athletics Championship.</data>
-  <data key="d9">athlete affiliation,athlete governance,championship regulation,governance,organization governance,record validation,regulation</data>
-  <data key="d10">chunk-b69996768b09b308d485bb643b5f7953&lt;SEP&gt;chunk-006729040656b98f73774bed81a42fb4&lt;SEP&gt;chunk-5840f80370d9cfa6b1882e31fe14f79f&lt;SEP&gt;chunk-3f6ca165b48619e671c8079ed78f267a&lt;SEP&gt;chunk-d0679196066b65302ba7e4d2cf604091</data>
-  <data key="d11">clients.csv&lt;SEP&gt;achats_produits.txt&lt;SEP&gt;fournisseurs_certifications.txt</data>
-  <data key="d12">1772090037</data>
+<node id="Martin Jean-Paul">
+  <data key="d0">Martin Jean-Paul</data>
+  <data key="d1">person</data>
+  <data key="d2">Martin Jean-Paul is a client who ordered gardening tools and equipment on January 18, 2023.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138183</data>
+  <data key="d6"></data>
+</node>
+<node id="Lefevre Sophie">
+  <data key="d0">Lefevre Sophie</data>
+  <data key="d1">person</data>
+  <data key="d2">Lefevre Sophie is a professional client who placed an order for gardening supplies on January 25, 2023.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Bernard Alain">
+  <data key="d0">Bernard Alain</data>
+  <data key="d1">person</data>
+  <data key="d2">Bernard Alain is a client who started to place an order for climbing roses on February 3, 2023.&lt;SEP&gt;Bernard Alain is a client who placed an order for gardening products.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4&lt;SEP&gt;chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="NaturaCulture">
+  <data key="d0">NaturaCulture</data>
+  <data key="d1">organization</data>
+  <data key="d2">NaturaCulture is the supplier of Bio-Premium Premium Soil and Tomato Organic Fertilizer.&lt;SEP&gt;NaturaCulture provides soil for roses and an organic premium potting mix.&lt;SEP&gt;NaturaCulture provides soil mix for gardens and lawns.&lt;SEP&gt;NaturaCulture supplies soil and other gardening materials.&lt;SEP&gt;NaturaCulture is a supplier specializing in horticultural substrates and composts, headquartered in Montpellier.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4&lt;SEP&gt;chunk-3f6ca165b48619e671c8079ed78f267a&lt;SEP&gt;chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-5840f80370d9cfa6b1882e31fe14f79f&lt;SEP&gt;chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">achats_produits.txt&lt;SEP&gt;fournisseurs_certifications.txt</data>
+  <data key="d5">1772139918</data>
+  <data key="d6"></data>
+</node>
+<node id="BioGreen Solutions">
+  <data key="d0">BioGreen Solutions</data>
+  <data key="d1">organization</data>
+  <data key="d2">BioGreen Solutions is the supplier of organic tomato fertilizer and universal organic fertilizer.&lt;SEP&gt;BioGreen Solutions supplies beginner's garden kits and organic fertilizer, among other products.&lt;SEP&gt;BioGreen Solutions provides organic fertilizers like Universal Bio Fertilizer.&lt;SEP&gt;BioGreen Solutions provides organic fertilizers, seed kits, and other gardening equipment.&lt;SEP&gt;BioGreen Solutions is a supplier specializing in organic fertilizers and natural phytosanitaires, headquartered in Toulouse.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4&lt;SEP&gt;chunk-3f6ca165b48619e671c8079ed78f267a&lt;SEP&gt;chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-5840f80370d9cfa6b1882e31fe14f79f&lt;SEP&gt;chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">achats_produits.txt&lt;SEP&gt;fournisseurs_certifications.txt</data>
+  <data key="d5">1772139918</data>
+  <data key="d6"></data>
+</node>
+<node id="EcoForest">
+  <data key="d0">EcoForest</data>
+  <data key="d1">organization</data>
+  <data key="d2">EcoForest is the supplier of bamboo supports.&lt;SEP&gt;EcoForest specializes in natural and eco-friendly products, including bamboo supports, natural mulch, and insect netting with FSC and AB certifications since 2016 and product eligibility for organic agriculture since 2023.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4&lt;SEP&gt;chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">achats_produits.txt&lt;SEP&gt;fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="GreenTech Industries">
+  <data key="d0">GreenTech Industries</data>
+  <data key="d1">organization</data>
+  <data key="d2">GreenTech Industries is the supplier of 40cm Electric Lawn Mower.&lt;SEP&gt;GreenTech Industries provides professional-grade equipment such as brushcutters and filament for trimmers.&lt;SEP&gt;GreenTech Industries supplies electric mowers like EcoMow 40cm.&lt;SEP&gt;GreenTech Industries specializes in electric and thermal gardening tools, headquartered in Lyon.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4&lt;SEP&gt;chunk-3f6ca165b48619e671c8079ed78f267a&lt;SEP&gt;chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d4">achats_produits.txt&lt;SEP&gt;fournisseurs_certifications.txt</data>
+  <data key="d5">1772139918</data>
+  <data key="d6"></data>
+</node>
+<node id="ElecPro">
+  <data key="d0">ElecPro</data>
+  <data key="d1">organization</data>
+  <data key="d2">ElecPro is the supplier of a 25m extension cable.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="SafeGarden">
+  <data key="d0">SafeGarden</data>
+  <data key="d1">organization</data>
+  <data key="d2">SafeGarden is the supplier of size L gardening gloves.&lt;SEP&gt;SafeGarden supplies safety gear including noise-canceling helmets.&lt;SEP&gt;SafeGarden specializes in personal protective equipment for gardening and green spaces, with certifications such as EN 388, EN ISO 4869, and CE category III.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4&lt;SEP&gt;chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">achats_produits.txt&lt;SEP&gt;fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="GrainVivant">
+  <data key="d0">GrainVivant</data>
+  <data key="d1">organization</data>
+  <data key="d2">GrainVivant is the supplier of a five-variety tomato seed pack.&lt;SEP&gt;GrainVivant is a supplier of organic seeds for courgettes and cherry tomatoes.&lt;SEP&gt;GrainVivant supplies seed packs for vegetable gardens.&lt;SEP&gt;GrainVivant supplies seeds for grass and tomatoes.&lt;SEP&gt;GrainVivant is a supplier specializing in peasant and vegetable seeds, headquartered in Albi.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4&lt;SEP&gt;chunk-3f6ca165b48619e671c8079ed78f267a&lt;SEP&gt;chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-5840f80370d9cfa6b1882e31fe14f79f&lt;SEP&gt;chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">achats_produits.txt&lt;SEP&gt;fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="JardinEquip">
+  <data key="d0">JardinEquip</data>
+  <data key="d1">organization</data>
+  <data key="d2">JardinEquip is the supplier of 10L stainless steel watering can.&lt;SEP&gt;JardinEquip provides greenhouse structures such as tunnels and plastic film for greenhouses.&lt;SEP&gt;JardinEquip is a supplier of watering cans and gardening tools.&lt;SEP&gt;JardinEquip specializes in garden equipment and structures, headquartered in Nîmes.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4&lt;SEP&gt;chunk-3f6ca165b48619e671c8079ed78f267a&lt;SEP&gt;chunk-5840f80370d9cfa6b1882e31fe14f79f&lt;SEP&gt;chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d4">achats_produits.txt&lt;SEP&gt;fournisseurs_certifications.txt</data>
+  <data key="d5">1772139918</data>
+  <data key="d6"></data>
+</node>
+<node id="Terreau Bio Premium 40L (TB-40)">
+  <data key="d0">Terreau Bio Premium 40L (TB-40)</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Terreau Bio Premium 40L (TB-40) is a type of organic premium soil sold in 40-liter bags.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Engrais Tomates Bio 1kg (ETB-1)">
+  <data key="d0">Engrais Tomates Bio 1kg (ETB-1)</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Engrais Tomates Bio 1kg (ETB-1) is an organic tomato fertilizer.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Tuteurs bambou lot de 10 (TUT-10)">
+  <data key="d0">Tuteurs bambou lot de 10 (TUT-10)</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Tuteurs bambou lot de 10 (TUT-10) are bamboo supports for plants.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Tondeuse électrique EcoMow 40cm (TEC-40)">
+  <data key="d0">Tondeuse électrique EcoMow 40cm (TEC-40)</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Tondeuse électrique EcoMow 40cm (TEC-40) is an electric lawn mower with a cutting width of 40 cm.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Câble prolongateur 25m (CAB-25)">
+  <data key="d0">Câble prolongateur 25m (CAB-25)</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Câble prolongateur 25m (CAB-25) is an extension cable measuring 25 meters in length.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Gants jardinage taille L (GAN-L)">
+  <data key="d0">Gants jardinage taille L (GAN-L)</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Gants jardinage taille L (GAN-L) are size L gardening gloves.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Engrais Universel Bio 5kg (EUB-5)">
+  <data key="d0">Engrais Universel Bio 5kg (EUB-5)</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Engrais Universel Bio 5kg (EUB-5) is an organic universal fertilizer sold in 5 kg packages.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Semences tomates anciennes lot 5 variétés (SEM-TOM)">
+  <data key="d0">Semences tomates anciennes lot 5 variétés (SEM-TOM)</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Semences tomates anciennes lot 5 variétés (SEM-TOM) are a pack of five ancient tomato varieties' seeds.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Arrosoir 10L inox (ARR-10)">
+  <data key="d0">Arrosoir 10L inox (ARR-10)</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Arrosoir 10L inox (ARR-10) is a stainless steel watering can with a capacity of 10 liters.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Rosier grimpant 'Pierre de Ronsard'">
+  <data key="d0">Rosier grimpant 'Pierre de Ronsard'</data>
+  <data key="d1">artifact</data>
+  <data key="d2">A climbing rose variety named 'Pierre de Ronsard'.&lt;SEP&gt;The Rosier grimpant 'Pierre de Ronsard' is a climbing rose purchased by Bernard Alain.</data>
+  <data key="d3">chunk-006729040656b98f73774bed81a42fb4&lt;SEP&gt;chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Lambert Christine">
+  <data key="d0">Lambert Christine</data>
+  <data key="d1">person</data>
+  <data key="d2">Lambert Christine is a professional client with an order for maintenance equipment and supplies.&lt;SEP&gt;Lambert Christine is a customer who placed an order for irrigation and gardening supplies.</data>
+  <data key="d3">chunk-3f6ca165b48619e671c8079ed78f267a&lt;SEP&gt;chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Alès">
+  <data key="d0">Alès</data>
+  <data key="d1">location</data>
+  <data key="d2">Alès is the city where Lambert Christine's address is located.&lt;SEP&gt;Alès is the location where Lambert Christine's professional account is based.</data>
+  <data key="d3">chunk-3f6ca165b48619e671c8079ed78f267a&lt;SEP&gt;chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="AquaGarden">
+  <data key="d0">AquaGarden</data>
+  <data key="d1">organization</data>
+  <data key="d2">AquaGarden is a supplier of irrigation products such as systems and tubing.&lt;SEP&gt;AquaGarden specializes in irrigation and automatic watering systems, headquartered in Montpellier.</data>
+  <data key="d3">chunk-3f6ca165b48619e671c8079ed78f267a&lt;SEP&gt;chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d4">achats_produits.txt&lt;SEP&gt;fournisseurs_certifications.txt</data>
+  <data key="d5">1772139918</data>
+  <data key="d6"></data>
+</node>
+<node id="Durand Michel">
+  <data key="d0">Durand Michel</data>
+  <data key="d1">person</data>
+  <data key="d2">Durand Michel is a customer who ordered a lawn mower and soil products.</data>
+  <data key="d3">chunk-3f6ca165b48619e671c8079ed78f267a</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Montpellier">
+  <data key="d0">Montpellier</data>
+  <data key="d1">location</data>
+  <data key="d2">Montpellier is the location where Durand Michel placed his order.&lt;SEP&gt;Montpellier is the headquarters location of NaturaCulture.</data>
+  <data key="d3">chunk-3f6ca165b48619e671c8079ed78f267a&lt;SEP&gt;chunk-f80c3b7b18652d381631bdeda4b50e51&lt;SEP&gt;chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d4">achats_produits.txt&lt;SEP&gt;fournisseurs_certifications.txt</data>
+  <data key="d5">1772139918</data>
+  <data key="d6"></data>
+</node>
+<node id="Simon Nathalie">
+  <data key="d0">Simon Nathalie</data>
+  <data key="d1">person</data>
+  <data key="d2">Simon Nathalie is a professional customer who ordered greenhouse supplies and seeds.</data>
+  <data key="d3">chunk-3f6ca165b48619e671c8079ed78f267a</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Perpignan">
+  <data key="d0">Perpignan</data>
+  <data key="d1">location</data>
+  <data key="d2">Perpignan is the city where Bernard Alain's address is located.&lt;SEP&gt;Perpignan is the location where Simon Nathalie's professional account is based.&lt;SEP&gt;Perpignan is the headquarters of FleurOccitanie, located in France's region of Occitania.</data>
+  <data key="d3">chunk-3f6ca165b48619e671c8079ed78f267a&lt;SEP&gt;chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">achats_produits.txt&lt;SEP&gt;fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Moreau Isabelle">
+  <data key="d0">Moreau Isabelle</data>
+  <data key="d1">person</data>
+  <data key="d2">Moreau Isabelle is a customer who placed an order but the products are not listed.&lt;SEP&gt;Isabelle Moreau is a client who placed an order on May 5, 2023.</data>
+  <data key="d3">chunk-3f6ca165b48619e671c8079ed78f267a&lt;SEP&gt;chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Sète">
+  <data key="d0">Sète</data>
+  <data key="d1">location</data>
+  <data key="d2">Sète is the location where Moreau Isabelle's professional account is based.&lt;SEP&gt;Sète is the location where Isabelle Moreau placed her order.</data>
+  <data key="d3">chunk-3f6ca165b48619e671c8079ed78f267a&lt;SEP&gt;chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Compagnon Pro Professional Account">
+  <data key="d0">Compagnon Pro Professional Account</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Compagnon Pro Professional Account refers to the type of account used by customers for professional purchases.</data>
+  <data key="d3">chunk-3f6ca165b48619e671c8079ed78f267a</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Petit Thomas">
+  <data key="d0">Petit Thomas</data>
+  <data key="d1">person</data>
+  <data key="d2">Petit Thomas is a professional client who ordered equipment and supplies for maintenance work.</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Rousseau Claire">
+  <data key="d0">Rousseau Claire</data>
+  <data key="d1">person</data>
+  <data key="d2">Rousseau Claire is a client who purchased a beginner's organic vegetable garden kit and seeds.</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Carcassonne">
+  <data key="d0">Carcassonne</data>
+  <data key="d1">location</data>
+  <data key="d2">Carcassonne is the city where Petit Thomas' address is located.</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Béziers">
+  <data key="d0">Béziers</data>
+  <data key="d1">location</data>
+  <data key="d2">Béziers is the city where Rousseau Claire's address is located.</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="FleurOccitanie">
+  <data key="d0">FleurOccitanie</data>
+  <data key="d1">organization</data>
+  <data key="d2">FleurOccitanie is a supplier of plants and gardening products, including rose climbers.&lt;SEP&gt;FleurOccitanie is a supplier of rose bushes and other gardening products.&lt;SEP&gt;FleurOccitanie specializes in plants for professional landscapers and holds certifications like Florimark since 2013 and Zéro Résidu de Pesticides (ZRP) since 2022.</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-5840f80370d9cfa6b1882e31fe14f79f&lt;SEP&gt;chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">achats_produits.txt&lt;SEP&gt;fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="MotoLub">
+  <data key="d0">MotoLub</data>
+  <data key="d1">organization</data>
+  <data key="d2">MotoLub provides oil for two-stroke engines used in maintenance equipment.</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Terreau Roses 20L">
+  <data key="d0">Terreau Roses 20L</data>
+  <data key="d1">product</data>
+  <data key="d2">A soil mix specifically for roses, purchased in quantities of 20 liters by both Bernard and Rousseau Claire.&lt;SEP&gt;Terreau Roses 20L is soil specifically designed for roses, supplied by NaturaCulture.</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Engrais Roses Bio 800g">
+  <data key="d0">Engrais Roses Bio 800g</data>
+  <data key="d1">product</data>
+  <data key="d2">An organic fertilizer for roses sold in 800 grams packages.&lt;SEP&gt;Engrais Roses Bio 800g is an organic fertilizer for roses sold by BioGreen Solutions.</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Débroussailleuse thermique ProForce 52cm3">
+  <data key="d0">Débroussailleuse thermique ProForce 52cm3</data>
+  <data key="d1">artifact</data>
+  <data key="d2">A professional-grade thermal brush cutter, purchased by Petit Thomas and Lambert Christine.</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Casque anti-bruit protection">
+  <data key="d0">Casque anti-bruit protection</data>
+  <data key="d1">content</data>
+  <data key="d2">Noise-canceling helmets sold for use with maintenance equipment.&lt;SEP&gt;Casque anti-bruit protection refers to noise-reducing helmets within SafeGarden’s main product range.</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">achats_produits.txt&lt;SEP&gt;fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Huile moteur 2 temps 1L">
+  <data key="d0">Huile moteur 2 temps 1L</data>
+  <data key="d1">product</data>
+  <data key="d2">Two-stroke engine oil in one-liter bottles, used as maintenance product.</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Fil débroussailleuse 3mm x 50m">
+  <data key="d0">Fil débroussailleuse 3mm x 50m</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Trimming filament for brushcutters sold in 50-meter rolls.</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Kit potager débutant Bio">
+  <data key="d0">Kit potager débutant Bio</data>
+  <data key="d1">product</data>
+  <data key="d2">A beginner's organic vegetable garden kit, purchased by Rousseau Claire.&lt;SEP&gt;The Kit potager débutant Bio is a beginner's organic gardening kit sold by BioGreen Solutions.</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Semences courgettes Bio">
+  <data key="d0">Semences courgettes Bio</data>
+  <data key="d1">product</data>
+  <data key="d2">Organic seeds for growing courgettes sold in packets.</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Semences tomates cerises Bio">
+  <data key="d0">Semences tomates cerises Bio</data>
+  <data key="d1">product</data>
+  <data key="d2">Organic cherry tomato seeds provided as part of Rousseau Claire's order.</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Terreau Bio Premium 40L">
+  <data key="d0">Terreau Bio Premium 40L</data>
+  <data key="d1">product</data>
+  <data key="d2">An organic premium potting mix, sold in forty-liter containers.&lt;SEP&gt;The Terreau Bio Premium 40L is a high-quality organic soil mix available from NaturaCulture.</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Commande #2302-001">
+  <data key="d0">Commande #2302-001</data>
+  <data key="d1">event</data>
+  <data key="d2">The order placed by Bernard Alain on February 3rd.</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138185</data>
+  <data key="d6"></data>
+</node>
+<node id="Commande #2302-002">
+  <data key="d0">Commande #2302-002</data>
+  <data key="d1">event</data>
+  <data key="d2">The professional order placed by Petit Thomas on February 14th.</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138186</data>
+  <data key="d6"></data>
+</node>
+<node id="Commande #2303-001">
+  <data key="d0">Commande #2303-001</data>
+  <data key="d1">event</data>
+  <data key="d2">The order placed by Rousseau Claire on March 2nd.</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138186</data>
+  <data key="d6"></data>
+</node>
+<node id="Commande #2303-002">
+  <data key="d0">Commande #2303-002</data>
+  <data key="d1">event</data>
+  <data key="d2">The professional order placed by Lambert Christine on March 15th.</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138186</data>
+  <data key="d6"></data>
+</node>
+<node id="Garcia Pedro">
+  <data key="d0">Garcia Pedro</data>
+  <data key="d1">person</data>
+  <data key="d2">Pedro Garcia is a client who placed an order on June 18, 2023.</data>
+  <data key="d3">chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138186</data>
+  <data key="d6"></data>
+</node>
+<node id="Laurent François">
+  <data key="d0">Laurent François</data>
+  <data key="d1">person</data>
+  <data key="d2">François Laurent is a client who placed an order on August 3, 2023.&lt;SEP&gt;Laurent François is an individual listed as both a Professionnel and Particulier in the input text.</data>
+  <data key="d3">chunk-5840f80370d9cfa6b1882e31fe14f79f&lt;SEP&gt;chunk-b69996768b09b308d485bb643b5f7953</data>
+  <data key="d4">achats_produits.txt&lt;SEP&gt;clients.csv</data>
+  <data key="d5">1772139211</data>
+  <data key="d6"></data>
+</node>
+<node id="Barcelone-sur-Mer">
+  <data key="d0">Barcelone-sur-Mer</data>
+  <data key="d1">location</data>
+  <data key="d2">Barcelone-sur-Mer is the location where Pedro Garcia placed his order.</data>
+  <data key="d3">chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138186</data>
+  <data key="d6"></data>
+</node>
+<node id="Lunel">
+  <data key="d0">Lunel</data>
+  <data key="d1">location</data>
+  <data key="d2">Lunel is the location where François Laurent placed his order.&lt;SEP&gt;Lunel is a place where Laurent François is associated with.</data>
+  <data key="d3">chunk-5840f80370d9cfa6b1882e31fe14f79f&lt;SEP&gt;chunk-b69996768b09b308d485bb643b5f7953</data>
+  <data key="d4">achats_produits.txt&lt;SEP&gt;clients.csv</data>
+  <data key="d5">1772139211</data>
+  <data key="d6"></data>
+</node>
+<node id="Rosier buisson 'Bonica'">
+  <data key="d0">Rosier buisson 'Bonica'</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The Rosier buisson 'Bonica' is a rose bush sold by FleurOccitanie.</data>
+  <data key="d3">chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138186</data>
+  <data key="d6"></data>
+</node>
+<node id="Semences gazon ombre 500g">
+  <data key="d0">Semences gazon ombre 500g</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Semences gazon ombre 500g are seeds designed to grow grass in shady areas, supplied by GrainVivant.</data>
+  <data key="d3">chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138186</data>
+  <data key="d6"></data>
+</node>
+<node id="Arrosoir 10L inox">
+  <data key="d0">Arrosoir 10L inox</data>
+  <data key="d1">artifact</data>
+  <data key="d2">An Arrosoir 10L inox is an aluminum watering can supplied by JardinEquip.</data>
+  <data key="d3">chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138186</data>
+  <data key="d6"></data>
+</node>
+<node id="Semences tomates anciennes lot 5 variétés">
+  <data key="d0">Semences tomates anciennes lot 5 variétés</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Semences tomates anciennes lot 5 variétés are seeds for five varieties of heirloom tomatoes, supplied by GrainVivant.</data>
+  <data key="d3">chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138186</data>
+  <data key="d6"></data>
+</node>
+<node id="Commande #2305-001">
+  <data key="d0">Commande #2305-001</data>
+  <data key="d1">event</data>
+  <data key="d2">Commande #2305-001 is an order placed by Isabelle Moreau on May 5, 2023.</data>
+  <data key="d3">chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138186</data>
+  <data key="d6"></data>
+</node>
+<node id="Commande #2306-001">
+  <data key="d0">Commande #2306-001</data>
+  <data key="d1">event</data>
+  <data key="d2">Commande #2306-001 is an order placed by Pedro Garcia on June 18, 2023.</data>
+  <data key="d3">chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138186</data>
+  <data key="d6"></data>
+</node>
+<node id="Commande #2308-001">
+  <data key="d0">Commande #2308-001</data>
+  <data key="d1">event</data>
+  <data key="d2">Commande #2308-001 is an order placed by François Laurent on August 3, 2023.</data>
+  <data key="d3">chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138186</data>
+  <data key="d6"></data>
+</node>
+<node id="#BioGreen Solutions">
+  <data key="d0">#BioGreen Solutions</data>
+  <data key="d3">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d2">BioGreen Solutions supplies the beginner's organic vegetable garden kit to clients like Rousseau Claire.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">achats_produits.txt</data>
+  <data key="d5">1772138187</data>
+  <data key="d6"></data>
+</node>
+<node id="id_client">
+  <data key="d0">id_client</data>
+  <data key="d1">data</data>
+  <data key="d2">The id_client column uniquely identifies each client in the dataset.</data>
+  <data key="d3">chunk-a9182e1d276ba49ac67c3295c10b4f86</data>
+  <data key="d4">clients.csv</data>
+  <data key="d5">1772139210</data>
+  <data key="d6"></data>
+</node>
+<node id="nom">
+  <data key="d0">nom</data>
+  <data key="d1">data</data>
+  <data key="d2">The nom column contains the family names of clients in the dataset.</data>
+  <data key="d3">chunk-a9182e1d276ba49ac67c3295c10b4f86</data>
+  <data key="d4">clients.csv</data>
+  <data key="d5">1772139210</data>
+  <data key="d6"></data>
+</node>
+<node id="prenom">
+  <data key="d0">prenom</data>
+  <data key="d1">data</data>
+  <data key="d2">The prenom column includes given names or first names of clients in the dataset.</data>
+  <data key="d3">chunk-a9182e1d276ba49ac67c3295c10b4f86</data>
+  <data key="d4">clients.csv</data>
+  <data key="d5">1772139211</data>
+  <data key="d6"></data>
+</node>
+<node id="email">
+  <data key="d0">email</data>
+  <data key="d1">data</data>
+  <data key="d2">The email column lists contact emails for each client.</data>
+  <data key="d3">chunk-a9182e1d276ba49ac67c3295c10b4f86</data>
+  <data key="d4">clients.csv</data>
+  <data key="d5">1772139211</data>
+  <data key="d6"></data>
+</node>
+<node id="telephone">
+  <data key="d0">telephone</data>
+  <data key="d1">data</data>
+  <data key="d2">The telephone column provides phone numbers for contacting clients.</data>
+  <data key="d3">chunk-a9182e1d276ba49ac67c3295c10b4f86</data>
+  <data key="d4">clients.csv</data>
+  <data key="d5">1772139211</data>
+  <data key="d6"></data>
+</node>
+<node id="ville">
+  <data key="d0">ville</data>
+  <data key="d1">location</data>
+  <data key="d2">Ville represents the city where clients are located or reside.</data>
+  <data key="d3">chunk-a9182e1d276ba49ac67c3295c10b4f86</data>
+  <data key="d4">clients.csv</data>
+  <data key="d5">1772139211</data>
+  <data key="d6"></data>
+</node>
+<node id="region">
+  <data key="d0">region</data>
+  <data key="d1">location</data>
+  <data key="d2">Region indicates the broader geographical area (Occitanie) within which a client is situated.</data>
+  <data key="d3">chunk-a9182e1d276ba49ac67c3295c10b4f86</data>
+  <data key="d4">clients.csv</data>
+  <data key="d5">1772139211</data>
+  <data key="d6"></data>
+</node>
+<node id="code_postal">
+  <data key="d0">code_postal</data>
+  <data key="d1">data</data>
+  <data key="d2">The code_postal column contains postal codes corresponding to clients' locations.</data>
+  <data key="d3">chunk-a9182e1d276ba49ac67c3295c10b4f86</data>
+  <data key="d4">clients.csv</data>
+  <data key="d5">1772139211</data>
+  <data key="d6"></data>
+</node>
+<node id="segment">
+  <data key="d0">segment</data>
+  <data key="d1">category</data>
+  <data key="d2">Segment categorizes clients as either Particulier (individuals) or Professionnel (business/professional).</data>
+  <data key="d3">chunk-a9182e1d276ba49ac67c3295c10b4f86</data>
+  <data key="d4">clients.csv</data>
+  <data key="d5">1772139211</data>
+  <data key="d6"></data>
+</node>
+<node id="date_inscription">
+  <data key="d0">date_inscription</data>
+  <data key="d1">data</data>
+  <data key="d2">The date_inscription column records the date when a client subscribed to the service.</data>
+  <data key="d3">chunk-a9182e1d276ba49ac67c3295c10b4f86</data>
+  <data key="d4">clients.csv</data>
+  <data key="d5">1772139211</data>
+  <data key="d6"></data>
+</node>
+<node id="fidélité_points">
+  <data key="d0">fidélité_points</data>
+  <data key="d1">data</data>
+  <data key="d2">Fidélité points represent accumulated loyalty points for each client.</data>
+  <data key="d3">chunk-a9182e1d276ba49ac67c3295c10b4f86</data>
+  <data key="d4">clients.csv</data>
+  <data key="d5">1772139211</data>
+  <data key="d6"></data>
+</node>
+<node id="C012">
+  <data key="d0">C012</data>
+  <data key="d1">data</data>
+  <data key="d2">The C012 entry represents a client record that does not have the fidélité_points value populated.</data>
+  <data key="d3">chunk-a9182e1d276ba49ac67c3295c10b4f86</data>
+  <data key="d4">clients.csv</data>
+  <data key="d5">1772139211</data>
+  <data key="d6"></data>
+</node>
+<node id="Occitanie">
+  <data key="d0">Occitanie</data>
+  <data key="d1">region</data>
+  <data key="d2">Occitanie is a region that includes Lunel as part of its territory.</data>
+  <data key="d3">chunk-b69996768b09b308d485bb643b5f7953</data>
+  <data key="d4">clients.csv</data>
+  <data key="d5">1772139211</data>
+  <data key="d6"></data>
+</node>
+<node id="f.laurent@gmail.com">
+  <data key="d0">f.laurent@gmail.com</data>
+  <data key="d1">data</data>
+  <data key="d2">f.laurent@gmail.com is an email address associated with Laurent François.</data>
+  <data key="d3">chunk-b69996768b09b308d485bb643b5f7953</data>
+  <data key="d4">clients.csv</data>
+  <data key="d5">1772139211</data>
+  <data key="d6"></data>
+</node>
+<node id="Demeter Certification">
+  <data key="d0">Demeter Certification</data>
+  <data key="d1">category</data>
+  <data key="d2">The Demeter certification indicates biodynamic farming practices, held by the Coopérative Biologique since 2017.</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139917</data>
+  <data key="d6"></data>
+</node>
+<node id="Réseau Semences Paysannes">
+  <data key="d0">Réseau Semences Paysannes</data>
+  <data key="d1">organization</data>
+  <data key="d2">Réseau Semences Paysannes is an organization of which the Coopérative Biologique has been an active member since 2010.</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139917</data>
+  <data key="d6"></data>
+</node>
+<node id="Coopérative Biologique">
+  <data key="d0">Coopérative Biologique</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Coopérative Biologique is a cooperative with organic farming practices, holding certifications from Ecocert and Demeter.</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139918</data>
+  <data key="d6"></data>
+</node>
+<node id="FSC">
+  <data key="d0">FSC</data>
+  <data key="d1">concept</data>
+  <data key="d2">FSC refers to the Forest Stewardship Council, a certification for sustainable forest management.</data>
+  <data key="d3">chunk-8587ff3d505a48ce0efb049a438e0a51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139918</data>
+  <data key="d6"></data>
+</node>
+<node id="Bambous">
+  <data key="d0">Bambous</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Bambous refers to bamboo sourced from certified sustainable forests.</data>
+  <data key="d3">chunk-8587ff3d505a48ce0efb049a438e0a51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139918</data>
+  <data key="d6"></data>
+</node>
+<node id="Éric Vidal">
+  <data key="d0">Éric Vidal</data>
+  <data key="d1">person</data>
+  <data key="d2">Éric Vidal is the commercial contact at NaturaCulture.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139918</data>
+  <data key="d6"></data>
+</node>
+<node id="Terreau Bio Premium">
+  <data key="d0">Terreau Bio Premium</data>
+  <data key="d1">product</data>
+  <data key="d2">Terreau Bio Premium is a high-quality organic substrate offered by NaturaCulture.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139918</data>
+  <data key="d6"></data>
+</node>
+<node id="AB (Agriculture Biologique)">
+  <data key="d0">AB (Agriculture Biologique)</data>
+  <data key="d1">concept</data>
+  <data key="d2">AB (Agriculture Biologique) certification indicates compliance with organic farming standards, held by multiple suppliers mentioned in the document.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139918</data>
+  <data key="d6"></data>
+</node>
+<node id="Ecocert">
+  <data key="d0">Ecocert</data>
+  <data key="d1">organization</data>
+  <data key="d2">Ecocert is an organization that certifies products for ecological and organic production, used by several companies listed.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139918</data>
+  <data key="d6"></data>
+</node>
+<node id="ISO 14001 (management environnemental)">
+  <data key="d0">ISO 14001 (management environnemental)</data>
+  <data key="d1">concept</data>
+  <data key="d2">ISO 14001 certification pertains to environmental management systems implemented by NaturaCulture since 2019.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139918</data>
+  <data key="d6"></data>
+</node>
+<node id="Toulouse">
+  <data key="d0">Toulouse</data>
+  <data key="d1">location</data>
+  <data key="d2">Toulouse is the headquarters location of BioGreen Solutions.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139918</data>
+  <data key="d6"></data>
+</node>
+<node id="Laure Manceau">
+  <data key="d0">Laure Manceau</data>
+  <data key="d1">person</data>
+  <data key="d2">Laure Manceau is the commercial contact at BioGreen Solutions.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139918</data>
+  <data key="d6"></data>
+</node>
+<node id="Engrais Tomates Bio">
+  <data key="d0">Engrais Tomates Bio</data>
+  <data key="d1">product</data>
+  <data key="d2">Engrais Tomates Bio is an organic tomato fertilizer offered by BioGreen Solutions.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139918</data>
+  <data key="d6"></data>
+</node>
+<node id="NF Environnement">
+  <data key="d0">NF Environnement</data>
+  <data key="d1">concept</data>
+  <data key="d2">NF Environnement certification relates to environmental performance, held by BioGreen Solutions since 2018.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139918</data>
+  <data key="d6"></data>
+</node>
+<node id="OMRI Listed (marché US)">
+  <data key="d0">OMRI Listed (marché US)</data>
+  <data key="d1">concept</data>
+  <data key="d2">OMRI Listed certification pertains to products compliant with organic standards in the U.S. market, held by BioGreen Solutions since 2021.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Albi">
+  <data key="d0">Albi</data>
+  <data key="d1">location</data>
+  <data key="d2">Albi is the headquarters location of GrainVivant.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Paul Ségur">
+  <data key="d0">Paul Ségur</data>
+  <data key="d1">person</data>
+  <data key="d2">Paul Ségur is the commercial contact at GrainVivant.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Semences tomates anciennes">
+  <data key="d0">Semences tomates anciennes</data>
+  <data key="d1">product</data>
+  <data key="d2">Semences tomates anciennes are ancient tomato seeds offered by GrainVivant.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Demeter (biodynamique)">
+  <data key="d0">Demeter (biodynamique)</data>
+  <data key="d1">concept</data>
+  <data key="d2">Demeter certification pertains to biodynamic farming practices, held by GrainVivant since 2017.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Délai livraison : 48h">
+  <data key="d0">Délai livraison : 48h</data>
+  <data key="d1">concept</data>
+  <data key="d2">NaturaCulture offers a delivery time of 48 hours.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Conditions paiement : 30 jours fin de mois">
+  <data key="d0">Conditions paiement : 30 jours fin de mois</data>
+  <data key="d1">concept</data>
+  <data key="d2">NaturaCulture's payment terms are 30 days from the end of the month.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Note qualité interne : 9.2/10">
+  <data key="d0">Note qualité interne : 9.2/10</data>
+  <data key="d1">rating</data>
+  <data key="d2">Internally, NaturaCulture has a quality rating of 9.2 out of 10.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Commentaire : Fournisseur historique, aucun incident depuis 6 ans. Priorité 1 pour les terreaux.">
+  <data key="d0">Commentaire : Fournisseur historique, aucun incident depuis 6 ans. Priorité 1 pour les terreaux.</data>
+  <data key="d1">commentary</data>
+  <data key="d2">NaturaCulture is described as an established supplier with no incidents in the past six years and top priority for substrates.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Délai livraison : 72h">
+  <data key="d0">Délai livraison : 72h</data>
+  <data key="d1">concept</data>
+  <data key="d2">BioGreen Solutions offers a delivery time of 72 hours.&lt;SEP&gt;GrainVivant offers a delivery time of 72 hours.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Conditions paiement : 45 jours fin de mois">
+  <data key="d0">Conditions paiement : 45 jours fin de mois</data>
+  <data key="d1">concept</data>
+  <data key="d2">BioGreen Solutions' payment terms are 45 days from the end of the month.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Note qualité interne : 8.8/10">
+  <data key="d0">Note qualité interne : 8.8/10</data>
+  <data key="d1">rating</data>
+  <data key="d2">Internally, BioGreen Solutions has a quality rating of 8.8 out of 10.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Commentaire : Meilleure gamme engrais bio du marché. Légèrement plus lent que NaturaCulture.">
+  <data key="d0">Commentaire : Meilleure gamme engrais bio du marché. Légèrement plus lent que NaturaCulture.</data>
+  <data key="d1">commentary</data>
+  <data key="d2">BioGreen Solutions is noted for having the best organic fertilizer range on the market, but slightly slower than NaturaCulture in delivery.</data>
+  <data key="d3">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Water Efficiency Label (WEL)">
+  <data key="d0">Water Efficiency Label (WEL)</data>
+  <data key="d1">content</data>
+  <data key="d2">The Water Efficiency Label is a French certification ensuring water efficiency in various products and services, introduced since 2020.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="NF Arrosage">
+  <data key="d0">NF Arrosage</data>
+  <data key="d1">content</data>
+  <data key="d2">NF Arrosage is a French certification related to irrigation systems and practices, introduced in 2018.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Ana Castillo">
+  <data key="d0">Ana Castillo</data>
+  <data key="d1">person</data>
+  <data key="d2">Ana Castillo is a commercial contact at FleurOccitanie responsible for plant sales and customer relations.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Florimark">
+  <data key="d0">Florimark</data>
+  <data key="d1">content</data>
+  <data key="d2">Florimark is a certification ensuring European floral quality, introduced in 2013 by FleurOccitanie.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Zéro Résidu de Pesticides (ZRP)">
+  <data key="d0">Zéro Résidu de Pesticides (ZRP)</data>
+  <data key="d1">content</data>
+  <data key="d2">Zéro Résidu de Pesticides is an environmental certification for pesticide-free products, held since 2022 by FleurOccitanie.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Bordeaux">
+  <data key="d0">Bordeaux</data>
+  <data key="d1">location</data>
+  <data key="d2">Bordeaux is the headquarters of SafeGarden located in France's Gironde department.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Denis Faure">
+  <data key="d0">Denis Faure</data>
+  <data key="d1">person</data>
+  <data key="d2">Denis Faure is a commercial contact at SafeGarden, responsible for sales and customer relations regarding personal protective equipment.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="EN 388">
+  <data key="d0">EN 388</data>
+  <data key="d1">content</data>
+  <data key="d2">EN 388 is a European certification standard for mechanical protection of gloves used in gardening activities.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="EN ISO 4869">
+  <data key="d0">EN ISO 4869</data>
+  <data key="d1">content</data>
+  <data key="d2">EN ISO 4869 is an international standard for auditory protection equipment, relevant to products supplied by SafeGarden.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="CE Category III">
+  <data key="d0">CE Category III</data>
+  <data key="d1">content</data>
+  <data key="d2">CE Category III represents the highest level of safety certification for personal protective equipment used in high-risk activities.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Cévennes">
+  <data key="d0">Cévennes</data>
+  <data key="d1">location</data>
+  <data key="d2">The Cévennes is the headquarters location of EcoForest in France’s Ardèche department.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Julien Prades">
+  <data key="d0">Julien Prades</data>
+  <data key="d1">person</data>
+  <data key="d2">Julien Prades is a commercial contact at EcoForest, responsible for sales and customer relations regarding eco-friendly products.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="FSC (Forest Stewardship Council)">
+  <data key="d0">FSC (Forest Stewardship Council)</data>
+  <data key="d1">content</data>
+  <data key="d2">FSC stands for Forest Stewardship Council, ensuring sustainable forest management practices. Introduced by EcoForest since 2016.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Agriculture Biologique (AB)">
+  <data key="d0">Agriculture Biologique (AB)</data>
+  <data key="d1">content</data>
+  <data key="d2">Agriculture Biologique certification ensures organic production eligibility with product specific identification number FR-BIO-33 introduced in 2023 by EcoForest.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Spécialiste irrigation">
+  <data key="d0">Spécialiste irrigation</data>
+  <data key="d1">concept</data>
+  <data key="d2">#Spécialiste irrigation refers to a specialist in irrigation systems and practices.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Plantes vivaces">
+  <data key="d0">Plantes vivaces</data>
+  <data key="d1">content</data>
+  <data key="d2">Plantes vivaces refers to perennial plants offered by FleurOccitanie.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Rosier grimpant Pierre de Ronsard">
+  <data key="d0">Rosier grimpant Pierre de Ronsard</data>
+  <data key="d1">content</data>
+  <data key="d2">Rosier grimpant Pierre de Ronsard is a climbing rose variety among FleurOccitanie’s main product range.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Rosier buisson Bonica">
+  <data key="d0">Rosier buisson Bonica</data>
+  <data key="d1">content</data>
+  <data key="d2">Rosier buisson Bonica is a shrub rose variety within FleurOccitanie’s main product range.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Équipements de protection individuelle jardinage/espaces verts">
+  <data key="d0">Équipements de protection individuelle jardinage/espaces verts</data>
+  <data key="d1">content</data>
+  <data key="d2">Équipements de protection individuelle jardinage/espaces verts refers to personal protective equipment used in gardening and green spaces.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Gants jardinage">
+  <data key="d0">Gants jardinage</data>
+  <data key="d1">content</data>
+  <data key="d2">Gants jardinage refers to gardening gloves within SafeGarden’s main product range.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Équipements de sécurité">
+  <data key="d0">Équipements de sécurité</data>
+  <data key="d1">content</data>
+  <data key="d2">Équipements de sécurité refers to safety equipment offered by SafeGarden.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Certifications sécurité obligatoires à jour">
+  <data key="d0">Certifications sécurité obligatoires à jour</data>
+  <data key="d1">content</data>
+  <data key="d2">Certifications sécurité obligatoires à jour refers to up-to-date security certifications.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Produits naturels et accessoires éco-responsables">
+  <data key="d0">Produits naturels et accessoires éco-responsables</data>
+  <data key="d1">content</data>
+  <data key="d2">Produits naturels et accessoires éco-responsables refers to natural and eco-friendly products offered by EcoForest.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Tuteurs bambou">
+  <data key="d0">Tuteurs bambou</data>
+  <data key="d1">content</data>
+  <data key="d2">Tuteurs bambou refers to bamboo supports within EcoForest’s main product range.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Paillage naturel">
+  <data key="d0">Paillage naturel</data>
+  <data key="d1">content</data>
+  <data key="d2">Paillage naturel refers to natural mulch within EcoForest’s main product range.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Filets anti-insectes">
+  <data key="d0">Filets anti-insectes</data>
+  <data key="d1">content</data>
+  <data key="d2">Filets anti-insectes refers to insect netting within EcoForest’s main product range.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Produits éligibles Agriculture Biologique (AB)">
+  <data key="d0">Produits éligibles Agriculture Biologique (AB)</data>
+  <data key="d1">content</data>
+  <data key="d2">Produits éligibles Agriculture Biologique refers to eligible organic agricultural products.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Bambous issus de forêts certifiées FSC">
+  <data key="d0">Bambous issus de forêts certifiées FSC</data>
+  <data key="d1">content</data>
+  <data key="d2">Bambous issus de forêts certifiées FSC refers to bamboo from sustainably managed forests.</data>
+  <data key="d3">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Lyon">
+  <data key="d0">Lyon</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">GreenTech Industries has its headquarters in Lyon.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139919</data>
+  <data key="d6"></data>
+</node>
+<node id="Rémi Bouchard">
+  <data key="d0">Rémi Bouchard</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">Rémi Bouchard is the commercial contact for GreenTech Industries.&lt;SEP&gt;Rémi Bouchard serves as the commercial contact for GreenTech Industries.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139920</data>
+  <data key="d6"></data>
+</node>
+<node id="EcoMow Tondeuse Électrique">
+  <data key="d0">EcoMow Tondeuse Électrique</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">The EcoMow electric lawn mower is part of GreenTech's main product range.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139920</data>
+  <data key="d6"></data>
+</node>
+<node id="ProForce Débroussailleuse Thermique">
+  <data key="d0">ProForce Débroussailleuse Thermique</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">The ProForce thermal brush cutter is part of GreenTech's main product range.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139920</data>
+  <data key="d6"></data>
+</node>
+<node id="Fil débroussailleuse">
+  <data key="d0">Fil débroussailleuse</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">The replacement cord for the brush cutter is offered by GreenTech Industries.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139920</data>
+  <data key="d6"></data>
+</node>
+<node id="CE Certification">
+  <data key="d0">CE Certification</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">GreenTech's products comply with CE certification standards.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139920</data>
+  <data key="d6"></data>
+</node>
+<node id="GS Certification (Geprüfte Sicherheit)">
+  <data key="d0">GS Certification (Geprüfte Sicherheit)</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">GreenTech has GS safety verification for their products.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139920</data>
+  <data key="d6"></data>
+</node>
+<node id="NF Norme Française Certification">
+  <data key="d0">NF Norme Française Certification</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">GreenTech obtained the NF French norm certification in 2016.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139920</data>
+  <data key="d6"></data>
+</node>
+<node id="Nîmes">
+  <data key="d0">Nîmes</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">JardinEquip has its headquarters in Nîmes.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139920</data>
+  <data key="d6"></data>
+</node>
+<node id="Marc Tissot">
+  <data key="d0">Marc Tissot</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">Marc Tissot is the commercial contact for JardinEquip.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139920</data>
+  <data key="d6"></data>
+</node>
+<node id="Arrosoir 10L Inox">
+  <data key="d0">Arrosoir 10L Inox</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">The 10L stainless steel watering can is part of JardinEquip's main product range.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139920</data>
+  <data key="d6"></data>
+</node>
+<node id="Serre Tunnel">
+  <data key="d0">Serre Tunnel</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">Tunnel greenhouses are offered by JardinEquip as a major product.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139920</data>
+  <data key="d6"></data>
+</node>
+<node id="Film Plastique Serre">
+  <data key="d0">Film Plastique Serre</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">Greenhouse plastic film is part of the main products offered by JardinEquip.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139920</data>
+  <data key="d6"></data>
+</node>
+<node id="ISO 9001 Certification (Qualité)">
+  <data key="d0">ISO 9001 Certification (Qualité)</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">JardinEquip has ISO 9001 quality certification since 2014.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139920</data>
+  <data key="d6"></data>
+</node>
+<node id="Hélène Roux">
+  <data key="d0">Hélène Roux</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">Hélène Roux is the commercial contact for AquaGarden.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139921</data>
+  <data key="d6"></data>
+</node>
+<node id="Système Irrigation Goutte-à-Goutte">
+  <data key="d0">Système Irrigation Goutte-à-Goutte</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">The drip irrigation system is part of AquaGarden's main product range.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139921</data>
+  <data key="d6"></data>
+</node>
+<node id="Programmateur Arrosage">
+  <data key="d0">Programmateur Arrosage</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">Automatic watering programmers are offered by AquaGarden as a major product.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139921</data>
+  <data key="d6"></data>
+</node>
+<node id="Tuyau Micro-Irrigation">
+  <data key="d0">Tuyau Micro-Irrigation</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">Micro-irrigation hoses are part of the main products offered by AquaGarden.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139921</data>
+  <data key="d6"></data>
+</node>
+<node id="Water Efficiency Label (WEL) Certification">
+  <data key="d0">Water Efficiency Label (WEL) Certification</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">AquaGarden has Water Efficiency Label certification since 2020.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139921</data>
+  <data key="d6"></data>
+</node>
+<node id="NF Arrosage Certification">
+  <data key="d0">NF Arrosage Certification</data>
+  <data key="d3">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d2">AquaGarden obtained the NF irrigation certification in 2018.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139921</data>
+  <data key="d6"></data>
+</node>
+<node id="Commentaire">
+  <data key="d0">Commentaire</data>
+  <data key="d3">chunk-8587ff3d505a48ce0efb049a438e0a51</data>
+  <data key="d2">The internal quality note of 8.0/10 is accompanied by a comment describing the environmental benefits of using FSC-certified bamboo.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139921</data>
+  <data key="d6"></data>
+</node>
+<node id="Note qualité interne">
+  <data key="d0">Note qualité interne</data>
+  <data key="d3">chunk-8587ff3d505a48ce0efb049a438e0a51</data>
+  <data key="d2">The internal quality note of 8.0/10 is accompanied by a comment describing the environmental benefits of using FSC-certified bamboo.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">fournisseurs_certifications.txt</data>
+  <data key="d5">1772139921</data>
+  <data key="d6"></data>
+</node>
+<edge source="Dupont Marie" target="NaturaCulture">
+  <data key="d7">1.0</data>
+  <data key="d8">Dupont Marie purchased Bio-Premium Premium Soil and Tomato Organic Fertilizer from NaturaCulture.</data>
+  <data key="d9">purchase,supplier relationship</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138186</data>
   <data key="d13"></data>
 </edge>
-<edge source="Noah Carter" target="World Athletics Championship">
+<edge source="Dupont Marie" target="BioGreen Solutions">
   <data key="d7">1.0</data>
-  <data key="d8">The World Athletics Championship featured Noah Carter competing and breaking records.</data>
-  <data key="d9">athlete participation,competition</data>
+  <data key="d8">Dupont Marie purchased Tomato Organic Fertilizer from BioGreen Solutions.</data>
+  <data key="d9">purchase,supplier relationship</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138186</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dupont Marie" target="EcoForest">
+  <data key="d7">1.0</data>
+  <data key="d8">Dupont Marie purchased Bamboo Supports from EcoForest.</data>
+  <data key="d9">purchase,supplier relationship</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138186</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dupont Marie" target="Terreau Bio Premium 40L (TB-40)">
+  <data key="d7">1.0</data>
+  <data key="d8">NaturaCulture sold Terreau Bio Premium 40L (TB-40) to Dupont Marie.</data>
+  <data key="d9">product sale,supplier</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138186</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dupont Marie" target="Engrais Tomates Bio 1kg (ETB-1)">
+  <data key="d7">1.0</data>
+  <data key="d8">BioGreen Solutions provided Engrais Tomates Bio 1kg (ETB-1) to Dupont Marie.</data>
+  <data key="d9">product sale,supplier</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138186</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dupont Marie" target="Tuteurs bambou lot de 10 (TUT-10)">
+  <data key="d7">1.0</data>
+  <data key="d8">EcoForest supplied Tuteurs bambou lot de 10 (TUT-10) to Dupont Marie.</data>
+  <data key="d9">product sale,supplier</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138186</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Martin Jean-Paul" target="GreenTech Industries">
+  <data key="d7">1.0</data>
+  <data key="d8">Martin Jean-Paul ordered an Electric Lawn Mower from GreenTech Industries.</data>
+  <data key="d9">purchase,supplier relationship</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138186</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Martin Jean-Paul" target="ElecPro">
+  <data key="d7">1.0</data>
+  <data key="d8">Martin Jean-Paul purchased a 25m Extension Cable from ElecPro.</data>
+  <data key="d9">purchase,supplier relationship</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138186</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Martin Jean-Paul" target="SafeGarden">
+  <data key="d7">1.0</data>
+  <data key="d8">Martin Jean-Paul bought Gardening Gloves (Size L) from SafeGarden.</data>
+  <data key="d9">purchase,supplier relationship</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138186</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Martin Jean-Paul" target="Tondeuse électrique EcoMow 40cm (TEC-40)">
+  <data key="d7">1.0</data>
+  <data key="d8">GreenTech Industries sold Tondeuse électrique EcoMow 40cm (TEC-40) to Martin Jean-Paul.</data>
+  <data key="d9">product sale,supplier</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138186</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Martin Jean-Paul" target="Câble prolongateur 25m (CAB-25)">
+  <data key="d7">1.0</data>
+  <data key="d8">ElecPro provided Câble prolongateur 25m (CAB-25) to Martin Jean-Paul.</data>
+  <data key="d9">product sale,supplier</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138186</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Martin Jean-Paul" target="Gants jardinage taille L (GAN-L)">
+  <data key="d7">1.0</data>
+  <data key="d8">SafeGarden sold Gants jardinage taille L (GAN-L) to Martin Jean-Paul.</data>
+  <data key="d9">product sale,supplier</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138186</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Lefevre Sophie" target="NaturaCulture">
+  <data key="d7">1.0</data>
+  <data key="d8">Lefevre Sophie ordered Bio-Premium Premium Soil in bulk from NaturaCulture.</data>
+  <data key="d9">purchase,supplier relationship</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138186</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Lefevre Sophie" target="BioGreen Solutions">
+  <data key="d7">1.0</data>
+  <data key="d8">Lefevre Sophie purchased Universal Organic Fertilizer from BioGreen Solutions.</data>
+  <data key="d9">purchase,supplier relationship</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138186</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Lefevre Sophie" target="GrainVivant">
+  <data key="d7">1.0</data>
+  <data key="d8">Lefevre Sophie ordered a pack of ancient tomato seeds from GrainVivant.</data>
+  <data key="d9">purchase,supplier relationship</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138186</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Lefevre Sophie" target="JardinEquip">
+  <data key="d7">1.0</data>
+  <data key="d8">Lefevre Sophie bought Stainless Steel Watering Can (10L) from JardinEquip.</data>
+  <data key="d9">purchase,supplier relationship</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138186</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Lefevre Sophie" target="Engrais Universel Bio 5kg (EUB-5)">
+  <data key="d7">1.0</data>
+  <data key="d8">BioGreen Solutions provided Engrais Universel Bio 5kg (EUB-5) to Lefevre Sophie.</data>
+  <data key="d9">product sale,supplier</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138186</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Lefevre Sophie" target="Semences tomates anciennes lot 5 variétés (SEM-TOM)">
+  <data key="d7">1.0</data>
+  <data key="d8">GrainVivant sold Semences tomates anciennes lot 5 variétés (SEM-TOM) to Lefevre Sophie.</data>
+  <data key="d9">product sale,supplier</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138186</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Lefevre Sophie" target="Arrosoir 10L inox (ARR-10)">
+  <data key="d7">1.0</data>
+  <data key="d8">JardinEquip provided Arrosoir 10L inox (ARR-10) to Lefevre Sophie.</data>
+  <data key="d9">product sale,supplier</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Bernard Alain" target="NaturaCulture">
+  <data key="d7">2.0</data>
+  <data key="d8">Bernard Alain intended to order the Rosier grimpant 'Pierre de Ronsard' from NaturaCulture.&lt;SEP&gt;Bernard Alain bought soil products for roses from NaturaCulture.</data>
+  <data key="d9">client-supplier relationship,future purchase,order intent,soil products</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4&lt;SEP&gt;chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138186</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Bernard Alain" target="Perpignan">
+  <data key="d7">1.0</data>
+  <data key="d8">Bernard Alain's address is located in Perpignan.</data>
+  <data key="d9">residence location</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Bernard Alain" target="FleurOccitanie">
+  <data key="d7">1.0</data>
+  <data key="d8">FleurOccitanie is the supplier for Bernard Alain’s order including climbing roses.</data>
+  <data key="d9">client-supplier relationship</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Bernard Alain" target="Commande #2302-001">
+  <data key="d7">1.0</data>
+  <data key="d8">Bernard Alain is a client who places an order for gardening products as part of Commande #2302-001.</data>
+  <data key="d9">customer relationship,order</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="NaturaCulture" target="Terreau Bio Premium 40L (TB-40)">
+  <data key="d7">1.0</data>
+  <data key="d8">NaturaCulture supplied Terreau Bio Premium 40L (TB-40).</data>
+  <data key="d9">supplied product,supplier relationship</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="NaturaCulture" target="Rosier grimpant 'Pierre de Ronsard'">
+  <data key="d7">1.0</data>
+  <data key="d8">NaturaCulture supplies the climbing rose variety named 'Pierre de Ronsard'.</data>
+  <data key="d9">supplied product,supplier relationship</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="NaturaCulture" target="Durand Michel">
+  <data key="d7">1.0</data>
+  <data key="d8">Durand Michel also bought soil mix from NaturaCulture.</data>
+  <data key="d9">product purchase,supplier relationship</data>
+  <data key="d10">chunk-3f6ca165b48619e671c8079ed78f267a</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="NaturaCulture" target="Simon Nathalie">
+  <data key="d7">1.0</data>
+  <data key="d8">Simon Nathalie purchased soil mix for seed planting from NaturaCulture.</data>
+  <data key="d9">product purchase,supplier relationship</data>
+  <data key="d10">chunk-3f6ca165b48619e671c8079ed78f267a</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="NaturaCulture" target="Terreau Roses 20L">
+  <data key="d7">1.0</data>
+  <data key="d8">NaturaCulture provides a specialized soil mix for roses.</data>
+  <data key="d9">product supply,soil mix</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="NaturaCulture" target="Terreau Bio Premium 40L">
+  <data key="d7">1.0</data>
+  <data key="d8">NaturaCulture provides an organic premium potting mix for gardening needs.</data>
+  <data key="d9">#|product supply,premium potting mix</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="NaturaCulture" target="Commande #2303-001">
+  <data key="d7">1.0</data>
+  <data key="d8">NaturaCulture provides soil products for Rousseau Claire's order as part of Commande #2303-001.</data>
+  <data key="d9">order fulfillment,supplier relationship</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138188</data>
+  <data key="d13"></data>
+</edge>
+<edge source="NaturaCulture" target="Commande #2303-002">
+  <data key="d7">1.0</data>
+  <data key="d8">NaturaCulture provides soil products for Lambert Christine's order as part of Commande #2303-002.</data>
+  <data key="d9">order fulfillment,supplier relationship</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138188</data>
+  <data key="d13"></data>
+</edge>
+<edge source="NaturaCulture" target="Moreau Isabelle">
+  <data key="d7">2.0</data>
+  <data key="d8">Isabelle Moreau bought soil for roses from NaturaCulture.&lt;SEP&gt;NaturaCulture provided soil for roses to Moreau Isabelle.</data>
+  <data key="d9">product provision,product purchase,supplier relationship,supplier-client relationship</data>
+  <data key="d10">chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138188</data>
+  <data key="d13"></data>
+</edge>
+<edge source="NaturaCulture" target="Montpellier">
+  <data key="d7">1.0</data>
+  <data key="d8">NaturaCulture is headquartered in Montpellier.</data>
+  <data key="d9">company base,headquarters location</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="NaturaCulture" target="Éric Vidal">
+  <data key="d7">1.0</data>
+  <data key="d8">Éric Vidal serves as the commercial contact for NaturaCulture.</data>
+  <data key="d9">business liaison,commercial contact</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="NaturaCulture" target="Terreau Bio Premium">
+  <data key="d7">1.0</data>
+  <data key="d8">NaturaCulture offers Terreau Bio Premium among its products.</data>
+  <data key="d9">product offering,specialty product</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="NaturaCulture" target="AB (Agriculture Biologique)">
+  <data key="d7">1.0</data>
+  <data key="d8">NaturaCulture holds AB certification for organic farming practices.</data>
+  <data key="d9">certification standard,regulatory compliance</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="NaturaCulture" target="Ecocert">
+  <data key="d7">1.0</data>
+  <data key="d8">NaturaCulture has obtained Ecocert certification to ensure ecological and organic product standards.</data>
+  <data key="d9">external certification,quality assurance</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="NaturaCulture" target="ISO 14001 (management environnemental)">
+  <data key="d7">1.0</data>
+  <data key="d8">NaturaCulture implements ISO 14001 environmental management system for sustainable operations.</data>
+  <data key="d9">environmental management,sustainability practices</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="NaturaCulture" target="Conditions paiement : 30 jours fin de mois">
+  <data key="d7">1.0</data>
+  <data key="d8">NaturaCulture has payment conditions set to 30 days from the end of the month.</data>
+  <data key="d9">business policy,payment terms</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="NaturaCulture" target="Note qualité interne : 9.2/10">
+  <data key="d7">1.0</data>
+  <data key="d8">Internally, NaturaCulture maintains a quality score of 9.2 out of 10.</data>
+  <data key="d9">internal assessment,quality rating</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="BioGreen Solutions" target="Engrais Tomates Bio 1kg (ETB-1)">
+  <data key="d7">1.0</data>
+  <data key="d8">BioGreen Solutions provided Engrais Tomates Bio 1kg (ETB-1).</data>
+  <data key="d9">supplied product,supplier relationship</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="BioGreen Solutions" target="Engrais Universel Bio 5kg (EUB-5)">
+  <data key="d7">1.0</data>
+  <data key="d8">BioGreen Solutions provided Engrais Universel Bio 5kg (EUB-5).</data>
+  <data key="d9">supplied product,supplier relationship</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="BioGreen Solutions" target="Lambert Christine">
+  <data key="d7">1.0</data>
+  <data key="d8">Lambert Christine also ordered a fertilizer from BioGreen Solutions.</data>
+  <data key="d9">product purchase,supplier relationship</data>
+  <data key="d10">chunk-3f6ca165b48619e671c8079ed78f267a</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="BioGreen Solutions" target="Rousseau Claire">
+  <data key="d7">1.0</data>
+  <data key="d8">Rousseau Claire received a beginner's organic vegetable garden kit and other products supplied by BioGreen Solutions.</data>
+  <data key="d9">beginner garden kit,client-supplier relationship</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="BioGreen Solutions" target="Semences tomates cerises Bio">
+  <data key="d7">1.0</data>
+  <data key="d8">BioGreen Solutions supplies organic cherry tomato seeds to customers like Rousseau Claire.</data>
+  <data key="d9">#|supply of seeds for cherry tomatoes</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="BioGreen Solutions" target="Commande #2303-001">
+  <data key="d7">1.0</data>
+  <data key="d8">BioGreen Solutions provides products to Rousseau Claire as part of Commande #2303-001.</data>
+  <data key="d9">order fulfillment,supplier relationship</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138188</data>
+  <data key="d13"></data>
+</edge>
+<edge source="BioGreen Solutions" target="Moreau Isabelle">
+  <data key="d7">2.0</data>
+  <data key="d8">Isabelle Moreau purchased an organic fertilizer for roses from BioGreen Solutions.&lt;SEP&gt;BioGreen Solutions supplied organic fertilizer for roses to Moreau Isabelle.</data>
+  <data key="d9">product provision,product purchase,supplier relationship,supplier-client relationship</data>
+  <data key="d10">chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138188</data>
+  <data key="d13"></data>
+</edge>
+<edge source="BioGreen Solutions" target="Garcia Pedro">
+  <data key="d7">1.0</data>
+  <data key="d8">Pedro Garcia bought a beginner's gardening kit and soil mix from BioGreen Solutions.</data>
+  <data key="d9">product purchase,supplier relationship</data>
+  <data key="d10">chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138188</data>
+  <data key="d13"></data>
+</edge>
+<edge source="BioGreen Solutions" target="Toulouse">
+  <data key="d7">1.0</data>
+  <data key="d8">BioGreen Solutions is headquartered in Toulouse.</data>
+  <data key="d9">company base,headquarters location</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="BioGreen Solutions" target="Laure Manceau">
+  <data key="d7">1.0</data>
+  <data key="d8">Laure Manceau is the commercial contact at BioGreen Solutions.</data>
+  <data key="d9">business liaison,commercial contact</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="BioGreen Solutions" target="Engrais Tomates Bio">
+  <data key="d7">1.0</data>
+  <data key="d8">BioGreen Solutions provides Engrais Tomates Bio as part of their main line of products.</data>
+  <data key="d9">product offering,specialty product</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="BioGreen Solutions" target="AB (Agriculture Biologique)">
+  <data key="d7">1.0</data>
+  <data key="d8">BioGreen Solutions complies with the AB certification for organic standards.</data>
+  <data key="d9">certification standard,regulatory compliance</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="BioGreen Solutions" target="Ecocert">
+  <data key="d7">1.0</data>
+  <data key="d8">BioGreen Solutions is certified by Ecocert for compliance with ecological production standards.</data>
+  <data key="d9">external certification,quality assurance</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="BioGreen Solutions" target="NF Environnement">
+  <data key="d7">1.0</data>
+  <data key="d8">BioGreen Solutions has NF Environnement certification to ensure environmental performance standards.</data>
+  <data key="d9">external certification,quality assurance</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="BioGreen Solutions" target="Délai livraison : 72h">
+  <data key="d7">1.0</data>
+  <data key="d8">BioGreen Solutions commits to a delivery window of up to 72 hours.</data>
+  <data key="d9">delivery time,service commitment</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="BioGreen Solutions" target="Conditions paiement : 45 jours fin de mois">
+  <data key="d7">1.0</data>
+  <data key="d8">BioGreen Solutions has payment conditions set to 45 days from the end of the month.</data>
+  <data key="d9">business policy,payment terms</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="BioGreen Solutions" target="Note qualité interne : 8.8/10">
+  <data key="d7">1.0</data>
+  <data key="d8">Internally, BioGreen Solutions maintains a quality score of 8.8 out of 10.</data>
+  <data key="d9">internal assessment,quality rating</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="EcoForest" target="Tuteurs bambou lot de 10 (TUT-10)">
+  <data key="d7">1.0</data>
+  <data key="d8">EcoForest supplied Tuteurs bambou lot de 10 (TUT-10).</data>
+  <data key="d9">supplied product,supplier relationship</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="EcoForest" target="Cévennes">
+  <data key="d7">1.0</data>
+  <data key="d8">EcoForest is headquartered in the Cévennes region.</data>
+  <data key="d9">headquarters location,supply chain base</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="EcoForest" target="Julien Prades">
+  <data key="d7">1.0</data>
+  <data key="d8">Julien Prades serves as a commercial contact for EcoForest, facilitating customer relations and product sales.</data>
+  <data key="d9">commercial liaison,sales coordination</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="EcoForest" target="Produits naturels et accessoires éco-responsables">
+  <data key="d7">1.0</data>
+  <data key="d8">EcoForest specializes in selling natural and environmentally responsible products.</data>
+  <data key="d9">product specialization,sales focus</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="EcoForest" target="Tuteurs bambou">
+  <data key="d7">1.0</data>
+  <data key="d8">EcoForest markets bamboo supports as part of its key products.</data>
+  <data key="d9">marketing emphasis,product line</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="EcoForest" target="Paillage naturel">
+  <data key="d7">1.0</data>
+  <data key="d8">EcoForest promotes natural mulch as part of its primary offerings.</data>
+  <data key="d9">marketing emphasis,product line</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="EcoForest" target="Filets anti-insectes">
+  <data key="d7">1.0</data>
+  <data key="d8">EcoForest markets insect netting as part of its key products.</data>
+  <data key="d9">marketing emphasis,product line</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="EcoForest" target="Produits éligibles Agriculture Biologique (AB)">
+  <data key="d7">1.0</data>
+  <data key="d8">EcoForest adheres to the AB standards for its eligible products.</data>
+  <data key="d9">product certification,quality commitment</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="EcoForest" target="Bambous issus de forêts certifiées FSC">
+  <data key="d7">1.0</data>
+  <data key="d8">EcoForest sources its bamboo from certified sustainable forests.</data>
+  <data key="d9">product source,sustainability commitment</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GreenTech Industries" target="Tondeuse électrique EcoMow 40cm (TEC-40)">
+  <data key="d7">1.0</data>
+  <data key="d8">GreenTech Industries provided Tondeuse électrique EcoMow 40cm (TEC-40).</data>
+  <data key="d9">supplied product,supplier relationship</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GreenTech Industries" target="Durand Michel">
+  <data key="d7">1.0</data>
+  <data key="d8">Durand Michel purchased an electric lawn mower from GreenTech Industries.</data>
+  <data key="d9">product purchase,supplier relationship</data>
+  <data key="d10">chunk-3f6ca165b48619e671c8079ed78f267a</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GreenTech Industries" target="Petit Thomas">
+  <data key="d7">1.0</data>
+  <data key="d8">Petit Thomas purchased professional-grade equipment from GreenTech Industries.</data>
+  <data key="d9">equipment purchase,professional client-supplier relationship</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GreenTech Industries" target="Débroussailleuse thermique ProForce 52cm3">
+  <data key="d7">1.0</data>
+  <data key="d8">GreenTech Industries supplies the professional brush cutter to clients including Petit Thomas and Lambert Christine.</data>
+  <data key="d9">product supply,professional equipment</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GreenTech Industries" target="Fil débroussailleuse 3mm x 50m">
+  <data key="d7">1.0</data>
+  <data key="d8">GreenTech Industries also provides the filament for brushcutters used by maintenance workers.</data>
+  <data key="d9">#|product supply,trimming filament</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GreenTech Industries" target="Commande #2302-002">
+  <data key="d7">1.0</data>
+  <data key="d8">GreenTech Industries supplies equipment to Petit Thomas as part of Commande #2302-002.</data>
+  <data key="d9">order fulfillment,supplier relationship</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138188</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GreenTech Industries" target="Commande #2303-002">
+  <data key="d7">1.0</data>
+  <data key="d8">GreenTech Industries supplies equipment to Lambert Christine as part of Commande #2303-002.</data>
+  <data key="d9">order fulfillment,supplier relationship</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138188</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GreenTech Industries" target="Lyon">
+  <data key="d7">1.0</data>
+  <data key="d8">GreenTech Industries has its headquarters in Lyon.</data>
+  <data key="d9">company headquarters,geographical location</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GreenTech Industries" target="Rémi Bouchard">
+  <data key="d7">2.0</data>
+  <data key="d8">Rémi Bouchard is the commercial contact for GreenTech Industries.&lt;SEP&gt;Rémi Bouchard serves as the commercial contact for GreenTech Industries.</data>
+  <data key="d9">business relationship,commercial contact,contact person</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GreenTech Industries" target="EcoMow Tondeuse Électrique">
+  <data key="d7">1.0</data>
+  <data key="d8">The EcoMow electric lawn mower is part of GreenTech's main product range.</data>
+  <data key="d9">company offering,product line</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GreenTech Industries" target="ProForce Débroussailleuse Thermique">
+  <data key="d7">1.0</data>
+  <data key="d8">The ProForce thermal brush cutter is part of GreenTech's main product range.</data>
+  <data key="d9">company offering,product line</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GreenTech Industries" target="Fil débroussailleuse">
+  <data key="d7">1.0</data>
+  <data key="d8">The replacement cord for the brush cutter is offered by GreenTech Industries.</data>
+  <data key="d9">company offering,product line</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GreenTech Industries" target="CE Certification">
+  <data key="d7">1.0</data>
+  <data key="d8">GreenTech's products comply with CE certification standards.</data>
+  <data key="d9">quality standard,regulatory compliance</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GreenTech Industries" target="GS Certification (Geprüfte Sicherheit)">
+  <data key="d7">1.0</data>
+  <data key="d8">GreenTech has GS safety verification for their products.</data>
+  <data key="d9">quality standard,regulatory compliance</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GreenTech Industries" target="NF Norme Française Certification">
+  <data key="d7">1.0</data>
+  <data key="d8">GreenTech obtained the NF French norm certification in 2016.</data>
+  <data key="d9">quality standard,regulatory compliance</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="ElecPro" target="Câble prolongateur 25m (CAB-25)">
+  <data key="d7">1.0</data>
+  <data key="d8">ElecPro supplied Câble prolongateur 25m (CAB-25).</data>
+  <data key="d9">supplied product,supplier relationship</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="SafeGarden" target="Gants jardinage taille L (GAN-L)">
+  <data key="d7">1.0</data>
+  <data key="d8">SafeGarden provided Gants jardinage taille L (GAN-L).</data>
+  <data key="d9">supplied product,supplier relationship</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="SafeGarden" target="Lambert Christine">
+  <data key="d7">1.0</data>
+  <data key="d8">Lambert Christine purchased noise-canceling helmets from SafeGarden for professional use.</data>
+  <data key="d9">professional client-supplier relationship,safety gear purchase</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="SafeGarden" target="Casque anti-bruit protection">
+  <data key="d7">2.0</data>
+  <data key="d8">SafeGarden provides noise-canceling helmets for workers' safety during maintenance activities.&lt;SEP&gt;SafeGarden promotes the Casque anti-bruit protection as part of its primary offerings.</data>
+  <data key="d9">#|supply of safety gear,marketing emphasis,product line</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">achats_produits.txt&lt;SEP&gt;fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="SafeGarden" target="Commande #2302-002">
+  <data key="d7">1.0</data>
+  <data key="d8">SafeGarden provides safety gear to Petit Thomas as part of Commande #2302-002.</data>
+  <data key="d9">order fulfillment,supplier relationship</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138188</data>
+  <data key="d13"></data>
+</edge>
+<edge source="SafeGarden" target="Bordeaux">
+  <data key="d7">1.0</data>
+  <data key="d8">SafeGarden is headquartered in Bordeaux.</data>
+  <data key="d9">business operations,headquarters location</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="SafeGarden" target="Denis Faure">
+  <data key="d7">1.0</data>
+  <data key="d8">Denis Faure acts as a commercial contact for SafeGarden, managing sales and customer relations.</data>
+  <data key="d9">commercial liaison,product promotion</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="SafeGarden" target="Équipements de protection individuelle jardinage/espaces verts">
+  <data key="d7">1.0</data>
+  <data key="d8">SafeGarden specializes in selling personal protective equipment for gardening.</data>
+  <data key="d9">product specialization,sales focus</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="SafeGarden" target="Gants jardinage">
+  <data key="d7">1.0</data>
+  <data key="d8">SafeGarden markets gardening gloves as part of its key products.</data>
+  <data key="d9">marketing emphasis,product line</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="SafeGarden" target="Équipements de sécurité">
+  <data key="d7">1.0</data>
+  <data key="d8">SafeGarden specializes in selling safety equipment.</data>
+  <data key="d9">product specialization,sales focus</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="SafeGarden" target="Certifications sécurité obligatoires à jour">
+  <data key="d7">1.0</data>
+  <data key="d8">SafeGarden maintains its safety equipment in compliance with the latest standards.</data>
+  <data key="d9">compliance,quality assurance</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GrainVivant" target="Semences tomates anciennes lot 5 variétés (SEM-TOM)">
+  <data key="d7">1.0</data>
+  <data key="d8">GrainVivant supplied Semences tomates anciennes lot 5 variétés (SEM-TOM).</data>
+  <data key="d9">supplied product,supplier relationship</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GrainVivant" target="Simon Nathalie">
+  <data key="d7">1.0</data>
+  <data key="d8">Simon Nathalie ordered a professional vegetable garden seed pack from GrainVivant.</data>
+  <data key="d9">product purchase,supplier relationship</data>
+  <data key="d10">chunk-3f6ca165b48619e671c8079ed78f267a</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GrainVivant" target="Rousseau Claire">
+  <data key="d7">1.0</data>
+  <data key="d8">Rousseau Claire purchased various organic seeds from GrainVivant.</data>
+  <data key="d9">client-supplier relationship,organic seeds purchase</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GrainVivant" target="Semences courgettes Bio">
+  <data key="d7">1.0</data>
+  <data key="d8">GrainVivant provides packets of organic courgette seeds for gardening purposes.</data>
+  <data key="d9">product supply,seeds for plants</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GrainVivant" target="Commande #2303-001">
+  <data key="d7">1.0</data>
+  <data key="d8">GrainVivant supplies seeds for Rousseau Claire's order as part of Commande #2303-001.</data>
+  <data key="d9">order fulfillment,supplier relationship</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138188</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GrainVivant" target="Laurent François">
+  <data key="d7">2.0</data>
+  <data key="d8">François Laurent bought seeds for heirloom tomatoes and organic soil mix from GrainVivant.&lt;SEP&gt;GrainVivant supplied seeds for heirloom tomatoes and organic soil mix to Laurent François.</data>
+  <data key="d9">product provision,product purchase,supplier relationship,supplier-client relationship</data>
+  <data key="d10">chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138188</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GrainVivant" target="Albi">
+  <data key="d7">1.0</data>
+  <data key="d8">GrainVivant is headquartered in Albi.</data>
+  <data key="d9">company base,headquarters location</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GrainVivant" target="Paul Ségur">
+  <data key="d7">1.0</data>
+  <data key="d8">Paul Ségur serves as the commercial contact for GrainVivant.</data>
+  <data key="d9">business liaison,commercial contact</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GrainVivant" target="Semences tomates anciennes">
+  <data key="d7">1.0</data>
+  <data key="d8">GrainVivant supplies ancient tomato seeds in its range of offerings.</data>
+  <data key="d9">product offering,specialty product</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GrainVivant" target="AB (Agriculture Biologique)">
+  <data key="d7">1.0</data>
+  <data key="d8">GrainVivant is certified under AB for organic farming practices.</data>
+  <data key="d9">certification standard,regulatory compliance</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GrainVivant" target="Ecocert">
+  <data key="d7">1.0</data>
+  <data key="d8">GrainVivant receives Ecocert certification to maintain organic product standards.</data>
+  <data key="d9">external certification,quality assurance</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GrainVivant" target="Demeter (biodynamique)">
+  <data key="d7">1.0</data>
+  <data key="d8">GrainVivant adheres to Demeter biodynamic farming practices for organic seed production.</data>
+  <data key="d9">farming practice standard,regulatory compliance</data>
+  <data key="d10">chunk-f80c3b7b18652d381631bdeda4b50e51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="JardinEquip" target="Arrosoir 10L inox (ARR-10)">
+  <data key="d7">1.0</data>
+  <data key="d8">JardinEquip provided Arrosoir 10L inox (ARR-10).</data>
+  <data key="d9">supplied product,supplier relationship</data>
+  <data key="d10">chunk-006729040656b98f73774bed81a42fb4</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="JardinEquip" target="Simon Nathalie">
+  <data key="d7">1.0</data>
+  <data key="d8">Simon Nathalie ordered greenhouse supplies and plastic film from JardinEquip.</data>
+  <data key="d9">product purchase,supplier relationship</data>
+  <data key="d10">chunk-3f6ca165b48619e671c8079ed78f267a</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="JardinEquip" target="Garcia Pedro">
+  <data key="d7">2.0</data>
+  <data key="d8">Pedro Garcia purchased an aluminum watering can from JardinEquip.&lt;SEP&gt;JardinEquip provided an aluminum watering can to Garcia Pedro.</data>
+  <data key="d9">product provision,product purchase,supplier relationship,supplier-client relationship</data>
+  <data key="d10">chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138188</data>
+  <data key="d13"></data>
+</edge>
+<edge source="JardinEquip" target="Nîmes">
+  <data key="d7">1.0</data>
+  <data key="d8">JardinEquip has its headquarters in Nîmes.</data>
+  <data key="d9">company headquarters,geographical location</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="JardinEquip" target="Marc Tissot">
+  <data key="d7">1.0</data>
+  <data key="d8">Marc Tissot is the commercial contact for JardinEquip.</data>
+  <data key="d9">business relationship,contact person</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="JardinEquip" target="Arrosoir 10L Inox">
+  <data key="d7">1.0</data>
+  <data key="d8">The 10L stainless steel watering can is part of JardinEquip's main product range.</data>
+  <data key="d9">company offering,product line</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="JardinEquip" target="Serre Tunnel">
+  <data key="d7">1.0</data>
+  <data key="d8">Tunnel greenhouses are offered by JardinEquip as a major product.</data>
+  <data key="d9">company offering,product line</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="JardinEquip" target="Film Plastique Serre">
+  <data key="d7">1.0</data>
+  <data key="d8">Greenhouse plastic film is part of the main products offered by JardinEquip.</data>
+  <data key="d9">company offering,product line</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="JardinEquip" target="ISO 9001 Certification (Qualité)">
+  <data key="d7">1.0</data>
+  <data key="d8">JardinEquip has ISO 9001 quality certification since 2014.</data>
+  <data key="d9">quality standard,regulatory compliance</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Rosier grimpant 'Pierre de Ronsard'" target="FleurOccitanie">
+  <data key="d7">1.0</data>
+  <data key="d8">FleurOccitanie supplies the climbing rose 'Pierre de Ronsard'.</data>
+  <data key="d9">product supply</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Lambert Christine" target="AquaGarden">
+  <data key="d7">1.0</data>
+  <data key="d8">Lambert Christine purchased products from AquaGarden.</data>
+  <data key="d9">product purchase,supplier relationship</data>
+  <data key="d10">chunk-3f6ca165b48619e671c8079ed78f267a</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Lambert Christine" target="Compagnon Pro Professional Account">
+  <data key="d7">1.0</data>
+  <data key="d8">Lambert Christine uses a professional account for her purchases.</data>
+  <data key="d9">account type,business purpose</data>
+  <data key="d10">chunk-3f6ca165b48619e671c8079ed78f267a</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Lambert Christine" target="Alès">
+  <data key="d7">1.0</data>
+  <data key="d8">Lambert Christine's professional business and residence are located in Alès.</data>
+  <data key="d9">business location,residence location</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Lambert Christine" target="Commande #2303-002">
+  <data key="d7">1.0</data>
+  <data key="d8">Lambert Christine is a professional client who places an order for maintenance equipment and supplies as part of Commande #2303-002.</data>
+  <data key="d9">customer relationship,professional order</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138188</data>
+  <data key="d13"></data>
+</edge>
+<edge source="AquaGarden" target="Montpellier">
+  <data key="d7">1.0</data>
+  <data key="d8">AquaGarden is headquartered in Montpellier.</data>
+  <data key="d9">company headquarters,geographical location</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="AquaGarden" target="Hélène Roux">
+  <data key="d7">1.0</data>
+  <data key="d8">Hélène Roux is the commercial contact for AquaGarden.</data>
+  <data key="d9">business relationship,contact person</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="AquaGarden" target="Système Irrigation Goutte-à-Goutte">
+  <data key="d7">1.0</data>
+  <data key="d8">The drip irrigation system is part of AquaGarden's main product range.</data>
+  <data key="d9">company offering,product line</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="AquaGarden" target="Programmateur Arrosage">
+  <data key="d7">1.0</data>
+  <data key="d8">Automatic watering programmers are offered by AquaGarden as a major product.</data>
+  <data key="d9">company offering,product line</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="AquaGarden" target="Tuyau Micro-Irrigation">
+  <data key="d7">1.0</data>
+  <data key="d8">Micro-irrigation hoses are part of the main products offered by AquaGarden.</data>
+  <data key="d9">company offering,product line</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="AquaGarden" target="Water Efficiency Label (WEL) Certification">
+  <data key="d7">1.0</data>
+  <data key="d8">AquaGarden has Water Efficiency Label certification since 2020.</data>
+  <data key="d9">quality standard,regulatory compliance</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="AquaGarden" target="NF Arrosage Certification">
+  <data key="d7">1.0</data>
+  <data key="d8">AquaGarden obtained the NF irrigation certification in 2018.</data>
+  <data key="d9">quality standard,regulatory compliance</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Simon Nathalie" target="Compagnon Pro Professional Account">
+  <data key="d7">1.0</data>
+  <data key="d8">Simon Nathalie also uses a professional account for her purchases.</data>
+  <data key="d9">account type,business purpose</data>
+  <data key="d10">chunk-3f6ca165b48619e671c8079ed78f267a</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Perpignan" target="FleurOccitanie">
+  <data key="d7">1.0</data>
+  <data key="d8">FleurOccitanie is headquartered in Perpignan.</data>
+  <data key="d9">commercial presence,headquarters location</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Moreau Isabelle" target="FleurOccitanie">
+  <data key="d7">2.0</data>
+  <data key="d8">Isabelle Moreau purchased rose bushes from FleurOccitanie.&lt;SEP&gt;FleurOccitanie supplied rose bushes to Moreau Isabelle.</data>
+  <data key="d9">product provision,product purchase,supplier relationship,supplier-client relationship</data>
+  <data key="d10">chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138188</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Moreau Isabelle" target="Commande #2305-001">
+  <data key="d7">1.0</data>
+  <data key="d8">Isabelle Moreau placed Commande #2305-001.</data>
+  <data key="d9">client-order relationship,transaction</data>
+  <data key="d10">chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138188</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Petit Thomas" target="Carcassonne">
+  <data key="d7">1.0</data>
+  <data key="d8">Petit Thomas' professional business and residence are located in Carcassonne.</data>
+  <data key="d9">business location,residence location</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Petit Thomas" target="MotoLub">
+  <data key="d7">1.0</data>
+  <data key="d8">Petit Thomas bought two-stroke engine oil for maintenance purposes from MotoLub.</data>
+  <data key="d9">maintenance product purchase,professional client-supplier relationship</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Petit Thomas" target="Commande #2302-002">
+  <data key="d7">1.0</data>
+  <data key="d8">Petit Thomas is a professional client who places an equipment and supplies order as part of Commande #2302-002.</data>
+  <data key="d9">customer relationship,professional order</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Rousseau Claire" target="Béziers">
+  <data key="d7">1.0</data>
+  <data key="d8">Rousseau Claire's address is located in Béziers.</data>
+  <data key="d9">residence location</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Rousseau Claire" target="Commande #2303-001">
+  <data key="d7">1.0</data>
+  <data key="d8">Rousseau Claire is a client who places an order for a beginner's organic vegetable garden kit and seeds as part of Commande #2303-001.</data>
+  <data key="d9">customer relationship,order</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="FleurOccitanie" target="Commande #2302-001">
+  <data key="d7">1.0</data>
+  <data key="d8">FleurOccitanie is the supplier for Bernard Alain’s order as part of Commande #2302-001.</data>
+  <data key="d9">order fulfillment,supplier relationship</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138188</data>
+  <data key="d13"></data>
+</edge>
+<edge source="FleurOccitanie" target="Ana Castillo">
+  <data key="d7">1.0</data>
+  <data key="d8">Ana Castillo serves as a commercial contact for FleurOccitanie, handling sales and customer interactions.</data>
+  <data key="d9">commercial liaison,customer support</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="FleurOccitanie" target="NF Arrosage">
+  <data key="d7">1.0</data>
+  <data key="d8">FleurOccitanie adheres to the NF Arrosage certification standards for its products.</data>
+  <data key="d9">certification compliance,product quality</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="FleurOccitanie" target="Water Efficiency Label (WEL)">
+  <data key="d7">1.0</data>
+  <data key="d8">FleurOccitanie adheres to the Water Efficiency Label standards for its products.</data>
+  <data key="d9">certification compliance,product quality</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="FleurOccitanie" target="Spécialiste irrigation">
+  <data key="d7">1.0</data>
+  <data key="d8">FleurOccitanie is recognized as a specialist for irrigation systems.</data>
+  <data key="d9">expertise,professional service</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="FleurOccitanie" target="Plantes vivaces">
+  <data key="d7">1.0</data>
+  <data key="d8">FleurOccitanie specializes in selling perennial plants.</data>
+  <data key="d9">product specialization,sales focus</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="FleurOccitanie" target="Rosier grimpant Pierre de Ronsard">
+  <data key="d7">1.0</data>
+  <data key="d8">FleurOccitanie promotes the Rosier grimpant Pierre de Ronsard as part of its primary offerings.</data>
+  <data key="d9">marketing emphasis,product line</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="FleurOccitanie" target="Rosier buisson Bonica">
+  <data key="d7">1.0</data>
+  <data key="d8">FleurOccitanie markets the Rosier buisson Bonica as part of its key products.</data>
+  <data key="d9">marketing emphasis,product line</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="FleurOccitanie" target="Zéro Résidu de Pesticides (ZRP)">
+  <data key="d7">1.0</data>
+  <data key="d8">FleurOccitanie adheres to the Zéro Résidu de Pesticides standards for its products.</data>
+  <data key="d9">certification compliance,environmental commitment</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="FleurOccitanie" target="Florimark">
+  <data key="d7">1.0</data>
+  <data key="d8">FleurOccitanie adheres to the Florimark standards for its products.</data>
+  <data key="d9">certification compliance,product quality</data>
+  <data key="d10">chunk-d0679196066b65302ba7e4d2cf604091</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="MotoLub" target="Huile moteur 2 temps 1L">
+  <data key="d7">1.0</data>
+  <data key="d8">MotoLub supplies two-stroke engine oil to clients like Petit Thomas and Lambert Christine.</data>
+  <data key="d9">#|supply of maintenance product,oil supply</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="MotoLub" target="Commande #2302-002">
+  <data key="d7">1.0</data>
+  <data key="d8">MotoLub supplies oil for two-stroke engines to Petit Thomas as part of Commande #2302-002.</data>
+  <data key="d9">order fulfillment,supplier relationship</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138188</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Kit potager débutant Bio" target="#BioGreen Solutions">
+  <data key="d7">1.0</data>
+  <data key="d8">BioGreen Solutions supplies the beginner's organic vegetable garden kit to clients like Rousseau Claire.</data>
+  <data key="d9">beginner garden kit,product supply</data>
+  <data key="d10">chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138187</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Garcia Pedro" target="Commande #2306-001">
+  <data key="d7">1.0</data>
+  <data key="d8">Pedro Garcia placed Commande #2306-001.</data>
+  <data key="d9">client-order relationship,transaction</data>
+  <data key="d10">chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138188</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Laurent François" target="Commande #2308-001">
+  <data key="d7">1.0</data>
+  <data key="d8">François Laurent placed Commande #2308-001.</data>
+  <data key="d9">client-order relationship,transaction</data>
+  <data key="d10">chunk-5840f80370d9cfa6b1882e31fe14f79f</data>
+  <data key="d11">achats_produits.txt</data>
+  <data key="d12">1772138188</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Laurent François" target="Lunel">
+  <data key="d7">1.0</data>
+  <data key="d8">Laurent François is associated with the location Lunel.</data>
+  <data key="d9">location association,residence</data>
+  <data key="d10">chunk-b69996768b09b308d485bb643b5f7953</data>
+  <data key="d11">clients.csv</data>
+  <data key="d12">1772139212</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Laurent François" target="f.laurent@gmail.com">
+  <data key="d7">1.0</data>
+  <data key="d8">The email f.laurent@gmail.com is provided as contact information for Laurent François.</data>
+  <data key="d9">contact information,personal data</data>
+  <data key="d10">chunk-b69996768b09b308d485bb643b5f7953</data>
+  <data key="d11">clients.csv</data>
+  <data key="d12">1772139212</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Lunel" target="Occitanie">
+  <data key="d7">1.0</data>
+  <data key="d8">Lunel is located within the region of Occitanie.</data>
+  <data key="d9">administrative division,geographical region</data>
+  <data key="d10">chunk-b69996768b09b308d485bb643b5f7953</data>
+  <data key="d11">clients.csv</data>
+  <data key="d12">1772139212</data>
+  <data key="d13"></data>
+</edge>
+<edge source="nom" target="prenom">
+  <data key="d7">1.0</data>
+  <data key="d8">The nom and prenom columns together provide full names of clients.</data>
+  <data key="d9">personal information,relationship association</data>
+  <data key="d10">chunk-a9182e1d276ba49ac67c3295c10b4f86</data>
+  <data key="d11">clients.csv</data>
+  <data key="d12">1772139212</data>
+  <data key="d13"></data>
+</edge>
+<edge source="ville" target="region">
+  <data key="d7">1.0</data>
+  <data key="d8">Ville and region indicate the specific city and broader regional context for each client's location.</data>
+  <data key="d9">area classification,geographical location</data>
+  <data key="d10">chunk-a9182e1d276ba49ac67c3295c10b4f86</data>
+  <data key="d11">clients.csv</data>
+  <data key="d12">1772139212</data>
+  <data key="d13"></data>
+</edge>
+<edge source="code_postal" target="segment">
+  <data key="d7">1.0</data>
+  <data key="d8">Code postal can be used to analyze geographical patterns in different customer segments.</data>
+  <data key="d9">customer segmentation,geographical distribution</data>
+  <data key="d10">chunk-a9182e1d276ba49ac67c3295c10b4f86</data>
+  <data key="d11">clients.csv</data>
+  <data key="d12">1772139212</data>
+  <data key="d13"></data>
+</edge>
+<edge source="segment" target="fidélité_points">
+  <data key="d7">1.0</data>
+  <data key="d8">Fidélité points are influenced by whether a client is categorized as Particulier or Professionnel.</data>
+  <data key="d9">client type differentiation,loyalty program</data>
+  <data key="d10">chunk-a9182e1d276ba49ac67c3295c10b4f86</data>
+  <data key="d11">clients.csv</data>
+  <data key="d12">1772139212</data>
+  <data key="d13"></data>
+</edge>
+<edge source="date_inscription" target="fidélité_points">
+  <data key="d7">1.0</data>
+  <data key="d8">Date of subscription influences the accumulation and tracking of fidélity points for clients.</data>
+  <data key="d9">client engagement,loyalty reward</data>
+  <data key="d10">chunk-a9182e1d276ba49ac67c3295c10b4f86</data>
+  <data key="d11">clients.csv</data>
+  <data key="d12">1772139212</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Demeter Certification" target="Coopérative Biologique">
+  <data key="d7">1.0</data>
+  <data key="d8">The Coopérative Biologique holds the Demeter biodynamic certification.</data>
+  <data key="d9">agriculture,certification</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139919</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Réseau Semences Paysannes" target="Coopérative Biologique">
+  <data key="d7">1.0</data>
+  <data key="d8">The Coopérative Biologique is an active member of Réseau Semences Paysannes.</data>
+  <data key="d9">cooperation,network affiliation</data>
+  <data key="d10">chunk-8434a117d90418935fb7b78aa34e9666</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139919</data>
+  <data key="d13"></data>
+</edge>
+<edge source="FSC" target="Bambous">
+  <data key="d7">1.0</data>
+  <data key="d8">The bamboo is sourced from FSC-certified forests, indicating sustainability and environmental responsibility.</data>
+  <data key="d9">certification,sustainability</data>
   <data key="d10">chunk-8587ff3d505a48ce0efb049a438e0a51</data>
   <data key="d11">fournisseurs_certifications.txt</data>
-  <data key="d12">1772090037</data>
+  <data key="d12">1772139921</data>
   <data key="d13"></data>
 </edge>
-<edge source="100m Sprint Record" target="World Athletics Federation">
-  <data key="d7">2.0</data>
-  <data key="d8">The World Athletics Federation validates and oversees records like Noah Carter's new 100m sprint record.&lt;SEP&gt;The World Athletics Federation validates and maintains records such as Noah Carter's 100m sprint record.</data>
-  <data key="d9">governing body,record validation,validation oversight</data>
-  <data key="d10">chunk-a9182e1d276ba49ac67c3295c10b4f86&lt;SEP&gt;chunk-3f6ca165b48619e671c8079ed78f267a</data>
-  <data key="d11">clients.csv&lt;SEP&gt;achats_produits.txt</data>
-  <data key="d12">1772089946</data>
-  <data key="d13"></data>
-</edge>
-<edge source="World Athletics Federation" target="World Athletics Championship">
-  <data key="d7">6.0</data>
-  <data key="d8">The World Athletics Federation oversees and governs the World Athletics Championship.&lt;SEP&gt;The World Athletics Federation organizes the World Athletics Championships.&lt;SEP&gt;The World Athletics Federation oversees and governs the World Athletics Championship.&lt;SEP&gt;The World Athletics Federation oversees and manages the World Athletics Championship.&lt;SEP&gt;The World Athletics Federation oversees and governs the World Athletics Championship.</data>
-  <data key="d9">championship supervision,event organization,event oversight,governance,governing body,oversight</data>
-  <data key="d10">chunk-b69996768b09b308d485bb643b5f7953&lt;SEP&gt;chunk-006729040656b98f73774bed81a42fb4&lt;SEP&gt;chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2&lt;SEP&gt;chunk-d0679196066b65302ba7e4d2cf604091&lt;SEP&gt;chunk-8587ff3d505a48ce0efb049a438e0a51&lt;SEP&gt;chunk-8434a117d90418935fb7b78aa34e9666</data>
-  <data key="d11">clients.csv&lt;SEP&gt;achats_produits.txt&lt;SEP&gt;fournisseurs_certifications.txt</data>
-  <data key="d12">1772090037</data>
+<edge source="Commentaire" target="Note qualité interne">
+  <data key="d7">1.0</data>
+  <data key="d8">The internal quality note of 8.0/10 is accompanied by a comment describing the environmental benefits of using FSC-certified bamboo.</data>
+  <data key="d9">description,rating</data>
+  <data key="d10">chunk-8587ff3d505a48ce0efb049a438e0a51</data>
+  <data key="d11">fournisseurs_certifications.txt</data>
+  <data key="d12">1772139921</data>
   <data key="d13"></data>
 </edge>
 </graph></graphml>

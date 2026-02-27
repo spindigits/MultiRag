@@ -74,10 +74,13 @@ export default function SiteHeader() {
 
   return (
     <header className="border-border/40 bg-background/95 supports-[backdrop-filter]:bg-background/60 sticky top-0 z-50 flex h-10 w-full border-b px-4 backdrop-blur">
-      <div className="min-w-[260px] w-auto flex items-center gap-3">
-        <a href={webuiPrefix} className="flex items-center gap-2">
-          <img src="/webui/upvd_logo.png" alt="UPVD" className="h-7 w-auto object-contain" />
-          <span className="font-bold text-base md:inline-block" style={{color:'#1B4F8A'}}>CaféIA — UPVD × Mensaflow</span>
+      <div className="min-w-[280px] w-auto flex items-center gap-2">
+        <a href={webuiPrefix} className="flex items-center gap-3">
+          <img src="/webui/upvd_logo.png" alt="UPVD" className="h-8 w-auto object-contain" />
+          <div className="flex flex-col leading-tight">
+            <span className="font-bold text-base md:inline-block" style={{color:'#1B4F8A'}}>MultiRAG</span>
+            <span className="text-xs" style={{color:'#E87722'}}>CaféIA — UPVD Perpignan</span>
+          </div>
           <img src="/webui/mensaflow_logo.jpg" alt="Mensaflow" className="h-6 w-auto object-contain" />
         </a>
         {webuiTitle && (
@@ -103,11 +106,7 @@ export default function SiteHeader() {
 
       <div className="flex h-10 flex-1 items-center justify-center">
         <TabsNavigation />
-        {isGuestMode && (
-          <div className="ml-2 self-center px-2 py-1 text-xs bg-amber-100 text-amber-800 dark:bg-amber-900 dark:text-amber-200 rounded-md">
-            {t('login.guestMode', 'Guest Mode')}
-          </div>
-        )}
+
       </div>
 
       <nav className="w-[200px] flex items-center justify-end">

@@ -1,22 +1,4 @@
 {
-  "doc-d1ac900ce4736af9076206042dc55342": {
-    "status": "processed",
-    "chunks_count": 2,
-    "chunks_list": [
-      "chunk-a9182e1d276ba49ac67c3295c10b4f86",
-      "chunk-b69996768b09b308d485bb643b5f7953"
-    ],
-    "content_summary": "id_client,nom,prenom,email,telephone,ville,region,code_postal,segment,date_inscription,fidélité_points\nC001,Dupont,Marie,marie.dupont@gmail.com,06.12.34.56.78,Montpellier,Occitanie,34000,Particulier,2022-03-15,1240\nC002,Martin,Jean-Paul,jp.martin@ora...",
-    "content_length": 1409,
-    "created_at": "2026-02-26T07:05:39.378720+00:00",
-    "updated_at": "2026-02-26T07:08:58.621461+00:00",
-    "file_path": "clients.csv",
-    "track_id": "upload_20260226_080539_39bbdc9f",
-    "metadata": {
-      "processing_start_time": 1772089539,
-      "processing_end_time": 1772089738
-    }
-  },
   "doc-fa56dfeb5c14e22a9b003b6323c39c16": {
     "status": "processed",
     "chunks_count": 4,
@@ -28,13 +10,31 @@
     ],
     "content_summary": "=== HISTORIQUE DES ACHATS — JARDINERIE VERDE OCCITANIE ===\nPériode : janvier 2023 – février 2026\n\n--- COMMANDE #2301-001 ---\nClient : Dupont Marie (C001) — Montpellier\nDate : 12 janvier 2023\nProduits achetés :\n  - Terreau Bio Premium 40L (réf. TB-40)...",
     "content_length": 5710,
-    "created_at": "2026-02-26T07:10:17.017245+00:00",
-    "updated_at": "2026-02-26T07:12:26.321915+00:00",
+    "created_at": "2026-02-26T20:07:10.776578+00:00",
+    "updated_at": "2026-02-26T20:36:28.558395+00:00",
     "file_path": "achats_produits.txt",
-    "track_id": "upload_20260226_081017_4fc6ac91",
+    "track_id": "upload_20260226_210710_42bea3c9",
     "metadata": {
-      "processing_start_time": 1772089817,
-      "processing_end_time": 1772089946
+      "processing_start_time": 1772136430,
+      "processing_end_time": 1772138188
+    }
+  },
+  "doc-d1ac900ce4736af9076206042dc55342": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-a9182e1d276ba49ac67c3295c10b4f86",
+      "chunk-b69996768b09b308d485bb643b5f7953"
+    ],
+    "content_summary": "id_client,nom,prenom,email,telephone,ville,region,code_postal,segment,date_inscription,fidélité_points\nC001,Dupont,Marie,marie.dupont@gmail.com,06.12.34.56.78,Montpellier,Occitanie,34000,Particulier,2022-03-15,1240\nC002,Martin,Jean-Paul,jp.martin@ora...",
+    "content_length": 1409,
+    "created_at": "2026-02-26T20:07:10.805304+00:00",
+    "updated_at": "2026-02-26T20:53:32.354598+00:00",
+    "file_path": "clients.csv",
+    "track_id": "upload_20260226_210710_f3e10c6b",
+    "metadata": {
+      "processing_start_time": 1772138188,
+      "processing_end_time": 1772139212
     }
   },
   "doc-b1d04d6c24d6dfe4be7d2a793b0df103": {
@@ -48,13 +48,13 @@
     ],
     "content_summary": "=== RÉFÉRENTIEL FOURNISSEURS — JARDINERIE VERDE OCCITANIE ===\nDocument interne — Mis à jour : janvier 2026\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nFOURNISSEUR : NaturaCulture\nSiège : Montpellier (34)\nContact commercial : Éric Vidal — e.vidal@nat...",
     "content_length": 6064,
-    "created_at": "2026-02-26T07:10:26.647680+00:00",
-    "updated_at": "2026-02-26T07:13:57.354916+00:00",
+    "created_at": "2026-02-26T20:07:10.807491+00:00",
+    "updated_at": "2026-02-26T21:05:22.992175+00:00",
     "file_path": "fournisseurs_certifications.txt",
-    "track_id": "upload_20260226_081026_e7ba333d",
+    "track_id": "upload_20260226_210710_b7b9c3e2",
     "metadata": {
-      "processing_start_time": 1772089946,
-      "processing_end_time": 1772090037
+      "processing_start_time": 1772138188,
+      "processing_end_time": 1772139922
     }
   }
 }

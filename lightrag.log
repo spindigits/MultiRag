@@ -337,3 +337,358 @@
 2026-02-26 19:38:25,661 - lightrag - INFO - Successfully finalized 12 storages
 2026-02-26 19:38:25,661 - uvicorn.error - INFO - Application shutdown complete.
 2026-02-26 19:38:25,661 - uvicorn.error - INFO - Finished server process [307112]
+2026-02-26 20:05:26,070 - lightrag - INFO - Ollama LLM Options: {'num_ctx': 32768}
+2026-02-26 20:05:26,071 - lightrag - INFO - Ollama Embedding Options: {}
+2026-02-26 20:05:26,122 - lightrag - INFO - Embedding config: binding=ollama model=mxbai-embed-large embedding_dim=1024 max_token_size=8192
+2026-02-26 20:05:26,122 - lightrag - INFO - Send embedding dimension: False by env var (dimensions=1024, has_param=True, binding=ollama)
+2026-02-26 20:05:26,122 - lightrag - INFO - Embedding max_token_size: 8192 (from ollama provider default)
+2026-02-26 20:05:26,122 - lightrag - INFO - Reranking is disabled
+2026-02-26 20:05:26,347 - lightrag - INFO - [] Loaded graph from /home/mensaflow/Desktop/LightRAG/rag_storage/graph_chunk_entity_relation.graphml with 6 nodes, 4 edges
+2026-02-26 20:05:26,445 - lightrag - INFO - WebUI assets mounted at /webui
+2026-02-26 20:05:26,452 - uvicorn.error - INFO - Started server process [996146]
+2026-02-26 20:05:26,452 - uvicorn.error - INFO - Waiting for application startup.
+2026-02-26 20:05:26,453 - lightrag - INFO - [] Process 996146 KV load full_docs with 3 records
+2026-02-26 20:05:26,453 - lightrag - INFO - [] Process 996146 KV load text_chunks with 10 records
+2026-02-26 20:05:26,453 - lightrag - INFO - [] Process 996146 KV load full_entities with 3 records
+2026-02-26 20:05:26,454 - lightrag - INFO - [] Process 996146 KV load full_relations with 3 records
+2026-02-26 20:05:26,454 - lightrag - INFO - [] Process 996146 KV load entity_chunks with 6 records
+2026-02-26 20:05:26,454 - lightrag - INFO - [] Process 996146 KV load relation_chunks with 4 records
+2026-02-26 20:05:26,455 - lightrag - INFO - [] Process 996146 KV load llm_response_cache with 25 records
+2026-02-26 20:05:26,456 - lightrag - INFO - [] Process 996146 doc status load doc_status with 3 records
+2026-02-26 20:05:26,456 - uvicorn.error - INFO - Application startup complete.
+2026-02-26 20:05:26,456 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:9621 (Press CTRL+C to quit)
+2026-02-26 20:05:55,437 - uvicorn.access - INFO - 127.0.0.1:37646 - "GET /docs HTTP/1.1" 200
+2026-02-26 20:05:55,439 - lightrag - INFO - Token auto-renewed for user guest (role: guest, remaining: 43120s)
+2026-02-26 20:05:55,440 - lightrag - INFO - [] Subgraph query successful | Node count: 6 | Edge count: 4
+2026-02-26 20:05:55,441 - uvicorn.access - INFO - 127.0.0.1:37662 - "GET /graphs?label=*&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 20:05:55,648 - uvicorn.access - INFO - 127.0.0.1:37662 - "GET /openapi.json HTTP/1.1" 200
+2026-02-26 20:15:48,394 - uvicorn.error - INFO - Shutting down
+2026-02-26 20:15:48,494 - uvicorn.error - INFO - Waiting for application shutdown.
+2026-02-26 20:15:48,495 - lightrag - INFO - Successfully finalized 12 storages
+2026-02-26 20:15:48,495 - uvicorn.error - INFO - Application shutdown complete.
+2026-02-26 20:15:48,496 - uvicorn.error - INFO - Finished server process [996146]
+2026-02-26 20:16:07,995 - lightrag - INFO - Ollama LLM Options: {'num_ctx': 32768}
+2026-02-26 20:16:07,995 - lightrag - INFO - Ollama Embedding Options: {}
+2026-02-26 20:16:08,046 - lightrag - INFO - Embedding config: binding=ollama model=mxbai-embed-large embedding_dim=1024 max_token_size=8192
+2026-02-26 20:16:08,046 - lightrag - INFO - Send embedding dimension: False by env var (dimensions=1024, has_param=True, binding=ollama)
+2026-02-26 20:16:08,046 - lightrag - INFO - Embedding max_token_size: 8192 (from ollama provider default)
+2026-02-26 20:16:08,046 - lightrag - INFO - Reranking is disabled
+2026-02-26 20:16:08,262 - lightrag - INFO - [] Loaded graph from /home/mensaflow/Desktop/LightRAG/rag_storage/graph_chunk_entity_relation.graphml with 6 nodes, 4 edges
+2026-02-26 20:16:08,363 - lightrag - INFO - WebUI assets mounted at /webui
+2026-02-26 20:16:08,371 - uvicorn.error - INFO - Started server process [1010689]
+2026-02-26 20:16:08,371 - uvicorn.error - INFO - Waiting for application startup.
+2026-02-26 20:16:08,372 - lightrag - INFO - [] Process 1010689 KV load full_docs with 3 records
+2026-02-26 20:16:08,372 - lightrag - INFO - [] Process 1010689 KV load text_chunks with 10 records
+2026-02-26 20:16:08,372 - lightrag - INFO - [] Process 1010689 KV load full_entities with 3 records
+2026-02-26 20:16:08,372 - lightrag - INFO - [] Process 1010689 KV load full_relations with 3 records
+2026-02-26 20:16:08,372 - lightrag - INFO - [] Process 1010689 KV load entity_chunks with 6 records
+2026-02-26 20:16:08,372 - lightrag - INFO - [] Process 1010689 KV load relation_chunks with 4 records
+2026-02-26 20:16:08,374 - lightrag - INFO - [] Process 1010689 KV load llm_response_cache with 25 records
+2026-02-26 20:16:08,374 - lightrag - INFO - [] Process 1010689 doc status load doc_status with 3 records
+2026-02-26 20:16:08,374 - uvicorn.error - INFO - Application startup complete.
+2026-02-26 20:16:08,375 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:9621 (Press CTRL+C to quit)
+2026-02-26 20:16:19,774 - uvicorn.access - INFO - 127.0.0.1:50412 - "GET /docs HTTP/1.1" 200
+2026-02-26 20:16:19,792 - lightrag - INFO - [] Subgraph query successful | Node count: 6 | Edge count: 4
+2026-02-26 20:16:19,793 - uvicorn.access - INFO - 127.0.0.1:50426 - "GET /graphs?label=*&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 20:16:20,025 - uvicorn.access - INFO - 127.0.0.1:50426 - "GET /openapi.json HTTP/1.1" 200
+2026-02-26 20:16:36,320 - uvicorn.access - INFO - 127.0.0.1:36392 - "GET / HTTP/1.1" 307
+2026-02-26 20:16:36,324 - uvicorn.access - INFO - 127.0.0.1:36392 - "GET /webui HTTP/1.1" 307
+2026-02-26 20:16:36,594 - uvicorn.access - INFO - 127.0.0.1:36396 - "GET /auth-status HTTP/1.1" 200
+2026-02-26 20:16:36,848 - uvicorn.access - INFO - 127.0.0.1:36396 - "GET /docs HTTP/1.1" 200
+2026-02-26 20:16:36,864 - lightrag - INFO - [] Subgraph query successful | Node count: 6 | Edge count: 4
+2026-02-26 20:16:36,864 - uvicorn.access - INFO - 127.0.0.1:36392 - "GET /graphs?label=*&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 20:16:37,056 - uvicorn.access - INFO - 127.0.0.1:36396 - "GET /openapi.json HTTP/1.1" 200
+2026-02-26 20:19:00,703 - uvicorn.access - INFO - 127.0.0.1:47650 - "GET /webui/assets/index-8fiWFYnN.js HTTP/1.1" 200
+2026-02-26 20:19:00,703 - uvicorn.access - INFO - 127.0.0.1:47654 - "GET /webui/assets/index-DS3Wz1EX.css HTTP/1.1" 200
+2026-02-26 20:19:01,102 - uvicorn.access - INFO - 127.0.0.1:47654 - "GET /webui/favicon.png HTTP/1.1" 200
+2026-02-26 20:19:01,328 - uvicorn.access - INFO - 127.0.0.1:47654 - "GET /docs HTTP/1.1" 200
+2026-02-26 20:19:01,350 - lightrag - INFO - [] Subgraph query successful | Node count: 6 | Edge count: 4
+2026-02-26 20:19:01,350 - uvicorn.access - INFO - 127.0.0.1:47660 - "GET /graphs?label=*&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 20:19:01,351 - uvicorn.access - INFO - 127.0.0.1:47654 - "GET /webui/assets/index-95wECDUK.js HTTP/1.1" 200
+2026-02-26 20:19:01,444 - uvicorn.access - INFO - 127.0.0.1:47654 - "GET /static/swagger-ui/swagger-ui.css HTTP/1.1" 200
+2026-02-26 20:19:01,445 - uvicorn.access - INFO - 127.0.0.1:47660 - "GET /static/swagger-ui/swagger-ui-bundle.js HTTP/1.1" 200
+2026-02-26 20:19:01,577 - uvicorn.access - INFO - 127.0.0.1:47660 - "GET /openapi.json HTTP/1.1" 200
+2026-02-26 20:56:02,082 - uvicorn.error - INFO - Shutting down
+2026-02-26 20:56:02,183 - uvicorn.error - INFO - Waiting for application shutdown.
+2026-02-26 20:56:02,183 - lightrag - INFO - Successfully finalized 12 storages
+2026-02-26 20:56:02,184 - uvicorn.error - INFO - Application shutdown complete.
+2026-02-26 20:56:02,184 - uvicorn.error - INFO - Finished server process [1010689]
+2026-02-26 20:57:07,890 - lightrag - INFO - Ollama LLM Options: {'num_ctx': 32768}
+2026-02-26 20:57:07,890 - lightrag - INFO - Ollama Embedding Options: {}
+2026-02-26 20:57:07,944 - lightrag - INFO - Embedding config: binding=ollama model=mxbai-embed-large embedding_dim=1024 max_token_size=8192
+2026-02-26 20:57:07,944 - lightrag - INFO - Send embedding dimension: False by env var (dimensions=1024, has_param=True, binding=ollama)
+2026-02-26 20:57:07,944 - lightrag - INFO - Embedding max_token_size: 8192 (from ollama provider default)
+2026-02-26 20:57:07,944 - lightrag - INFO - Reranking is disabled
+2026-02-26 20:57:08,157 - lightrag - INFO - [] Loaded graph from /home/mensaflow/Desktop/LightRAG/rag_storage/graph_chunk_entity_relation.graphml with 6 nodes, 4 edges
+2026-02-26 20:57:08,253 - lightrag - INFO - WebUI assets mounted at /webui
+2026-02-26 20:57:08,260 - uvicorn.error - INFO - Started server process [1053036]
+2026-02-26 20:57:08,260 - uvicorn.error - INFO - Waiting for application startup.
+2026-02-26 20:57:08,261 - lightrag - INFO - [] Process 1053036 KV load full_docs with 3 records
+2026-02-26 20:57:08,261 - lightrag - INFO - [] Process 1053036 KV load text_chunks with 10 records
+2026-02-26 20:57:08,261 - lightrag - INFO - [] Process 1053036 KV load full_entities with 3 records
+2026-02-26 20:57:08,261 - lightrag - INFO - [] Process 1053036 KV load full_relations with 3 records
+2026-02-26 20:57:08,261 - lightrag - INFO - [] Process 1053036 KV load entity_chunks with 6 records
+2026-02-26 20:57:08,262 - lightrag - INFO - [] Process 1053036 KV load relation_chunks with 4 records
+2026-02-26 20:57:08,263 - lightrag - INFO - [] Process 1053036 KV load llm_response_cache with 25 records
+2026-02-26 20:57:08,263 - lightrag - INFO - [] Process 1053036 doc status load doc_status with 3 records
+2026-02-26 20:57:08,264 - uvicorn.error - INFO - Application startup complete.
+2026-02-26 20:57:08,264 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:9621 (Press CTRL+C to quit)
+2026-02-26 20:57:15,867 - uvicorn.access - INFO - 127.0.0.1:45792 - "GET /webui/assets/index-MaNDKbnN.js HTTP/1.1" 200
+2026-02-26 20:57:15,867 - uvicorn.access - INFO - 127.0.0.1:45806 - "GET /webui/assets/index-DVTYy_Tb.css HTTP/1.1" 200
+2026-02-26 20:57:16,243 - uvicorn.access - INFO - 127.0.0.1:45806 - "GET /webui/favicon.png HTTP/1.1" 200
+2026-02-26 20:57:16,488 - uvicorn.access - INFO - 127.0.0.1:45806 - "GET /docs HTTP/1.1" 200
+2026-02-26 20:57:16,506 - uvicorn.access - INFO - 127.0.0.1:45806 - "GET /webui/assets/index-BFnT6KCf.js HTTP/1.1" 200
+2026-02-26 20:57:16,507 - uvicorn.access - INFO - 127.0.0.1:45792 - "GET /webui/upvd_logo.png HTTP/1.1" 200
+2026-02-26 20:57:16,507 - lightrag - INFO - [] Subgraph query successful | Node count: 6 | Edge count: 4
+2026-02-26 20:57:16,508 - uvicorn.access - INFO - 127.0.0.1:45816 - "GET /graphs?label=*&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 20:57:16,509 - uvicorn.access - INFO - 127.0.0.1:45822 - "GET /webui/mensaflow_logo.jpg HTTP/1.1" 200
+2026-02-26 20:57:16,609 - uvicorn.access - INFO - 127.0.0.1:45806 - "GET /static/swagger-ui/swagger-ui.css HTTP/1.1" 200
+2026-02-26 20:57:16,614 - uvicorn.access - INFO - 127.0.0.1:45806 - "GET /static/swagger-ui/swagger-ui-bundle.js HTTP/1.1" 200
+2026-02-26 20:57:16,835 - uvicorn.access - INFO - 127.0.0.1:45806 - "GET /openapi.json HTTP/1.1" 200
+2026-02-26 20:57:55,321 - uvicorn.access - INFO - 127.0.0.1:52928 - "GET /graph/label/search?q=cl&limit=50 HTTP/1.1" 200
+2026-02-26 20:58:00,507 - uvicorn.access - INFO - 127.0.0.1:52088 - "GET /graph/label/search?q=client&limit=50 HTTP/1.1" 200
+2026-02-26 20:58:01,264 - lightrag - INFO - [] Subgraph query successful | Node count: 6 | Edge count: 4
+2026-02-26 20:58:01,265 - uvicorn.access - INFO - 127.0.0.1:52088 - "GET /graphs?label=*&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 20:58:01,271 - uvicorn.access - INFO - 127.0.0.1:52088 - "GET /graph/label/search?q=clients&limit=50 HTTP/1.1" 200
+2026-02-26 20:58:34,636 - uvicorn.access - INFO - 127.0.0.1:39406 - "GET /graph/label/search?q=Prod&limit=50 HTTP/1.1" 200
+2026-02-26 20:58:35,985 - uvicorn.access - INFO - 127.0.0.1:39406 - "GET /graph/label/search?q=Produits&limit=50 HTTP/1.1" 200
+2026-02-26 20:58:36,958 - lightrag - INFO - [] Subgraph query successful | Node count: 6 | Edge count: 4
+2026-02-26 20:58:36,960 - uvicorn.access - INFO - 127.0.0.1:39406 - "GET /graphs?label=*&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 20:58:59,376 - uvicorn.access - INFO - 127.0.0.1:54464 - "GET /graph/label/popular?limit=300 HTTP/1.1" 200
+2026-02-26 20:58:59,393 - lightrag - INFO - [] Subgraph query successful | Node count: 6 | Edge count: 4
+2026-02-26 20:58:59,393 - uvicorn.access - INFO - 127.0.0.1:54464 - "GET /graphs?label=*&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 21:01:36,492 - uvicorn.access - INFO - 127.0.0.1:53690 - "GET /graph/label/search?q=Dupont&limit=50 HTTP/1.1" 200
+2026-02-26 21:01:39,160 - uvicorn.access - INFO - 127.0.0.1:53690 - "GET /graph/label/search?q=Dupont%20Mair&limit=50 HTTP/1.1" 200
+2026-02-26 21:01:40,255 - lightrag - INFO - [] Subgraph query successful | Node count: 6 | Edge count: 4
+2026-02-26 21:01:40,255 - uvicorn.access - INFO - 127.0.0.1:53690 - "GET /graphs?label=*&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 21:01:40,616 - uvicorn.access - INFO - 127.0.0.1:53690 - "GET /graph/label/search?q=Dupont%20Marie&limit=50 HTTP/1.1" 200
+2026-02-26 21:01:57,645 - lightrag - INFO - [] Subgraph query successful | Node count: 6 | Edge count: 4
+2026-02-26 21:01:57,646 - uvicorn.access - INFO - 127.0.0.1:59252 - "GET /graphs?label=*&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 21:03:04,764 - uvicorn.access - INFO - 127.0.0.1:50868 - "GET /graph/label/search?q=P&limit=50 HTTP/1.1" 200
+2026-02-26 21:03:06,525 - uvicorn.access - INFO - 127.0.0.1:50868 - "GET /graph/label/search?q=Pr&limit=50 HTTP/1.1" 200
+2026-02-26 21:03:07,572 - uvicorn.access - INFO - 127.0.0.1:50868 - "GET /graph/label/search?q=Pro&limit=50 HTTP/1.1" 200
+2026-02-26 21:03:09,224 - uvicorn.access - INFO - 127.0.0.1:50868 - "GET /graph/label/search?q=Produ&limit=50 HTTP/1.1" 200
+2026-02-26 21:03:09,891 - uvicorn.access - INFO - 127.0.0.1:50868 - "GET /graph/label/search?q=Produi&limit=50 HTTP/1.1" 200
+2026-02-26 21:03:11,044 - uvicorn.access - INFO - 127.0.0.1:50868 - "GET /graph/label/search?q=Produit&limit=50 HTTP/1.1" 200
+2026-02-26 21:03:11,222 - lightrag - INFO - [] Subgraph query successful | Node count: 6 | Edge count: 4
+2026-02-26 21:03:11,223 - uvicorn.access - INFO - 127.0.0.1:50868 - "GET /graphs?label=*&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 21:03:17,904 - uvicorn.access - INFO - 127.0.0.1:54454 - "GET /graph/label/popular?limit=300 HTTP/1.1" 200
+2026-02-26 21:03:17,917 - lightrag - INFO - [] Subgraph query successful | Node count: 6 | Edge count: 4
+2026-02-26 21:03:17,918 - uvicorn.access - INFO - 127.0.0.1:54454 - "GET /graphs?label=*&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 21:04:04,072 - uvicorn.access - INFO - 127.0.0.1:54524 - "GET /graph/label/popular?limit=300 HTTP/1.1" 200
+2026-02-26 21:04:04,098 - lightrag - INFO - [] Subgraph query successful | Node count: 6 | Edge count: 4
+2026-02-26 21:04:04,099 - uvicorn.access - INFO - 127.0.0.1:54524 - "GET /graphs?label=*&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 21:06:12,462 - uvicorn.error - INFO - Shutting down
+2026-02-26 21:06:12,562 - uvicorn.error - INFO - Waiting for application shutdown.
+2026-02-26 21:06:12,563 - lightrag - INFO - Successfully finalized 12 storages
+2026-02-26 21:06:12,563 - uvicorn.error - INFO - Application shutdown complete.
+2026-02-26 21:06:12,563 - uvicorn.error - INFO - Finished server process [1053036]
+2026-02-26 21:06:26,051 - lightrag - INFO - Ollama LLM Options: {'num_ctx': 32768}
+2026-02-26 21:06:26,051 - lightrag - INFO - Ollama Embedding Options: {}
+2026-02-26 21:06:26,104 - lightrag - INFO - Embedding config: binding=ollama model=mxbai-embed-large embedding_dim=1024 max_token_size=8192
+2026-02-26 21:06:26,104 - lightrag - INFO - Send embedding dimension: False by env var (dimensions=1024, has_param=True, binding=ollama)
+2026-02-26 21:06:26,104 - lightrag - INFO - Embedding max_token_size: 8192 (from ollama provider default)
+2026-02-26 21:06:26,104 - lightrag - INFO - Reranking is disabled
+2026-02-26 21:06:26,319 - lightrag - INFO - [] Created new empty graph file: /home/mensaflow/Desktop/LightRAG/rag_storage/graph_chunk_entity_relation.graphml
+2026-02-26 21:06:26,417 - lightrag - INFO - WebUI assets mounted at /webui
+2026-02-26 21:06:26,424 - uvicorn.error - INFO - Started server process [1063283]
+2026-02-26 21:06:26,424 - uvicorn.error - INFO - Waiting for application startup.
+2026-02-26 21:06:26,425 - lightrag - INFO - [] Process 1063283 KV load full_docs with 0 records
+2026-02-26 21:06:26,425 - lightrag - INFO - [] Process 1063283 KV load text_chunks with 0 records
+2026-02-26 21:06:26,425 - lightrag - INFO - [] Process 1063283 KV load full_entities with 0 records
+2026-02-26 21:06:26,425 - lightrag - INFO - [] Process 1063283 KV load full_relations with 0 records
+2026-02-26 21:06:26,425 - lightrag - INFO - [] Process 1063283 KV load entity_chunks with 0 records
+2026-02-26 21:06:26,425 - lightrag - INFO - [] Process 1063283 KV load relation_chunks with 0 records
+2026-02-26 21:06:26,425 - lightrag - INFO - [] Process 1063283 KV load llm_response_cache with 0 records
+2026-02-26 21:06:26,425 - lightrag - INFO - [] Process 1063283 doc status load doc_status with 0 records
+2026-02-26 21:06:26,426 - uvicorn.error - INFO - Application startup complete.
+2026-02-26 21:06:26,426 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:9621 (Press CTRL+C to quit)
+2026-02-26 21:06:32,894 - uvicorn.access - INFO - 127.0.0.1:52534 - "GET /webui/assets/index-MaNDKbnN.js HTTP/1.1" 304
+2026-02-26 21:06:32,894 - uvicorn.access - INFO - 127.0.0.1:52540 - "GET /webui/assets/index-DVTYy_Tb.css HTTP/1.1" 304
+2026-02-26 21:06:33,273 - uvicorn.access - INFO - 127.0.0.1:52540 - "GET /webui/upvd_logo.png HTTP/1.1" 200
+2026-02-26 21:06:33,274 - uvicorn.access - INFO - 127.0.0.1:52534 - "GET /webui/mensaflow_logo.jpg HTTP/1.1" 200
+2026-02-26 21:06:33,426 - uvicorn.access - INFO - 127.0.0.1:52540 - "GET /docs HTTP/1.1" 200
+2026-02-26 21:06:33,437 - lightrag - INFO - [] Subgraph query successful | Node count: 0 | Edge count: 0
+2026-02-26 21:06:33,437 - uvicorn.access - INFO - 127.0.0.1:52534 - "GET /graphs?label=*&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 21:06:33,438 - uvicorn.access - INFO - 127.0.0.1:52540 - "GET /webui/assets/index-BFnT6KCf.js HTTP/1.1" 304
+2026-02-26 21:06:33,781 - uvicorn.access - INFO - 127.0.0.1:52540 - "GET /openapi.json HTTP/1.1" 200
+2026-02-26 21:07:10,775 - uvicorn.access - INFO - 127.0.0.1:40876 - "POST /documents/upload HTTP/1.1" 200
+2026-02-26 21:07:10,776 - lightrag - INFO - Successfully extracted and enqueued file: achats_produits.txt
+2026-02-26 21:07:10,777 - lightrag - INFO - Processing 1 document(s)
+2026-02-26 21:07:10,777 - lightrag - INFO - Extracting stage 1/1: achats_produits.txt
+2026-02-26 21:07:10,777 - lightrag - INFO - Processing d-id: doc-fa56dfeb5c14e22a9b003b6323c39c16
+2026-02-26 21:07:10,785 - lightrag - INFO - Embedding func: 2 new workers initialized (Timeouts: Func: 30s, Worker: 60s, Health Check: 75s)
+2026-02-26 21:07:10,786 - uvicorn.access - INFO - 127.0.0.1:40876 - "POST /documents/upload HTTP/1.1" 200
+2026-02-26 21:07:10,805 - uvicorn.access - INFO - 127.0.0.1:40876 - "POST /documents/upload HTTP/1.1" 200
+2026-02-26 21:07:10,806 - lightrag - INFO - Successfully extracted and enqueued file: clients.csv
+2026-02-26 21:07:10,807 - lightrag - INFO - Another process is already processing the document queue. Request queued.
+2026-02-26 21:07:10,807 - lightrag - INFO - Successfully extracted and enqueued file: fournisseurs_certifications.txt
+2026-02-26 21:07:10,808 - lightrag - INFO - Another process is already processing the document queue. Request queued.
+2026-02-26 21:07:11,867 - lightrag - INFO - LLM func: 1 new workers initialized (Timeouts: Func: 900s, Worker: 1800s, Health Check: 1815s)
+2026-02-26 21:16:35,882 - lightrag - INFO -  == LLM cache == saving: default:extract:303f65d286c02109ba0a2e058fde7909
+2026-02-26 21:17:15,771 - lightrag - INFO -  == LLM cache == saving: default:extract:8d0e6acd07c63a522921419a23c8804c
+2026-02-26 21:17:15,772 - lightrag - INFO - Chunk 1 of 4 extracted 22 Ent + 30 Rel chunk-006729040656b98f73774bed81a42fb4
+2026-02-26 21:24:01,395 - lightrag - INFO -  == LLM cache == saving: default:extract:d20de8066a41cea7035f9e99a356de2a
+2026-02-26 21:28:10,529 - lightrag - INFO -  == LLM cache == saving: default:extract:80d08c65cf221dd0fdaea7a4a81b53fb
+2026-02-26 21:28:10,530 - lightrag - INFO - Chunk 2 of 4 extracted 30 Ent + 34 Rel chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2
+2026-02-26 21:30:36,821 - lightrag - INFO -  == LLM cache == saving: default:extract:1d65da12c6b092aefaff1de0a35418d5
+2026-02-26 21:31:05,747 - lightrag - INFO -  == LLM cache == saving: default:extract:35ca860a98d2a254d42c83c9bc486a54
+2026-02-26 21:31:05,748 - lightrag - INFO - Chunk 3 of 4 extracted 15 Ent + 9 Rel chunk-3f6ca165b48619e671c8079ed78f267a
+2026-02-26 21:34:27,620 - uvicorn.access - INFO - 127.0.0.1:59132 - "GET /webui/assets/index-DVTYy_Tb.css HTTP/1.1" 304
+2026-02-26 21:34:27,621 - uvicorn.access - INFO - 127.0.0.1:49820 - "GET /webui/assets/index-MaNDKbnN.js HTTP/1.1" 304
+2026-02-26 21:34:28,208 - uvicorn.access - INFO - 127.0.0.1:59132 - "GET /webui/upvd_logo.png HTTP/1.1" 200
+2026-02-26 21:34:28,208 - uvicorn.access - INFO - 127.0.0.1:49820 - "GET /webui/mensaflow_logo.jpg HTTP/1.1" 200
+2026-02-26 21:34:28,354 - uvicorn.access - INFO - 127.0.0.1:59132 - "GET /docs HTTP/1.1" 200
+2026-02-26 21:34:28,373 - uvicorn.access - INFO - 127.0.0.1:49820 - "GET /webui/assets/index-BFnT6KCf.js HTTP/1.1" 304
+2026-02-26 21:34:28,734 - uvicorn.access - INFO - 127.0.0.1:59132 - "GET /openapi.json HTTP/1.1" 200
+2026-02-26 21:35:08,116 - lightrag - INFO -  == LLM cache == saving: default:extract:4de94d9dc2424df646dd89ee07698f92
+2026-02-26 21:36:23,121 - lightrag - INFO -  == LLM cache == saving: default:extract:e582f5d3a6a2c9dc03f5ee187a640da2
+2026-02-26 21:36:23,122 - lightrag - INFO - Chunk 4 of 4 extracted 22 Ent + 14 Rel chunk-5840f80370d9cfa6b1882e31fe14f79f
+2026-02-26 21:36:23,122 - lightrag - INFO - Merging stage 1/1: achats_produits.txt
+2026-02-26 21:36:23,122 - lightrag - INFO - Phase 1: Processing 63 entities from doc-fa56dfeb5c14e22a9b003b6323c39c16 (async: 2)
+2026-02-26 21:36:26,319 - lightrag - INFO - Phase 2: Processing 81 relations from doc-fa56dfeb5c14e22a9b003b6323c39c16 (async: 2)
+2026-02-26 21:36:28,557 - lightrag - INFO - Phase 3: Updating final 64(63+1) entities and  81 relations from doc-fa56dfeb5c14e22a9b003b6323c39c16
+2026-02-26 21:36:28,558 - lightrag - INFO - Completed merging: 63 entities, 1 extra entities, 81 relations
+2026-02-26 21:36:28,569 - lightrag - INFO - [] Writing graph with 64 nodes, 81 edges
+2026-02-26 21:36:28,576 - lightrag - INFO - In memory DB persist to disk
+2026-02-26 21:36:28,577 - lightrag - INFO - Completed processing file 1/1: achats_produits.txt
+2026-02-26 21:36:28,577 - lightrag - INFO - Processing additional documents due to pending request
+2026-02-26 21:36:28,577 - lightrag - INFO - Processing 2 document(s)
+2026-02-26 21:36:28,577 - lightrag - INFO - Extracting stage 1/2: clients.csv
+2026-02-26 21:36:28,577 - lightrag - INFO - Processing d-id: doc-d1ac900ce4736af9076206042dc55342
+2026-02-26 21:36:28,577 - lightrag - INFO - Extracting stage 2/2: fournisseurs_certifications.txt
+2026-02-26 21:36:28,577 - lightrag - INFO - Processing d-id: doc-b1d04d6c24d6dfe4be7d2a793b0df103
+2026-02-26 21:38:20,413 - lightrag - INFO -  == LLM cache == saving: default:extract:843071b1197c6b33bbccc8b108bd62a6
+2026-02-26 21:43:26,086 - lightrag - INFO -  == LLM cache == saving: default:extract:0a040650a717df194f02577a4c936b9a
+2026-02-26 21:43:47,162 - lightrag - INFO -  == LLM cache == saving: default:extract:ae3641d5d313716e0480f24bdcf3465b
+2026-02-26 21:43:47,179 - lightrag - INFO - Chunk 1 of 2 extracted 12 Ent + 5 Rel chunk-a9182e1d276ba49ac67c3295c10b4f86
+2026-02-26 21:46:38,419 - lightrag - INFO -  == LLM cache == saving: default:extract:2aa480094ba145adeaa62b1a0a21a57d
+2026-02-26 21:46:38,436 - lightrag - INFO - Chunk 1 of 4 extracted 26 Ent + 23 Rel chunk-f80c3b7b18652d381631bdeda4b50e51
+2026-02-26 21:47:10,670 - lightrag - INFO -  == LLM cache == saving: default:extract:3f0585277ada487d38c3030c1699641a
+2026-02-26 21:53:12,448 - lightrag - INFO -  == LLM cache == saving: default:extract:12954fd134ce3df323e852f55f69b9b6
+2026-02-26 21:53:12,469 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `Coopérative Biologique` @ `organization`
+2026-02-26 21:53:12,469 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `Lyon` @ `location`
+2026-02-26 21:53:12,469 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `Rémi Bouchard` @ `person`
+2026-02-26 21:53:12,469 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `EcoMow Tondeuse Électrique` @ `equipment`
+2026-02-26 21:53:12,469 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `ProForce Débroussailleuse Thermique` @ `equipment`
+2026-02-26 21:53:12,469 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `Fil débroussailleuse` @ `artifact`
+2026-02-26 21:53:12,469 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `CE Certification` @ `category`
+2026-02-26 21:53:12,469 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `GS Certification (Geprüfte Sicherheit)` @ `category`
+2026-02-26 21:53:12,469 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `NF Norme Française Certification` @ `category`
+2026-02-26 21:53:12,469 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `Nîmes` @ `location`
+2026-02-26 21:53:12,469 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `Marc Tissot` @ `person`
+2026-02-26 21:53:12,470 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `Arrosoir 10L Inox` @ `artifact`
+2026-02-26 21:53:12,470 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `Serre Tunnel` @ `equipment`
+2026-02-26 21:53:12,470 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `Film Plastique Serre` @ `product`
+2026-02-26 21:53:12,470 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `ISO 9001 Certification (Qualité)` @ `category`
+2026-02-26 21:53:12,470 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `Montpellier` @ `location`
+2026-02-26 21:53:12,470 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `Hélène Roux` @ `person`
+2026-02-26 21:53:12,470 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `Système Irrigation Goutte-à-Goutte` @ `equipment`
+2026-02-26 21:53:12,470 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `Programmateur Arrosage` @ `product`
+2026-02-26 21:53:12,470 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `Tuyau Micro-Irrigation` @ `artifact`
+2026-02-26 21:53:12,470 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `Water Efficiency Label (WEL) Certification` @ `category`
+2026-02-26 21:53:12,470 - lightrag - WARNING - chunk-8434a117d90418935fb7b78aa34e9666: LLM output format error; found 3/4 feilds on ENTITY `NF Arrosage Certification` @ `category`
+2026-02-26 21:53:30,309 - lightrag - INFO -  == LLM cache == saving: default:extract:85a75c02a7c26172fc475ee5d8327c5e
+2026-02-26 21:53:30,325 - lightrag - INFO - Chunk 2 of 2 extracted 4 Ent + 3 Rel chunk-b69996768b09b308d485bb643b5f7953
+2026-02-26 21:53:30,326 - lightrag - INFO - Merging stage 1/2: clients.csv
+2026-02-26 21:53:30,327 - lightrag - INFO - Phase 1: Processing 16 entities from doc-d1ac900ce4736af9076206042dc55342 (async: 2)
+2026-02-26 21:53:31,866 - lightrag - INFO - Merged: `Laurent François` | 1+1
+2026-02-26 21:53:31,893 - lightrag - INFO - Merged: `Lunel` | 1+1
+2026-02-26 21:53:32,000 - lightrag - INFO - Phase 2: Processing 8 relations from doc-d1ac900ce4736af9076206042dc55342 (async: 2)
+2026-02-26 21:53:32,354 - lightrag - INFO - Phase 3: Updating final 16(16+0) entities and  8 relations from doc-d1ac900ce4736af9076206042dc55342
+2026-02-26 21:53:32,354 - lightrag - INFO - Completed merging: 16 entities, 0 extra entities, 8 relations
+2026-02-26 21:53:32,371 - lightrag - INFO - [] Writing graph with 78 nodes, 89 edges
+2026-02-26 21:53:32,375 - lightrag - INFO - In memory DB persist to disk
+2026-02-26 21:53:32,375 - lightrag - INFO - Completed processing file 1/2: clients.csv
+2026-02-26 21:53:59,148 - lightrag - INFO -  == LLM cache == saving: default:extract:390751d2dc5c5c29a69cc0f015064b56
+2026-02-26 21:53:59,148 - lightrag - INFO - Chunk 2 of 4 extracted 6 Ent + 24 Rel chunk-8434a117d90418935fb7b78aa34e9666
+2026-02-26 21:57:44,223 - lightrag - INFO -  == LLM cache == saving: default:extract:bed9e12576cda404ae3729fc53e1c2dd
+2026-02-26 22:04:46,346 - lightrag - INFO -  == LLM cache == saving: default:extract:ce41202babd73acbfd3f7a820bef63d0
+2026-02-26 22:04:46,348 - lightrag - INFO - Chunk 3 of 4 extracted 33 Ent + 25 Rel chunk-d0679196066b65302ba7e4d2cf604091
+2026-02-26 22:05:00,602 - lightrag - INFO -  == LLM cache == saving: default:extract:8fe84011733a5b9ea6501300af66a41c
+2026-02-26 22:05:17,742 - lightrag - INFO -  == LLM cache == saving: default:extract:03ca9785933e7d401b195d08fff3a181
+2026-02-26 22:05:17,743 - lightrag - INFO - Chunk 4 of 4 extracted 2 Ent + 2 Rel chunk-8587ff3d505a48ce0efb049a438e0a51
+2026-02-26 22:05:17,743 - lightrag - INFO - Merging stage 2/2: fournisseurs_certifications.txt
+2026-02-26 22:05:17,743 - lightrag - INFO - Phase 1: Processing 67 entities from doc-b1d04d6c24d6dfe4be7d2a793b0df103 (async: 2)
+2026-02-26 22:05:18,640 - lightrag - INFO - Merged: `GreenTech Industries` | 3+1
+2026-02-26 22:05:18,663 - lightrag - INFO - Merged: `JardinEquip` | 3+1
+2026-02-26 22:05:18,685 - lightrag - INFO - Merged: `AquaGarden` | 1+1
+2026-02-26 22:05:18,764 - lightrag - INFO - Merged: `NaturaCulture` | 4+1
+2026-02-26 22:05:18,783 - lightrag - INFO - Merged: `Montpellier` | 1+1
+2026-02-26 22:05:18,908 - lightrag - INFO - Merged: `BioGreen Solutions` | 4+1
+2026-02-26 22:05:19,027 - lightrag - INFO - Merged: `GrainVivant` | 4+1
+2026-02-26 22:05:19,321 - lightrag - INFO - Merged: `FleurOccitanie` | 2+1
+2026-02-26 22:05:19,339 - lightrag - INFO - Merged: `Perpignan` | 2+1
+2026-02-26 22:05:19,422 - lightrag - INFO - Merged: `SafeGarden` | 2+1
+2026-02-26 22:05:19,534 - lightrag - INFO - Merged: `EcoForest` | 1+1
+2026-02-26 22:05:19,757 - lightrag - INFO - Merged: `Casque anti-bruit protection` | 1+1
+2026-02-26 22:05:19,945 - lightrag - INFO - Phase 2: Processing 73 relations from doc-b1d04d6c24d6dfe4be7d2a793b0df103 (async: 2)
+2026-02-26 22:05:20,972 - lightrag - INFO - Chunks appended from relation: `Montpellier`
+2026-02-26 22:05:22,632 - lightrag - INFO - Merged: `Casque anti-bruit protection`~`SafeGarden` | 1+1
+2026-02-26 22:05:22,991 - lightrag - INFO - Phase 3: Updating final 89(67+22) entities and  73 relations from doc-b1d04d6c24d6dfe4be7d2a793b0df103
+2026-02-26 22:05:22,991 - lightrag - INFO - Completed merging: 67 entities, 22 extra entities, 73 relations
+2026-02-26 22:05:23,015 - lightrag - INFO - [] Writing graph with 155 nodes, 161 edges
+2026-02-26 22:05:23,021 - lightrag - INFO - In memory DB persist to disk
+2026-02-26 22:05:23,021 - lightrag - INFO - Completed processing file 2/2: fournisseurs_certifications.txt
+2026-02-26 22:05:23,021 - lightrag - INFO - Enqueued document processing pipeline stopped
+2026-02-26 22:24:25,353 - uvicorn.access - INFO - 127.0.0.1:43786 - "GET /graph/label/popular?limit=300 HTTP/1.1" 200
+2026-02-26 22:24:32,608 - lightrag - INFO - [] Graph truncated: found 55 nodes within max_depth 3
+2026-02-26 22:24:32,613 - lightrag - INFO - [] Subgraph query successful | Node count: 55 | Edge count: 71
+2026-02-26 22:24:32,621 - uvicorn.access - INFO - 127.0.0.1:33438 - "GET /graphs?label=GreenTech%20Industries&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 22:56:20,553 - lightrag - INFO - [] Graph truncated: found 100 nodes within max_depth 3
+2026-02-26 22:56:20,556 - lightrag - INFO - [] Subgraph query successful | Node count: 100 | Edge count: 130
+2026-02-26 22:56:20,566 - uvicorn.access - INFO - 127.0.0.1:36496 - "GET /graphs?label=NaturaCulture&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-26 22:57:39,529 - lightrag - INFO -  == LLM cache == saving: hybrid:keywords:1206decb746dc33592574746bec9a44c
+2026-02-26 22:57:41,480 - lightrag - INFO - Query nodes: Achats, Ecocert, Vente (top_k:40, cosine:0.2)
+2026-02-26 22:57:41,518 - lightrag - INFO - Local query: 40 entites, 69 relations
+2026-02-26 22:57:41,518 - lightrag - INFO - Query edges: Client avec plus grandes ventes, Produits Ecocert (top_k:40, cosine:0.2)
+2026-02-26 22:57:41,560 - lightrag - INFO - Global query: 44 entites, 40 relations
+2026-02-26 22:57:41,560 - lightrag - INFO - Raw search results: 70 entities, 91 relations, 0 vector chunks
+2026-02-26 22:57:41,564 - lightrag - INFO - After truncation: 70 entities, 91 relations
+2026-02-26 22:57:41,565 - lightrag - INFO - Selecting 9 from 9 entity-related chunks by vector similarity
+2026-02-26 22:57:41,566 - lightrag - INFO - Find no additional relations-related chunks from 91 relations
+2026-02-26 22:57:41,566 - lightrag - INFO - Round-robin merged chunks: 9 -> 9 (deduplicated 0)
+2026-02-26 22:57:41,572 - lightrag - INFO - Final context: 70 entities, 91 relations, 9 chunks
+2026-02-26 22:57:41,573 - lightrag - INFO - Final chunks S+F/O: E2/1 E16/2 E12/3 E16/4 E10/5 E11/6 E14/7 E19/8 E1/9
+2026-02-26 22:57:41,601 - uvicorn.access - INFO - 127.0.0.1:47772 - "POST /query/stream HTTP/1.1" 200
+2026-02-27 15:33:28,413 - lightrag - INFO - Ollama LLM Options: {'num_ctx': 32768}
+2026-02-27 15:33:28,414 - lightrag - INFO - Ollama Embedding Options: {}
+2026-02-27 15:33:28,480 - lightrag - INFO - Embedding config: binding=ollama model=mxbai-embed-large embedding_dim=1024 max_token_size=8192
+2026-02-27 15:33:28,481 - lightrag - INFO - Send embedding dimension: False by env var (dimensions=1024, has_param=True, binding=ollama)
+2026-02-27 15:33:28,481 - lightrag - INFO - Embedding max_token_size: 8192 (from ollama provider default)
+2026-02-27 15:33:28,481 - lightrag - INFO - Reranking is disabled
+2026-02-27 15:33:30,332 - lightrag - INFO - [] Loaded graph from /home/mensaflow/Desktop/LightRAG/rag_storage/graph_chunk_entity_relation.graphml with 155 nodes, 161 edges
+2026-02-27 15:33:30,458 - lightrag - INFO - WebUI assets mounted at /webui
+2026-02-27 15:33:30,472 - uvicorn.error - INFO - Started server process [468096]
+2026-02-27 15:33:30,472 - uvicorn.error - INFO - Waiting for application startup.
+2026-02-27 15:33:30,473 - lightrag - INFO - [] Process 468096 KV load full_docs with 3 records
+2026-02-27 15:33:30,473 - lightrag - INFO - [] Process 468096 KV load text_chunks with 10 records
+2026-02-27 15:33:30,474 - lightrag - INFO - [] Process 468096 KV load full_entities with 3 records
+2026-02-27 15:33:30,474 - lightrag - INFO - [] Process 468096 KV load full_relations with 3 records
+2026-02-27 15:33:30,474 - lightrag - INFO - [] Process 468096 KV load entity_chunks with 155 records
+2026-02-27 15:33:30,475 - lightrag - INFO - [] Process 468096 KV load relation_chunks with 161 records
+2026-02-27 15:33:30,477 - lightrag - INFO - [] Process 468096 KV load llm_response_cache with 21 records
+2026-02-27 15:33:30,478 - lightrag - INFO - [] Process 468096 doc status load doc_status with 3 records
+2026-02-27 15:33:30,478 - uvicorn.error - INFO - Application startup complete.
+2026-02-27 15:33:30,478 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:9621 (Press CTRL+C to quit)
+2026-02-27 15:33:36,325 - uvicorn.access - INFO - 127.0.0.1:42698 - "GET / HTTP/1.1" 307
+2026-02-27 15:33:36,335 - uvicorn.access - INFO - 127.0.0.1:42698 - "GET /webui HTTP/1.1" 307
+2026-02-27 15:33:36,382 - uvicorn.access - INFO - 127.0.0.1:42698 - "GET /webui/assets/index-MaNDKbnN.js HTTP/1.1" 304
+2026-02-27 15:33:36,382 - uvicorn.access - INFO - 127.0.0.1:42700 - "GET /webui/assets/index-DVTYy_Tb.css HTTP/1.1" 304
+2026-02-27 15:33:36,759 - uvicorn.access - INFO - 127.0.0.1:42700 - "GET /auth-status HTTP/1.1" 200
+2026-02-27 15:33:37,058 - uvicorn.access - INFO - 127.0.0.1:42700 - "GET /docs HTTP/1.1" 200
+2026-02-27 15:33:37,075 - uvicorn.access - INFO - 127.0.0.1:42700 - "GET /webui/upvd_logo.png HTTP/1.1" 200
+2026-02-27 15:33:37,075 - uvicorn.access - INFO - 127.0.0.1:42698 - "GET /webui/mensaflow_logo.jpg HTTP/1.1" 200
+2026-02-27 15:33:37,076 - lightrag - INFO - [] Graph truncated: found 100 nodes within max_depth 3
+2026-02-27 15:33:37,077 - lightrag - INFO - [] Subgraph query successful | Node count: 100 | Edge count: 130
+2026-02-27 15:33:37,083 - uvicorn.access - INFO - 127.0.0.1:42716 - "GET /graphs?label=NaturaCulture&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-27 15:33:37,084 - uvicorn.access - INFO - 127.0.0.1:42724 - "GET /webui/assets/index-BFnT6KCf.js HTTP/1.1" 304
+2026-02-27 15:33:37,191 - uvicorn.access - INFO - 127.0.0.1:42700 - "GET /static/swagger-ui/swagger-ui-bundle.js HTTP/1.1" 304
+2026-02-27 15:33:37,192 - uvicorn.access - INFO - 127.0.0.1:42716 - "GET /static/swagger-ui/swagger-ui.css HTTP/1.1" 200
+2026-02-27 15:33:37,375 - uvicorn.access - INFO - 127.0.0.1:42716 - "GET /openapi.json HTTP/1.1" 200
+2026-02-27 15:33:55,654 - uvicorn.access - INFO - 127.0.0.1:49008 - "GET /docs HTTP/1.1" 200
+2026-02-27 15:38:06,560 - uvicorn.access - INFO - 127.0.0.1:57974 - "GET /docs HTTP/1.1" 200
+2026-02-27 15:38:06,578 - lightrag - INFO - [] Graph truncated: found 100 nodes within max_depth 3
+2026-02-27 15:38:06,579 - lightrag - INFO - [] Subgraph query successful | Node count: 100 | Edge count: 130
+2026-02-27 15:38:06,583 - uvicorn.access - INFO - 127.0.0.1:57974 - "GET /graphs?label=NaturaCulture&max_depth=3&max_nodes=500 HTTP/1.1" 200
+2026-02-27 15:38:06,791 - uvicorn.access - INFO - 127.0.0.1:57974 - "GET /openapi.json HTTP/1.1" 200

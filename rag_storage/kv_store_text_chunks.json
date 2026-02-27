@@ -1,32 +1,4 @@
 {
-  "chunk-a9182e1d276ba49ac67c3295c10b4f86": {
-    "tokens": 600,
-    "content": "id_client,nom,prenom,email,telephone,ville,region,code_postal,segment,date_inscription,fidélité_points\nC001,Dupont,Marie,marie.dupont@gmail.com,06.12.34.56.78,Montpellier,Occitanie,34000,Particulier,2022-03-15,1240\nC002,Martin,Jean-Paul,jp.martin@orange.fr,06.23.45.67.89,Toulouse,Occitanie,31000,Particulier,2021-07-22,3870\nC003,Lefevre,Sophie,slefevre@entreprise.fr,04.67.89.01.23,Nîmes,Occitanie,30000,Professionnel,2020-01-10,8920\nC004,Bernard,Alain,a.bernard@hotmail.com,06.34.56.78.90,Perpignan,Occitanie,66000,Particulier,2023-05-03,540\nC005,Rousseau,Claire,c.rousseau@gmail.com,06.45.67.89.01,Béziers,Occitanie,34500,Particulier,2022-11-18,2100\nC006,Petit,Thomas,t.petit@yahoo.fr,06.56.78.90.12,Carcassonne,Occitanie,11000,Professionnel,2019-09-05,12450\nC007,Moreau,Isabelle,i.moreau@gmail.com,06.67.89.01.23,Sète,Occitanie,34200,Particulier,2023-01-27,890\nC008,Garcia,Pedro,p.garcia@orange.fr,06.78.90.12.34,Barcelone-sur-Mer,Occitanie,11210,Particulier,2021-04-14,1670\nC009,Lambert,Christine,c.lambert@sfr.fr,06.89.01.23.45,Alès,Occitanie,30100,Professionnel,2020-06-30,6340\nC010,Durand,Michel,m.durand@gmail.com,06.90.12.34.56,Montpellier,Occitanie,34090,Particulier,2022-08-09,3210\nC011,Simon,Nathalie,n.simon@orange.fr,04.68.12.34.56,Perpignan,Occitanie,66100,Professionnel,2018-12-01,18700\nC012,Laurent,François,f.laurent@gmail.com,06.11.22.33.44,Lunel,Occitanie,34400,",
-    "chunk_order_index": 0,
-    "full_doc_id": "doc-d1ac900ce4736af9076206042dc55342",
-    "file_path": "clients.csv",
-    "llm_cache_list": [
-      "default:extract:843071b1197c6b33bbccc8b108bd62a6",
-      "default:extract:5d33e4def9357f4750c9f2666b72ebf2"
-    ],
-    "create_time": 1772089539,
-    "update_time": 1772089725,
-    "_id": "chunk-a9182e1d276ba49ac67c3295c10b4f86"
-  },
-  "chunk-b69996768b09b308d485bb643b5f7953": {
-    "tokens": 62,
-    "content": "00,Professionnel,2018-12-01,18700\nC012,Laurent,François,f.laurent@gmail.com,06.11.22.33.44,Lunel,Occitanie,34400,Particulier,2023-09-12,320",
-    "chunk_order_index": 1,
-    "full_doc_id": "doc-d1ac900ce4736af9076206042dc55342",
-    "file_path": "clients.csv",
-    "llm_cache_list": [
-      "default:extract:3f0585277ada487d38c3030c1699641a",
-      "default:extract:20416196cb427ae8f95b315ad7e5c55b"
-    ],
-    "create_time": 1772089539,
-    "update_time": 1772089738,
-    "_id": "chunk-b69996768b09b308d485bb643b5f7953"
-  },
   "chunk-006729040656b98f73774bed81a42fb4": {
     "tokens": 600,
     "content": "=== HISTORIQUE DES ACHATS — JARDINERIE VERDE OCCITANIE ===\nPériode : janvier 2023 – février 2026\n\n--- COMMANDE #2301-001 ---\nClient : Dupont Marie (C001) — Montpellier\nDate : 12 janvier 2023\nProduits achetés :\n  - Terreau Bio Premium 40L (réf. TB-40) — qté 3 — 12,90€/u — fournisseur : NaturaCulture\n  - Engrais Tomates Bio 1kg (réf. ETB-1) — qté 2 — 8,50€/u — fournisseur : BioGreen Solutions\n  - Tuteurs bambou lot de 10 (réf. TUT-10) — qté 1 — 6,90€/u — fournisseur : EcoForest\nTotal commande : 64,60€\n\n--- COMMANDE #2301-002 ---\nClient : Martin Jean-Paul (C002) — Toulouse\nDate : 18 janvier 2023\nProduits achetés :\n  - Tondeuse électrique EcoMow 40cm (réf. TEC-40) — qté 1 — 189,00€/u — fournisseur : GreenTech Industries\n  - Câble prolongateur 25m (réf. CAB-25) — qté 1 — 24,90€/u — fournisseur : ElecPro\n  - Gants jardinage taille L (réf. GAN-L) — qté 2 — 9,90€/u — fournisseur : SafeGarden\nTotal commande : 233,70€\n\n--- COMMANDE #2301-003 ---\nClient : Lefevre Sophie (C003) — Nîmes — COMPTE PROFESSIONNEL\nDate : 25 janvier 2023\nProduits achetés :\n  - Terreau Bio Premium 40L (réf. TB-40) — qté 20 — 11,50€/u (tarif pro) — fournisseur : NaturaCulture\n  - Engrais Universel Bio 5kg (réf. EUB-5) — qté 10 — 18,90€/u — fournisseur : BioGreen Solutions\n  - Semences tomates anciennes lot 5 variétés (réf. SEM-TOM) — qté 5 — 7,50€/u — fournisseur : GrainVivant\n  - Arrosoir 10L inox (réf. ARR-10) — qté 3 — 34,90€/u — fournisseur : JardinEquip\nTotal commande : 563,20€\n\n--- COMMANDE #2302-001 ---\nClient : Bernard Alain (C004) — Perpignan\nDate : 3 février 2023\nProduits achetés :\n  - Rosier grimpant 'Pierre de Ronsard",
@@ -35,10 +7,10 @@
     "file_path": "achats_produits.txt",
     "llm_cache_list": [
       "default:extract:303f65d286c02109ba0a2e058fde7909",
-      "default:extract:a3ec544ce15861ce7d48e9913edb25a6"
+      "default:extract:8d0e6acd07c63a522921419a23c8804c"
     ],
-    "create_time": 1772089817,
-    "update_time": 1772089849,
+    "create_time": 1772136430,
+    "update_time": 1772137035,
     "_id": "chunk-006729040656b98f73774bed81a42fb4"
   },
   "chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2": {
@@ -49,10 +21,10 @@
     "file_path": "achats_produits.txt",
     "llm_cache_list": [
       "default:extract:d20de8066a41cea7035f9e99a356de2a",
-      "default:extract:7f304054a8b3a9ddb0c7c50d8872adc0"
+      "default:extract:80d08c65cf221dd0fdaea7a4a81b53fb"
     ],
-    "create_time": 1772089817,
-    "update_time": 1772089876,
+    "create_time": 1772136430,
+    "update_time": 1772137690,
     "_id": "chunk-a89f0cbf187c8f7ec4d61e3fa2d25ba2"
   },
   "chunk-3f6ca165b48619e671c8079ed78f267a": {
@@ -63,10 +35,10 @@
     "file_path": "achats_produits.txt",
     "llm_cache_list": [
       "default:extract:1d65da12c6b092aefaff1de0a35418d5",
-      "default:extract:945480b92fd7304e1a6bcf70661ea15b"
+      "default:extract:35ca860a98d2a254d42c83c9bc486a54"
     ],
-    "create_time": 1772089817,
-    "update_time": 1772089920,
+    "create_time": 1772136430,
+    "update_time": 1772137865,
     "_id": "chunk-3f6ca165b48619e671c8079ed78f267a"
   },
   "chunk-5840f80370d9cfa6b1882e31fe14f79f": {
@@ -77,11 +49,39 @@
     "file_path": "achats_produits.txt",
     "llm_cache_list": [
       "default:extract:4de94d9dc2424df646dd89ee07698f92",
-      "default:extract:15593300fc1c030a199a9a866ff897e1"
+      "default:extract:e582f5d3a6a2c9dc03f5ee187a640da2"
     ],
-    "create_time": 1772089817,
-    "update_time": 1772089945,
+    "create_time": 1772136430,
+    "update_time": 1772138183,
     "_id": "chunk-5840f80370d9cfa6b1882e31fe14f79f"
+  },
+  "chunk-a9182e1d276ba49ac67c3295c10b4f86": {
+    "tokens": 600,
+    "content": "id_client,nom,prenom,email,telephone,ville,region,code_postal,segment,date_inscription,fidélité_points\nC001,Dupont,Marie,marie.dupont@gmail.com,06.12.34.56.78,Montpellier,Occitanie,34000,Particulier,2022-03-15,1240\nC002,Martin,Jean-Paul,jp.martin@orange.fr,06.23.45.67.89,Toulouse,Occitanie,31000,Particulier,2021-07-22,3870\nC003,Lefevre,Sophie,slefevre@entreprise.fr,04.67.89.01.23,Nîmes,Occitanie,30000,Professionnel,2020-01-10,8920\nC004,Bernard,Alain,a.bernard@hotmail.com,06.34.56.78.90,Perpignan,Occitanie,66000,Particulier,2023-05-03,540\nC005,Rousseau,Claire,c.rousseau@gmail.com,06.45.67.89.01,Béziers,Occitanie,34500,Particulier,2022-11-18,2100\nC006,Petit,Thomas,t.petit@yahoo.fr,06.56.78.90.12,Carcassonne,Occitanie,11000,Professionnel,2019-09-05,12450\nC007,Moreau,Isabelle,i.moreau@gmail.com,06.67.89.01.23,Sète,Occitanie,34200,Particulier,2023-01-27,890\nC008,Garcia,Pedro,p.garcia@orange.fr,06.78.90.12.34,Barcelone-sur-Mer,Occitanie,11210,Particulier,2021-04-14,1670\nC009,Lambert,Christine,c.lambert@sfr.fr,06.89.01.23.45,Alès,Occitanie,30100,Professionnel,2020-06-30,6340\nC010,Durand,Michel,m.durand@gmail.com,06.90.12.34.56,Montpellier,Occitanie,34090,Particulier,2022-08-09,3210\nC011,Simon,Nathalie,n.simon@orange.fr,04.68.12.34.56,Perpignan,Occitanie,66100,Professionnel,2018-12-01,18700\nC012,Laurent,François,f.laurent@gmail.com,06.11.22.33.44,Lunel,Occitanie,34400,",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-d1ac900ce4736af9076206042dc55342",
+    "file_path": "clients.csv",
+    "llm_cache_list": [
+      "default:extract:843071b1197c6b33bbccc8b108bd62a6",
+      "default:extract:ae3641d5d313716e0480f24bdcf3465b"
+    ],
+    "create_time": 1772138188,
+    "update_time": 1772138627,
+    "_id": "chunk-a9182e1d276ba49ac67c3295c10b4f86"
+  },
+  "chunk-b69996768b09b308d485bb643b5f7953": {
+    "tokens": 62,
+    "content": "00,Professionnel,2018-12-01,18700\nC012,Laurent,François,f.laurent@gmail.com,06.11.22.33.44,Lunel,Occitanie,34400,Particulier,2023-09-12,320",
+    "chunk_order_index": 1,
+    "full_doc_id": "doc-d1ac900ce4736af9076206042dc55342",
+    "file_path": "clients.csv",
+    "llm_cache_list": [
+      "default:extract:3f0585277ada487d38c3030c1699641a",
+      "default:extract:85a75c02a7c26172fc475ee5d8327c5e"
+    ],
+    "create_time": 1772138188,
+    "update_time": 1772139210,
+    "_id": "chunk-b69996768b09b308d485bb643b5f7953"
   },
   "chunk-f80c3b7b18652d381631bdeda4b50e51": {
     "tokens": 600,
@@ -91,10 +91,10 @@
     "file_path": "fournisseurs_certifications.txt",
     "llm_cache_list": [
       "default:extract:0a040650a717df194f02577a4c936b9a",
-      "default:extract:0051a71e513500d1e849b152513b1995"
+      "default:extract:2aa480094ba145adeaa62b1a0a21a57d"
     ],
-    "create_time": 1772089946,
-    "update_time": 1772089975,
+    "create_time": 1772138188,
+    "update_time": 1772138798,
     "_id": "chunk-f80c3b7b18652d381631bdeda4b50e51"
   },
   "chunk-8434a117d90418935fb7b78aa34e9666": {
@@ -105,10 +105,10 @@
     "file_path": "fournisseurs_certifications.txt",
     "llm_cache_list": [
       "default:extract:12954fd134ce3df323e852f55f69b9b6",
-      "default:extract:16551d2983081066c68ed2880b25b0dd"
+      "default:extract:390751d2dc5c5c29a69cc0f015064b56"
     ],
-    "create_time": 1772089946,
-    "update_time": 1772089997,
+    "create_time": 1772138188,
+    "update_time": 1772139239,
     "_id": "chunk-8434a117d90418935fb7b78aa34e9666"
   },
   "chunk-d0679196066b65302ba7e4d2cf604091": {
@@ -119,10 +119,10 @@
     "file_path": "fournisseurs_certifications.txt",
     "llm_cache_list": [
       "default:extract:bed9e12576cda404ae3729fc53e1c2dd",
-      "default:extract:beeae0712152e02bbdcd5c12aedb7cf7"
+      "default:extract:ce41202babd73acbfd3f7a820bef63d0"
     ],
-    "create_time": 1772089946,
-    "update_time": 1772090025,
+    "create_time": 1772138188,
+    "update_time": 1772139886,
     "_id": "chunk-d0679196066b65302ba7e4d2cf604091"
   },
   "chunk-8587ff3d505a48ce0efb049a438e0a51": {
@@ -133,10 +133,10 @@
     "file_path": "fournisseurs_certifications.txt",
     "llm_cache_list": [
       "default:extract:8fe84011733a5b9ea6501300af66a41c",
-      "default:extract:bb7775fda11179253c80f2fafec28e2e"
+      "default:extract:03ca9785933e7d401b195d08fff3a181"
     ],
-    "create_time": 1772089946,
-    "update_time": 1772090037,
+    "create_time": 1772138188,
+    "update_time": 1772139917,
     "_id": "chunk-8587ff3d505a48ce0efb049a438e0a51"
   }
 }

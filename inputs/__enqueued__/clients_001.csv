@@ -1,0 +1,13 @@
+id_client,nom,prenom,email,telephone,ville,region,code_postal,segment,date_inscription,fidélité_points
+C001,Dupont,Marie,marie.dupont@gmail.com,06.12.34.56.78,Montpellier,Occitanie,34000,Particulier,2022-03-15,1240
+C002,Martin,Jean-Paul,jp.martin@orange.fr,06.23.45.67.89,Toulouse,Occitanie,31000,Particulier,2021-07-22,3870
+C003,Lefevre,Sophie,slefevre@entreprise.fr,04.67.89.01.23,Nîmes,Occitanie,30000,Professionnel,2020-01-10,8920
+C004,Bernard,Alain,a.bernard@hotmail.com,06.34.56.78.90,Perpignan,Occitanie,66000,Particulier,2023-05-03,540
+C005,Rousseau,Claire,c.rousseau@gmail.com,06.45.67.89.01,Béziers,Occitanie,34500,Particulier,2022-11-18,2100
+C006,Petit,Thomas,t.petit@yahoo.fr,06.56.78.90.12,Carcassonne,Occitanie,11000,Professionnel,2019-09-05,12450
+C007,Moreau,Isabelle,i.moreau@gmail.com,06.67.89.01.23,Sète,Occitanie,34200,Particulier,2023-01-27,890
+C008,Garcia,Pedro,p.garcia@orange.fr,06.78.90.12.34,Barcelone-sur-Mer,Occitanie,11210,Particulier,2021-04-14,1670
+C009,Lambert,Christine,c.lambert@sfr.fr,06.89.01.23.45,Alès,Occitanie,30100,Professionnel,2020-06-30,6340
+C010,Durand,Michel,m.durand@gmail.com,06.90.12.34.56,Montpellier,Occitanie,34090,Particulier,2022-08-09,3210
+C011,Simon,Nathalie,n.simon@orange.fr,04.68.12.34.56,Perpignan,Occitanie,66100,Professionnel,2018-12-01,18700
+C012,Laurent,François,f.laurent@gmail.com,06.11.22.33.44,Lunel,Occitanie,34400,Particulier,2023-09-12,320
